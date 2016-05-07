@@ -1,0 +1,68 @@
+\documentclass[12pt,letterpaper]{article}
+\usepackage{ifpdf}
+\usepackage{mla13}
+\usepackage{fontspec}
+
+\setmainfont{Linux Libertine O}
+
+\usepackage{hyperref}
+\usepackage{hanging}
+\sources{word-paper.bib}
+
+%% redefining graphics
+
+\usepackage{graphicx}
+% Redefine \includegraphics so that, unless explicit options are
+% given, the image width will not exceed the width or the height of the page.
+% Images get their normal width if they fit onto the page, but
+% are scaled down if they would overflow the margins.
+\makeatletter
+\def\ScaleWidthIfNeeded{%
+ \ifdim\Gin@nat@width>\linewidth
+    \linewidth
+  \else
+    \Gin@nat@width
+  \fi
+}
+\def\ScaleHeightIfNeeded{%
+  \ifdim\Gin@nat@height>0.9\textheight
+    0.9\textheight
+  \else
+    \Gin@nat@width
+  \fi
+}
+\makeatother
+
+\setkeys{Gin}{width=\ScaleWidthIfNeeded,height=\ScaleHeightIfNeeded,keepaspectratio}%
+
+%% end redefining graphics
+
+%% redefine hyperlinks
+
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+\hypersetup{unicode=true,
+$if(title-meta)$
+            pdftitle={$title-meta$},
+$endif$
+$if(author-meta)$
+            pdfauthor={$author-meta$},
+$endif$
+$if(keywords)$
+            pdfkeywords={$for(keywords)$$keywords$$sep$; $endfor$},
+$endif$
+            colorlinks=true,
+            breaklinks=true}
+
+%% End redefine hyperlinks
+
+\begin{document}
+\firstname{Jonathan}
+\lastname{Reeve}
+\professor{Prof. Hart}
+\class{Late, Contemporary, Queer, Uneven}
+\title{$title$}
+\makeheader{}
+\thispagestyle{empty}
+$body$
+\end{document}
