@@ -1,66 +1,3 @@
-﻿The Project Gutenberg EBook of The Legacy of Cain, by Wilkie Collins
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: The Legacy of Cain
-
-Author: Wilkie Collins
-
-Posting Date: October 15, 2008 [EBook #1975]
-Release Date: November, 1999
-Last Updated: September 13, 2016
-
-Language: English
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE LEGACY OF CAIN ***
-
-
-
-
-Produced by James Rusk
-
-
-
-
-
-THE LEGACY OF CAIN
-
-By Wilkie Collins
-
-
-To
-
-MRS. HENRY POWELL BARTLEY:
-
-Permit me to add your name to my name, in publishing this novel. The
-pen which has written my books cannot be more agreeably employed than in
-acknowledging what I owe to the pen which has skillfully and patiently
-helped me, by copying my manuscripts for the printer.
-
-WILKIE COLLINS.
-
-Wimpole Street, 6th December, 1888.
-
-
-
-
-
-THE LEGACY OF CAIN.
-
-
-
-
-First Period: 1858-1859. EVENTS IN THE PRISON, RELATED BY THE GOVERNOR.
-
-
-
-CHAPTER I. THE GOVERNOR EXPLAINS.
 
 At the request of a person who has claims on me that I must not disown,
 I consent to look back through a long interval of years and to describe
@@ -89,7 +26,6 @@ man to speak the truth.
 
 
 
-CHAPTER II. THE MURDERESS ASKS QUESTIONS.
 
 The first of the events which I must now relate was the conviction of
 The Prisoner for the murder of her husband.
@@ -219,7 +155,6 @@ to state the circumstances to his reverend colleague.
 
 
 
-CHAPTER III. THE CHILD APPEARS.
 
 During my friend’s absence, my attention was claimed by a sad
 incident--not unforeseen.
@@ -293,7 +228,6 @@ has been placed in me--the trust which, please God, I mean to deserve.”
 My own observation of human nature told me that this was wisely said. I
 led the way at once to the cell.
 
-CHAPTER IV. THE MINISTER SAYS YES.
 
 The Prisoner was seated on her bed, quietly talking with the woman
 appointed to watch her. When she rose to receive us, I saw the Minister
@@ -528,7 +462,6 @@ to me; “how could I refuse?”
 
 
 
-CHAPTER V. MISS CHANCE ASSERTS HERSELF.
 
 The services of our medical officer were required, in order to hasten
 the recovery of the Prisoner’s senses.
@@ -778,7 +711,6 @@ the room.
 
 
 
-CHAPTER VI. THE DOCTOR DOUBTS.
 
 The Minister looked at me in an absent manner; his attention seemed to
 have been wandering. “What was it Miss Chance said?” he asked.
@@ -934,7 +866,6 @@ cell. The Prisoner wished to see the Governor and the Medical Officer.
 
 We set forth together for the condemned cell.
 
-CHAPTER VII. THE MURDERESS CONSULTS THE AUTHORITIES.
 
 There was a considerate side to my friend’s character, which showed
 itself when the warder had left us.
@@ -1094,7 +1025,6 @@ died game.’”
 
 
 
-CHAPTER VIII. THE MINISTER SAYS GOOD-BY.
 
 The Capital Punishment of the Prisoner is in no respect connected with
 my purpose in writing the present narrative. Neither do I desire
@@ -1222,7 +1152,6 @@ of the two would win.
 
 
 
-CHAPTER IX. THE GOVERNOR RECEIVES A VISIT.
 
 A few days after the good man had left us, I met with a serious
 accident, caused by a false step on the stone stairs of the prison.
@@ -1477,7 +1406,6 @@ heard her say that she understood me.”
 
 
 
-CHAPTER X. MISS CHANCE REAPPEARS.
 
 A week had passed, since the Minister’s wife had left me, when I
 received a letter from the Minister himself.
@@ -1712,7 +1640,6 @@ Second Period: 1875. THE GIRLS AND THE JOURNALS.
 
 
 
-CHAPTER XI. HELENA’S DIARY.
 
 We both said good-night, and went up to our room with a new object in
 view. By our father’s advice we had resolved on keeping diaries, for the
@@ -1942,7 +1869,6 @@ able to do it,” she answered; “but I promise to try.” Good Eunice!
 
 
 
-CHAPTER XII. EUNICE’S DIARY.
 
 The air of London feels very heavy. There is a nasty smell of smoke
 in London. There are too many people in London. They seem to be mostly
@@ -2161,7 +2087,6 @@ indeed be a simpleton, as Helena says. I had better go to bed again.
 
 
 
-CHAPTER XIII. EUNICE’S DIARY.
 
 Not long before I left home, I heard one of our two servants telling the
 other about a person who had been “bewitched.” Are you bewitched when
@@ -2568,7 +2493,6 @@ all that.
 
 
 
-CHAPTER XIV. HELENA’S DIARY.
 
 To-day I went as usual to the Scripture-class for girls. It was harder
 work than ever, teaching without Eunice to help me. Indeed, I felt
@@ -2890,7 +2814,6 @@ my waist from behind. A voice, so close that it tickled my neck, said:
 “Dear girl, what friends we shall be!” I turned round, and confronted
 Miss Jillgall.
 
-CHAPTER XV. HELENA’S DIARY.
 
 If I am not a good girl, where is a good girl to be found? This is in
 Eunice’s style. It sometimes amuses me to mimic my simple sister.
@@ -3109,7 +3032,6 @@ room with my hands over my ears.
 
 
 
-CHAPTER XVI. HELENA’S DIARY.
 
 When I reached the foot of the stairs, my father called me into his
 study.
@@ -3304,7 +3226,6 @@ Chance.”
 
 
 
-CHAPTER XVII. HELENA’S DIARY.
 
 Miss Jillgall joined us at the dinner-table, in a state of excitement,
 carrying a book in her hand.
@@ -3510,7 +3431,6 @@ remarkable by her ugly foreign name--MRS. TENBRUGGEN.
 
 
 
-CHAPTER XVIII. EUNICE’S DIARY.
 
 Here I am, writing my history of myself, once more, by my own bedside.
 Some unexpected events have happened while I have been away. One of them
@@ -3692,7 +3612,6 @@ this?
 
 
 
-CHAPTER XIX. EUNICE’S DIARY.
 
 When people are interested in some event that is coming, do they find
 the dull days, passed in waiting for it, days which they are not able to
@@ -3933,7 +3852,6 @@ for that day; the trees hid him; I was left by myself.
 
 
 
-CHAPTER XX. EUNICE’S DIARY.
 
 How long a time passed before my composure came back to me, I cannot
 remember now. It seemed as if I was waiting through some interval of my
@@ -4085,7 +4003,6 @@ amusement, Helena herself.
 
 
 
-CHAPTER XXI. HELENA’S DIARY.
 
 The day of my return marks an occasion which I am not likely to forget.
 Hours have passed since I came home--and my agitation still forbids the
@@ -4283,7 +4200,6 @@ should be scratched out.
 
 
 
-CHAPTER XXII. EUNICE’S DIARY.
 
 I said so to Miss Jillgall, and I say it again here. Nothing will induce
 me to think ill of Helena.
@@ -4411,7 +4327,6 @@ turn up again when we least expect it.”
 
 
 
-CHAPTER XXIII. EUNICE’S DIARY.
 
 Only two days now, before we give our little dinner-party, and Philip
 finds his opportunity of speaking to papa. Oh, how I wish that day had
@@ -4557,7 +4472,6 @@ hilarity as I did.
 
 
 
-CHAPTER XXIV. EUNICE’S DIARY.
 
 On entering the schoolroom we lost our gayety, all in a moment.
 Something unpleasant had evidently happened.
@@ -4737,7 +4651,6 @@ Mrs. Philip Dunboyne before the year is out.
 
 
 
-CHAPTER XXV. HELENA’S DIARY.
 
 They all notice at home that I am looking worn and haggard. That hideous
 old maid, Miss Jillgall, had her malicious welcome ready for me when
@@ -4880,7 +4793,6 @@ serious mistake.
 
 
 
-CHAPTER XXVI. HELENA’S DIARY.
 
 The event of to-day began with the delivery of a message summoning me to
 my father’s study. He had decided--too hastily, as I feared--that he was
@@ -5085,7 +4997,6 @@ that the event of to-day will decide his future and mine.
 
 
 
-CHAPTER XXVII. EUNICE’S DIARY.
 
 Indeed, I am a most unfortunate creature; everything turns out badly
 with me. My good, true friend, my dear Selina, has become the object of
@@ -5359,7 +5270,6 @@ Wait for her, after reading that note! How could she expect it? I had
 only to follow her, and to find Philip. In another minute, I was on my
 way to the hotel.
 
-CHAPTER XXVIII. HELENA’S DIARY.
 
 Looking at the last entry in my Journal, I see myself anticipating
 that the event of to-day will decide Philip’s future and mine. This has
@@ -5486,7 +5396,6 @@ to her companion--the hideous traitress who was my enemy and her friend.
 
 
 
-CHAPTER XXIX. HELENA’S DIARY.
 
 On reaching the street which led to Philip’s hotel, we spoke to each
 other for the first time.
@@ -5655,7 +5564,6 @@ what has happened. I begin already to feel hopeful of the future.
 
 
 
-CHAPTER XXX. EUNICE’S DIARY.
 
 Through the day, and through the night, I feel a misery that never
 leaves me--I mean the misery of fear.
@@ -5973,7 +5881,6 @@ composed.
 
 
 
-CHAPTER XXXI. EUNICE’S DIARY.
 
 My restless nights are passed in Selina’s room.
 
@@ -6250,7 +6157,6 @@ EVENTS IN THE FAMILY, RELATED BY THE GOVERNOR. ----
 
 
 
-CHAPTER XXXII. THE MIDDLE-AGED LADY.
 
 In the year 1870 I found myself compelled to submit to the demands of
 two hard task-masters.
@@ -6294,7 +6200,6 @@ dangerous illness of one of my sons. This misfortune hurried me back to
 England, in dread, every step of the way, of finding that I had arrived
 too late. The journey (thank God!) proved to have been taken without
 need. My son was no longer in danger, when I reached London in the year
-1875.
 
 At that date I was near enough to the customary limit of human life to
 feel the necessity of rest and quiet. In other words, my days of travel
@@ -6478,7 +6383,6 @@ The lady stole another look at me, before she replied.
 
 
 
-CHAPTER XXXIII. THE MINISTER’S MISFORTUNE.
 
 “Do you know that lady?” Miss Helena asked, as we entered the house.
 
@@ -6737,7 +6641,6 @@ room.
 
 
 
-CHAPTER XXXIV. THE LIVELY OLD MAID.
 
 A perfect stranger to the interior of the house (seeing that my
 experience began and ended with the Minister’s bedchamber), I
@@ -6912,7 +6815,6 @@ said. “Come with me.”
 
 
 
-CHAPTER XXXV. THE FUTURE LOOKS GLOOMY.
 
 My ever-helpful guide led me to my room--well out of Mr. Gracedieu’s
 hearing, if he happened to be awake--at the other end of the passage.
@@ -7149,7 +7051,6 @@ I waited anxiously for what he might say to me next.
 
 
 
-CHAPTER XXXVI. THE WANDERING MIND.
 
 For the moment, the Minister disappointed me.
 
@@ -7377,7 +7278,6 @@ question. Oh, for shame! I’ll post the letter myself.”
 
 
 
-CHAPTER XXXVII. THE SHAMELESS SISTER.
 
 For some reason, which my unassisted penetration was unable to discover,
 Miss Helena Gracedieu kept out of my way.
@@ -7813,7 +7713,6 @@ maid-servant again. Was it possible she had been sent by Helena?
 
 
 
-CHAPTER XXXVIII. THE GIRLS’ AGES.
 
 Had the Minister’s desire to see me been inspired by his daughter’s
 betrayal of what I had unfortunately said to her? Although he would
@@ -8051,7 +7950,6 @@ The Minister’s eyes opened instantly: he raised himself in his bed.
 
 
 
-CHAPTER XXXIX. THE ADOPTED CHILD
 
 I opened the door.
 
@@ -8146,7 +8044,6 @@ Eunice kissed his forehead--and we left the room.
 
 
 
-CHAPTER XL. THE BRUISED HEART.
 
 When we stepped out on the landing, I observed that my companion paused.
 She looked at the two flights of stairs below us before she descended
@@ -8451,7 +8348,6 @@ and she approached us with a smile.
 
 
 
-CHAPTER XLI. THE WHISPERING VOICE.
 
 I looked at Eunice. She had risen, startled by her first suspicion of
 the person who was approaching us through the shrubbery; but she kept
@@ -8682,7 +8578,6 @@ She resolutely interrupted me: “No!”
 
 
 
-CHAPTER XLII. THE QUAINT PHILOSOPHER.
 
 No person came to my room, and nothing happened to interrupt me while I
 was reading Mr. Philip Dunboyne’s letters.
@@ -8897,7 +8792,6 @@ becoming emotions of sorrow and shame.
 
 
 
-CHAPTER XLIII. THE MASTERFUL MASSEUSE.
 
 My next quotations will suffer a process of abridgment. I intend them to
 present the substance of three letters, reduced as follows:
@@ -9107,7 +9001,6 @@ recognize the writing?”
 
 
 
-CHAPTER XLIV. THE RESURRECTION OF THE PAST.
 
 After having identified my handwriting, I waited with some curiosity to
 see whether Helena would let her anger honestly show itself, or whether
@@ -9250,7 +9143,6 @@ Pray remember that. I will be within call, in case of your wanting me.”
 
 
 
-CHAPTER XLV. THE FATAL PORTRAIT.
 
 I knocked at the bedroom door.
 
@@ -9572,7 +9464,6 @@ and saw the doctor at the open door.
 
 
 
-CHAPTER XLVI. THE CUMBERSOME LADIES.
 
 I cannot prevail upon myself to dwell at any length on the events that
 followed.
@@ -9729,7 +9620,6 @@ pleasure.”
 
 
 
-CHAPTER XLVII. THE JOURNEY TO THE FARM.
 
 My first ungrateful impulse was to get rid of the two cumbersome ladies
 who had offered to be my companions. It was needless to call upon my
@@ -9981,7 +9871,6 @@ me the truth, might be quite another thing.
 
 
 
-CHAPTER XLVIII. THE DECISION OF EUNICE.
 
 Eunice ran out to meet us, and opened the gate. She was instantly folded
 in Miss Jillgall’s arms. On her release, she came to me, eager for news
@@ -10183,7 +10072,6 @@ say no more.”
 
 
 
-CHAPTER XLIX. THE GOVERNOR ON HIS GUARD.
 
 After leaving Eunice, my one desire was to be alone. I had much to think
 of, and I wanted an opportunity of recovering myself. On my way out of
@@ -10334,7 +10222,6 @@ write no more.”
 
 
 
-CHAPTER L. THE NEWS FROM THE FARM.
 
 When I next heard from Miss Jillgall, the introductory part of her
 letter merely reminded me that Philip Dunboyne was established in the
@@ -10435,7 +10322,6 @@ letter comes to an end.
 
 
 
-CHAPTER LI. THE TRIUMPH OF MRS. TENBRUGGEN.
 
 Miss Jillgall appears again, after an interval, on the field of my
 extracts. My pleasant friend deserves this time a serious reception. She
@@ -10718,7 +10604,6 @@ Third period: 1876. _HELENA’S DIARY RESUMED._
 
 
 
-CHAPTER LII. HELENA’S DIARY RESUMED.
 
 While my father remains in his present helpless condition, somebody must
 assume a position of command in this house. There cannot be a moment’s
@@ -10912,7 +10797,6 @@ both!
 
 
 
-CHAPTER LIII. HELENA’S DIARY RESUMED.
 
 After the heat of my anger had cooled, I made two discoveries. One cost
 me a fee to a messenger, and the other exposed me to the insolence of
@@ -11057,7 +10941,6 @@ anything about Philip, I wonder?
 
 
 
-CHAPTER LIV. HELENA’S DIARY RESUMED.
 
 At our interview of the next day, Mrs. Tenbruggen’s capacity for
 self-reform appeared under a new aspect. She dropped all familiarity
@@ -11239,7 +11122,6 @@ Tenbruggen. Think of it.”
 
 
 
-CHAPTER LV. HELENA’S DIARY RESUMED.
 
 I did think of it. Philip came to us, and lived in our house.
 
@@ -11463,7 +11345,6 @@ We followed the chaise.
 
 
 
-CHAPTER LVI. HELENA’S DIARY RESUMED.
 
 When we had left the town behind us, the coachman began to drive more
 slowly. In my ignorance, I asked what this change in the pace meant.
@@ -11649,7 +11530,6 @@ such a thing of a woman, but if you will have the truth--”
 
 
 
-CHAPTER LVII. HELENA’S DIARY RESUMED.
 
 So it was all settled between them. Philip is to throw me away, like one
 of his bad cigars, for this unanswerable reason: “Helena disgusts me.”
@@ -11917,7 +11797,6 @@ _EVENTS IN THE FAMILY, RELATED BY MISS JILLGALL._
 
 
 
-CHAPTER LVIII. DANGER.
 
 “If anything of importance happens, I trust to you to write an account
 of it, and to send the writing to me. I will come to you at once, if
@@ -12132,7 +12011,6 @@ Euneece herself.
 
 
 
-CHAPTER LIX. DEFENSE.
 
 One surprise followed another, after I had encountered Euneece at the
 door.
@@ -12327,7 +12205,6 @@ true--I felt like a sleeper, who has half-awakened from a dream.
 
 
 
-CHAPTER LX. DISCOVERY.
 
 A little later, on that eventful day, when I was most in need of all
 that your wisdom and kindness could do to guide me, came the telegram
@@ -12550,7 +12427,6 @@ in her pocket; and I kept the key of the dining-room door in mine.
 
 
 
-CHAPTER LXI. ATROCITY.
 
 On the next day, a Tuesday in the week, an event took place which
 Euneece and I viewed with distrust. Early in the afternoon, a young man
@@ -12743,7 +12619,6 @@ _TROUBLES AND TRIUMPHS OF THE FAMILY, RELATED BY THE GOVERNOR._
 
 
 
-CHAPTER LXII. THE SENTENCE PRONOUNCED.
 
 MARTYRS to gout know, by sad experience, that they suffer under one of
 the most capricious of maladies. An attack of this disease will shift,
@@ -12890,7 +12765,6 @@ shame, or hope of making atonement, in Helena’s nature.”
 
 
 
-CHAPTER LXIII. THE OBSTACLE REMOVED.
 
 When the subject of the trial was happily dismissed, my first inquiry
 related to Eunice. The reply was made with an ominous accompaniment of
@@ -13197,7 +13071,6 @@ The deed was done.
 
 
 
-CHAPTER LXIV. THE TRUTH TRIUMPHANT.
 
 The marriage was deferred, at Eunice’s request, as an expression of
 respect to the memory of Philip’s father.
@@ -13475,364 +13348,3 @@ Mr. Governor, Solomon was nothing to You!”
 
 
 
-End of the Project Gutenberg EBook of The Legacy of Cain, by Wilkie Collins
-
-*** END OF THIS PROJECT GUTENBERG EBOOK THE LEGACY OF CAIN ***
-
-***** This file should be named 1975-0.txt or 1975-0.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/1/9/7/1975/
-
-Produced by James Rusk
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  “Project Gutenberg” is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation (“the Foundation”
- or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase “Project Gutenberg” appears, or with which the phrase “Project
-Gutenberg” is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase “Project Gutenberg” associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-“Plain Vanilla ASCII” or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original “Plain Vanilla ASCII” or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, “Information about donations to
-     the Project Gutenberg Literary Archive Foundation.”
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-“Defects,” such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’ WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm’s
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation’s EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state’s laws.
-
-The Foundation’s principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation’s web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

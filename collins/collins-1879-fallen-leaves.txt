@@ -1,59 +1,3 @@
-﻿The Project Gutenberg EBook of The Fallen Leaves, by Wilkie Collins
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: The Fallen Leaves
-
-Author: Wilkie Collins
-
-Release Date: April, 2005 [EBook #7894]
-Posting Date: July 26, 2009
-Last Updated: September 11, 2016
-
-Language: English
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE FALLEN LEAVES ***
-
-
-
-
-Produced by James Rusk
-
-
-
-
-
-THE FALLEN LEAVES
-
-By Wilkie Collins
-
-
-To CAROLINE
-
-Experience of the reception of _The Fallen Leaves_ by intelligent
-readers, who have followed the course of the periodical publication at
-home and abroad, has satisfied me that the design of the work speaks
-for itself, and that the scrupulous delicacy of treatment, in certain
-portions of the story, has been as justly appreciated as I could wish.
-Having nothing to explain, and (so far as my choice of subject is
-concerned) nothing to excuse, I leave my book, without any prefatory
-pleading for it, to make its appeal to the reading public on such merits
-as it may possess.
-
-W. C. GLOUCESTER PLACE, LONDON July 1st, 1879
-
-
-
-
-THE PROLOGUE
-
-I
 
 The resistless influences which are one day to reign supreme over
 our poor hearts, and to shape the sad short course of our lives, are
@@ -74,7 +18,6 @@ business of the story to trace, over land and sea, among men and women,
 in bright days and dull days alike, until the end is reached, and the
 pen (God willing) is put back in the desk.
 
-II
 
 Old Benjamin Ronald (of the Stationers’ Company) took a young wife at
 the ripe age of fifty, and carried with him into the holy estate of
@@ -192,7 +135,6 @@ liberty, while he lay awake alone in his bed. “Damn the woman! What
 does she mean?” The cry of the soul utters itself in various forms of
 expression. That was the cry of Old Ronald’s soul, literally translated.
 
-III
 
 The next morning brought him a letter from Ramsgate.
 
@@ -371,7 +313,6 @@ parting directions, heedless of the effect that he had produced on the
 clerk, he looked at his watch, and left the shop.
 
 
-IV
 
 The bell which gave five minutes’ notice of the starting of the Ramsgate
 train had just rung.
@@ -421,7 +362,6 @@ her corner to go to sleep. The train started. Old Ronald travelled by
 the second class; his porter and his porter’s companion accompanied him
 secretly by the third.
 
-V
 
 It was still early in the afternoon when Mr. Ronald descended the narrow
 street which leads from the high land of the South-Eastern railway
@@ -629,7 +569,6 @@ moment more, the handle of the parlour door was turned. He rose, in
 anticipation of Mrs. Turner’s appearance. The door opened. He found
 himself face to face with his wife.
 
-VI
 
 John Farnaby, posted at the garden paling, suddenly lifted his head and
 looked towards the open window of the back parlour. He reflected for a
@@ -867,7 +806,6 @@ BOOK THE FIRST. AMELIUS AMONG THE SOCIALISTS
 
 
 
-CHAPTER 1
 
 Sixteen years after the date of Mr. Ronald’s disastrous discovery at
 Ramsgate--that is to say, in the year 1872--the steamship _Aquila_ left
@@ -1075,7 +1013,6 @@ addressed as follows:--
 
 
 
-CHAPTER 2
 
 Mr. Hethcote looked at the address on the letter with an expression of
 surprise, which did not escape the notice of Amelius. “Do you know Mr.
@@ -1387,7 +1324,6 @@ described in the newspaper heading as “Miss Mellicent and Goldenheart
 among the Socialists at Tadmor.”
 
 
-CHAPTER 3
 
 “Nearly six months since,” said Amelius, “we had notice by letter of the
 arrival of an unmarried English lady, who wished to become a member of
@@ -1569,7 +1505,6 @@ while. Mellicent is in love with you.’”
 
 
 
-CHAPTER 4
 
 Amelius looked at his companions, in some doubt whether they would
 preserve their gravity at this critical point in his story. They both
@@ -1769,7 +1704,6 @@ narrative was resumed.
 
 
 
-CHAPTER 5
 
 Mr. Hethcote was the first to speak again.
 
@@ -1980,7 +1914,6 @@ BOOK THE SECOND. AMELIUS IN LONDON
 
 
 
-CHAPTER 1
 
 Oh, Rufus Dingwell, it is such a rainy day! And the London street which
 I look out on from my hotel window presents such a dirty and such a
@@ -2628,7 +2561,6 @@ handwriting of Rufus Dingwell.]
 
 
 
-CHAPTER 2
 
 I particularly want you to come and lunch with us, dearest Cecilia, the
 day after tomorrow. Don’t say to yourself, “The Farnaby’s house is dull,
@@ -2834,7 +2766,6 @@ BOOK THE THIRD. MRS. FARNABY’S FOOT
 
 
 
-CHAPTER 1
 
 It is an afternoon concert; and modern German music was largely
 represented on the programme. The patient English people sat in
@@ -3230,7 +3161,6 @@ turned the key in the lock.
 
 
 
-CHAPTER 2
 
 Amelius rose impulsively from his chair.
 
@@ -3631,7 +3561,6 @@ advanced along the hall, and met Regina at the door of the dining-room.
 
 
 
-CHAPTER 3
 
 The young lady spoke first.
 
@@ -3906,7 +3835,6 @@ tomorrow.”
 
 
 
-CHAPTER 4
 
 Returning to his hotel, he found three letters waiting for him on the
 sitting-room table.
@@ -4022,7 +3950,6 @@ BOOK THE FOURTH. LOVE AND MONEY
 
 
 
-CHAPTER 1
 
 In an interval of no more than three weeks what events may not present
 themselves? what changes may not take place? Behold Amelius, on the
@@ -4425,7 +4352,6 @@ residence.
 
 
 
-CHAPTER 2
 
 The rain that had begun with the morning still poured on steadily in the
 afternoon. After one look out of the window, Regina decided on passing
@@ -4700,7 +4626,6 @@ the woman’s eyes that disturbed and daunted him.
 
 
 
-CHAPTER 3
 
 Rufus found his friend at the lodgings, prostrate on the sofa, smoking
 furiously. Before a word had passed between them, it was plain to the
@@ -4898,7 +4823,6 @@ shall find it here.”
 
 
 
-CHAPTER 4
 
 The medium of correspondence between Amelius and Regina’s maid was an
 old woman who kept a shop for the sale of newspapers and periodicals,
@@ -5353,7 +5277,6 @@ BOOK THE FIFTH. THE FATAL LECTURE
 
 
 
-CHAPTER 1
 
 Late that night Amelius sat alone in his room, making notes for the
 lecture which he had now formally engaged himself to deliver in a week’s
@@ -5612,7 +5535,6 @@ this particular, before it was too late.
 
 
 
-CHAPTER 2
 
 Mrs. Farnaby stood at the door of her own room, and looked at her niece
 with an air of contemptuous curiosity.
@@ -5775,7 +5697,6 @@ seen either of them since.
 
 
 
-CHAPTER 3
 
 Entering the hall, Mr. Farnaby discovered without difficulty the
 position of modest retirement of which he was in search.
@@ -6269,7 +6190,6 @@ shall stay here.”
 
 
 
-CHAPTER 4
 
 “Three dozen oysters, bread-and-butter, and bottled stout; a private
 room and a good fire.” Issuing these instructions, on his arrival at the
@@ -6717,7 +6637,6 @@ one!” he said to himself, as he hurried back to the private room.
 
 
 
-CHAPTER 5
 
 Some men would have found it no easy task to console Phoebe, under
 the circumstances. Jervy had the immense advantage of not feeling
@@ -7006,7 +6925,6 @@ by no means eager to renew his former acquaintance with Amelius.
 
 
 
-CHAPTER 6
 
 Rufus and his young friend walked together silently as far as a large
 square. Here they stopped, having reached the point at which it was
@@ -7190,7 +7108,6 @@ BOOK THE SIXTH. FILIA DOLOROSA
 
 
 
-CHAPTER 1
 
 Amelius found it no easy matter to pass quickly through the people
 loitering and gossiping about him. There was greater freedom for a rapid
@@ -7576,7 +7493,6 @@ He started up, and looked at the bedroom door. “Now what is to be done?”
 responsibilities at last.
 
 
-CHAPTER 2
 
 The landlady of the lodgings decided what was to be done.
 
@@ -7780,7 +7696,6 @@ man driving by in a cab leaned out and looked at him. The young man was
 Jervy, on his way from Mr. Ronald’s tombstone to Doctors’ Commons.
 
 
-CHAPTER 3
 
 With a rapid succession of events the morning had begun. With a rapid
 succession of events the day went on.
@@ -8218,7 +8133,6 @@ envelope, marked “Private.” He posted it, that night, with his own hand.
 
 
 
-CHAPTER 4
 
 “Rufus! I don’t quite like the way you look at me. You seem to think--”
 
@@ -8472,7 +8386,6 @@ charmingly. She was hard at work again over her embroidery.
 
 
 
-CHAPTER 5
 
 The door of Mrs. Farnaby’s ground-floor room, at the back of the house,
 was partially open. She was on the watch for Amelius.
@@ -8738,7 +8651,6 @@ closed it behind her--never to return to it again.
 
 
 
-CHAPTER 6
 
 Amelius left Mrs. Farnaby, troubled by emotions of confusion and alarm,
 which he was the last man living to endure patiently. Her extraordinary
@@ -9032,7 +8944,6 @@ BOOK THE SEVENTH. THE VANISHING HOPES
 
 
 
-CHAPTER 1
 
 Two days later, Amelius moved into his cottage.
 
@@ -9368,7 +9279,6 @@ and shook his head ominously as he shut the door.
 
 
 
-CHAPTER 2
 
 Amelius went straight back to the cottage, with the one desperate
 purpose of reverting to the old plan, and burying himself in his books.
@@ -9654,7 +9564,6 @@ pleased to ring when you and the young lady are ready.”
 
 
 
-CHAPTER 3
 
 Toff’s interference proved to have its use. The announcement of
 the little supper--plainly implying Simple Sally’s reception at the
@@ -9930,7 +9839,6 @@ How indeed!
 
 
 
-CHAPTER 4
 
 At eight o’clock the next morning, Amelius was awakened by Toff. A
 letter had arrived, marked “Immediate,” and the messenger was waiting
@@ -10196,7 +10104,6 @@ foot with the blister?”
 
 
 
-CHAPTER 5
 
 “Let me see the blister,” said Amelius.
 
@@ -10545,7 +10452,6 @@ prescription made up, the clock downstairs struck eleven.
 
 
 
-CHAPTER 6
 
 Toff returned to the cottage, with the slippers and the stockings.
 
@@ -10832,7 +10738,6 @@ BOOK THE EIGHTH. DAME NATURE DECIDES
 
 
 
-CHAPTER 1
 
 The day which had united the mother and daughter, only to part them
 again in this world for ever, had advanced to evening.
@@ -11208,7 +11113,6 @@ he left his friend in a high fever.
 
 
 
-CHAPTER 2
 
 The inquiry into the circumstances under which Mrs. Farnaby had died was
 held in the forenoon of the next day.
@@ -11473,7 +11377,6 @@ was, from that fatal moment, turned irrevocably into a new course.
 
 
 
-CHAPTER 3
 
 On the conclusion of the proceedings, Mr. Melton, having no further
 need of Amelius or the lawyer, drove away by himself. But he was too
@@ -11667,7 +11570,6 @@ with news that Jervy was found.
 
 
 
-CHAPTER 4
 
 “Where has he been found?” Amelius asked, snatching up his hat.
 
@@ -11898,7 +11800,6 @@ modern times.
 
 
 
-CHAPTER 5
 
 The last dreary days of November came to their end.
 
@@ -12233,7 +12134,6 @@ future take care of itself!”
 
 
 
-CHAPTER 6
 
 The capricious influences which combine to make us happy are never so
 certain to be absent influences as when we are foolish enough to talk
@@ -12442,7 +12342,6 @@ Paris.
 
 
 
-CHAPTER 7
 
 On the morning when Amelius and Sally (in London) entered the church to
 look at the wedding. Rufus (in Paris) went to the Champs Elysees to take
@@ -12606,7 +12505,6 @@ that don’t wear well, and won’t stand washing.”
 
 
 
-CHAPTER 8
 
 Early the next morning, Rufus rang at the cottage gate.
 
@@ -12928,7 +12826,6 @@ other in silence. Sally was gone.
 
 
 
-CHAPTER 9
 
 Toff was the first who recovered himself.
 
@@ -13153,7 +13050,6 @@ Buildings; there’s the address. Good night.”
 
 
 
-CHAPTER 10
 
 After Amelius had left him, Rufus remembered his promise to communicate
 with Regina by telegraph.
@@ -13414,7 +13310,6 @@ cottage gate, “is not over yet.”
 
 
 
-CHAPTER 11
 
 The day on which worthy old Surgeon Pinfold had predicted that Sally
 would be in a fair way of recovery had come and gone; and still the
@@ -13776,7 +13671,6 @@ his fiddle; and Toff’s boy was dancing to his father’s music.
 
 
 
-CHAPTER 12
 
 After waiting a day or two for news from Amelius, and hearing nothing,
 Rufus went to make inquiries at the cottage.
@@ -13895,364 +13789,3 @@ THE END
 
 
 
-End of the Project Gutenberg EBook of The Fallen Leaves, by Wilkie Collins
-
-*** END OF THIS PROJECT GUTENBERG EBOOK THE FALLEN LEAVES ***
-
-***** This file should be named 7894-0.txt or 7894-0.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/7/8/9/7894/
-
-Produced by James Rusk
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  “Project Gutenberg” is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation (“the Foundation”
- or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase “Project Gutenberg” appears, or with which the phrase “Project
-Gutenberg” is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase “Project Gutenberg” associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-“Plain Vanilla ASCII” or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original “Plain Vanilla ASCII” or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, “Information about donations to
-     the Project Gutenberg Literary Archive Foundation.”
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-“Defects,” such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’ WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm’s
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation’s EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state’s laws.
-
-The Foundation’s principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation’s web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

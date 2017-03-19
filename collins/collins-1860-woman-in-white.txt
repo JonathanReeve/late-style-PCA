@@ -1,122 +1,3 @@
-﻿The Project Gutenberg EBook of The Woman in White, by Wilkie Collins
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-
-Title: The Woman in White
-
-Author: Wilkie Collins
-
-Posting Date: September 13, 2008 [EBook #583]
-Release Date: July, 1996
-Last updated: January 22, 2009
-
-Language: English
-
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE WOMAN IN WHITE ***
-
-
-
-
-
-
-
-
-
-
-
-
-
-The Woman in White
-
-
-by
-
-Wilkie Collins
-
-
-
-
-CONTENTS
-
-First Epoch
-
-  THE STORY BEGUN BY WALTER HARTRIGHT
-  THE STORY CONTINUED BY VINCENT GILMORE
-  THE STORY CONTINUED BY MARIAN HALCOMBE
-
-
-Second Epoch
-
-  THE STORY CONTINUED BY MARIAN HALCOMBE.
-  THE STORY CONTINUED BY FREDERICK FAIRLIE, ESQ.
-  THE STORY CONTINUED BY ELIZA MICHELSON
-  THE STORY CONTINUED IN SEVERAL NARRATIVES
-
-     THE NARRATIVE OF HESTER PINHORN
-     THE NARRATIVE OF THE DOCTOR
-     THE NARRATIVE OF JANE GOULD
-     THE NARRATIVE OF THE TOMBSTONE
-     THE NARRATIVE OF WALTER HARTRIGHT
-
-
-Third Epoch
-
-  THE STORY CONTINUED BY WALTER HARTRIGHT.
-  THE STORY CONTINUED BY MRS. CATHERICK
-  THE STORY CONTINUED BY WALTER HARTRIGHT
-  THE STORY CONTINUED BY ISIDOR, OTTAVIO, BALDASSARE FOSCO
-  THE STORY CONCLUDED BY WALTER HARTRIGHT
-
-
-
-
-THE STORY BEGUN BY WALTER HARTRIGHT
-
-(of Clement's Inn, Teacher of Drawing)
-
-
-This is the story of what a Woman's patience can endure, and what a
-Man's resolution can achieve.
-
-If the machinery of the Law could be depended on to fathom every case
-of suspicion, and to conduct every process of inquiry, with moderate
-assistance only from the lubricating influences of oil of gold, the
-events which fill these pages might have claimed their share of the
-public attention in a Court of Justice.
-
-But the Law is still, in certain inevitable cases, the pre-engaged
-servant of the long purse; and the story is left to be told, for the
-first time, in this place.  As the Judge might once have heard it, so
-the Reader shall hear it now.  No circumstance of importance, from the
-beginning to the end of the disclosure, shall be related on hearsay
-evidence.  When the writer of these introductory lines (Walter
-Hartright by name) happens to be more closely connected than others
-with the incidents to be recorded, he will describe them in his own
-person.  When his experience fails, he will retire from the position of
-narrator; and his task will be continued, from the point at which he
-has left it off, by other persons who can speak to the circumstances
-under notice from their own knowledge, just as clearly and positively
-as he has spoken before them.
-
-Thus, the story here presented will be told by more than one pen, as
-the story of an offence against the laws is told in Court by more than
-one witness--with the same object, in both cases, to present the truth
-always in its most direct and most intelligible aspect; and to trace
-the course of one complete series of events, by making the persons who
-have been most closely connected with them, at each successive stage,
-relate their own experience, word for word.
-
-Let Walter Hartright, teacher of drawing, aged twenty-eight years, be
-heard first.
-
-
-
-II
 
 It was the last day of July.  The long hot summer was drawing to a
 close; and we, the weary pilgrims of the London pavement, were
@@ -250,7 +131,6 @@ of my life.
 
 
 
-III
 
 Pesca's face and manner, on the evening when we confronted each other
 at my mother's gate, were more than sufficient to inform me that
@@ -614,7 +494,6 @@ the Hampstead cottage and bid my mother and Sarah good-bye.
 
 
 
-IV
 
 The heat had been painfully oppressive all day, and it was now a close
 and sultry night.
@@ -1013,7 +892,6 @@ Drive on."
 
 
 
-V
 
 "She has escaped from my Asylum!"
 
@@ -1100,7 +978,6 @@ inmates, even by sight!
 
 
 
-VI
 
 When I rose the next morning and drew up my blind, the sea opened
 before me joyously under the broad August sunlight, and the distant
@@ -1373,7 +1250,6 @@ Fairlie.
 
 
 
-VII
 
 My conductor led me upstairs into a passage which took us back to the
 bedchamber in which I had slept during the past night; and opening the
@@ -1684,7 +1560,6 @@ in white.
 
 
 
-VIII
 
 When I entered the room, I found Miss Halcombe and an elderly lady
 seated at the luncheon-table.
@@ -2303,7 +2178,6 @@ it, this time, of the lightest and liveliest kind."
 
 
 
-IX
 
 So ended my eventful first day at Limmeridge House.
 
@@ -2507,7 +2381,6 @@ Limmeridge House.
 
 
 
-X
 
 It was on a Thursday in the week, and nearly at the end of the third
 month of my sojourn in Cumberland.
@@ -2890,7 +2763,6 @@ She paused for a moment, and then answered, rather coldly--
 
 
 
-XI
 
 Not a word more was said, on either side, as we walked back to the
 house.  Miss Halcombe hastened immediately to her sister's room, and I
@@ -3192,7 +3064,6 @@ The village lay southward of the house.  So to the village we went next.
 
 
 
-XII
 
 Our inquiries at Limmeridge were patiently pursued in all directions,
 and among all sorts and conditions of people.  But nothing came of
@@ -3571,7 +3442,6 @@ my eyes on the white cross that rose over Mrs. Fairlie's grave.
 
 
 
-XIII
 
 The exposed situation of the churchyard had obliged me to be cautious
 in choosing the position that I was to occupy.
@@ -4205,7 +4075,6 @@ last I was to see in this weary world of the woman in white.
 
 
 
-XIV
 
 Half an hour later I was back at the house, and was informing Miss
 Halcombe of all that had happened.
@@ -4538,7 +4407,6 @@ Fairlie shall never be his wife."
 
 
 
-XV
 
 As we walked round to the front of the house a fly from the railway
 approached us along the drive.  Miss Halcombe waited on the door-steps
@@ -5047,7 +4915,6 @@ THE STORY CONTINUED BY VINCENT GILMORE
 
 
 
-I
 
 I write these lines at the request of my friend, Mr. Walter Hartright.
 They are intended to convey a description of certain events which
@@ -5441,7 +5308,6 @@ philosophically to walk it off.
 
 
 
-II
 
 We all met again at dinner-time.
 
@@ -5883,7 +5749,6 @@ the marriage settlement of his wife.
 
 
 
-III
 
 A week passed, after my return to London, without the receipt of any
 communication from Miss Halcombe.
@@ -6305,7 +6170,6 @@ say I felt more than doubtful about Mr. Hartright's future.
 
 
 
-IV
 
 Leaving by an early train, I got to Limmeridge in time for dinner. The
 house was oppressively empty and dull.  I had expected that good Mrs.
@@ -7254,7 +7118,6 @@ absence?
 
 
 
-II
 
 
 LIMMERIDGE HOUSE.
@@ -7907,7 +7770,6 @@ THE SECOND EPOCH
 THE STORY CONTINUED BY MARIAN HALCOMBE.
 
 
-I
 
 BLACKWATER PARK, HAMPSHIRE.
 
@@ -8478,7 +8340,6 @@ Yes! I hear the horses' feet--I hear the rolling wheels----
 
 
 
-II
 
 June 15th.--The confusion of their arrival has had time to subside.
 Two days have elapsed since the return of the travellers, and that
@@ -9071,7 +8932,6 @@ to me secretly that she was afraid something had happened.
 
 
 
-III
 
 June 16th.--I have a few lines more to add to this day's entry before I
 go to bed to-night.
@@ -9775,7 +9635,6 @@ to the staircase, and ascended slowly to my own room.
 
 
 
-IV
 
 June 17th.--Just as my hand was on the door of my room, I heard Sir
 Percival's voice calling to me from below.
@@ -10402,7 +10261,6 @@ the office comes here with the answer to my letter.
 
 
 
-V
 
 June 17th.--When the dinner hour brought us together again, Count Fosco
 was in his usual excellent spirits.  He exerted himself to interest and
@@ -10874,7 +10732,6 @@ was a man's or a woman's.  I can only say that I think it was a woman's.
 
 
 
-VI
 
 June 18th.--The misery of self-reproach which I suffered yesterday
 evening, on hearing what Laura told me in the boat-house, returned in
@@ -11812,7 +11669,6 @@ warningly--
 
 
 
-VII
 
 June 19th.--The events of yesterday warned me to be ready, sooner or
 later, to meet the worst. To-day is not yet at an end, and the worst
@@ -12471,7 +12327,6 @@ own command.
 
 
 
-VIII
 
 
 June 19th.--I had only got as far as the top of the stairs when the
@@ -13053,7 +12908,6 @@ Countess was the impediment this time.
 
 
 
-IX
 
 June 19th.--Once safely shut into my own room, I opened these pages,
 and prepared to go on with that part of the day's record which was
@@ -13867,7 +13721,6 @@ could lead me to suppose that my retreat had been discovered.
 
 
 
-X
 
 June 20th.--Eight o'clock.  The sun is shining in a clear sky.  I have
 not been near my bed--I have not once closed my weary wakeful eyes.
@@ -14835,7 +14688,6 @@ THE STORY CONTINUED BY ELIZA MICHELSON
 
 
 
-I
 
 
 I am asked to state plainly what I know of the progress of Miss
@@ -15616,7 +15468,6 @@ Blackwater Park.
 
 
 
-II
 
 
 The next event that occurred was of so singular a nature that it might
@@ -17120,7 +16971,6 @@ THE THIRD EPOCH
 THE STORY CONTINUED BY WALTER HARTRIGHT.
 
 
-I
 
 
 I open a new page.  I advance my narrative by one week.
@@ -17220,7 +17070,6 @@ through the hazard of my life.
 
 
 
-II
 
 
 My position is defined--my motives are acknowledged.  The story of
@@ -17869,7 +17718,6 @@ the future of our three lives.
 
 
 
-III
 
 
 This was the story of the past--the story so far as we knew it then.
@@ -18199,7 +18047,6 @@ doubtful way, which began at the lawyer's door.
 
 
 
-IV
 
 
 No circumstance of the slightest importance happened on my way to the
@@ -18728,7 +18575,6 @@ is appointed--the End is drawing us on--and Anne Catherick, dead in her
 grave, points the way to it still!"
 
 
-V
 
 
 The story of my first inquiries in Hampshire is soon told.
@@ -19004,7 +18850,6 @@ begins here.
 
 
 
-VI
 
 
 The address communicated by Mrs. Todd took me to a lodging-house
@@ -19265,7 +19110,6 @@ story.
 
 
 
-VII
 
 
 Thus far the information which I had received from Mrs. Clements--though
@@ -19834,7 +19678,6 @@ Mrs. Clements sighed and shook her head doubtfully.
 
 
 
-VIII
 
 
 When I reached home again after my interview with Mrs. Clements, I was
@@ -20971,7 +20814,6 @@ I had not discovered yet.
 
 
 
-X
 
 
 Once out of sight of the church, I pressed forward briskly on my way to
@@ -21688,7 +21530,6 @@ ruled it that he and I should meet.
 
 
 
-XI
 
 The inquest was hurried for certain local reasons which weighed with
 the coroner and the town authorities.  It was held on the afternoon of
@@ -22474,7 +22315,6 @@ tea is half-past five, and my buttered toast waits for nobody.
 
 THE STORY CONTINUED BY WALTER HARTRIGHT
 
-I
 
 
 My first impulse, after reading Mrs. Catherick's extraordinary
@@ -22616,7 +22456,6 @@ Half an hour later I was speeding back to London by the express train.
 
 
 
-II
 
 It was between nine and ten o'clock before I reached Fulham, and found
 my way to Gower's Walk.
@@ -23104,7 +22943,6 @@ away in the loneliness of the dead.
 
 
 
-III
 
 Four months elapsed.  April came--the month of spring--the month of
 change.
@@ -23361,7 +23199,6 @@ Ten days later we were happier still.  We were married.
 
 
 
-IV
 
 The course of this narrative, steadily flowing on, bears me away from
 the morning-time of our married life, and carries me forward to the end.
@@ -23614,7 +23451,6 @@ We started for the theatre.
 
 
 
-V
 
 The last notes of the introduction to the opera were being played, and
 the seats in the pit were all filled, when Pesca and I reached the
@@ -24037,7 +23873,6 @@ breakfast before I go my ways among the pupils that I teach."
 
 
 
-VI
 
 MY first conviction as soon as I found myself outside the house, was
 that no alternative was left me but to act at once on the information I
@@ -24302,7 +24137,6 @@ house.
 
 
 
-VII
 
 There was no lamp in the hall, but by the dim light of the kitchen
 candle, which the girl had brought upstairs with her, I saw an elderly
@@ -25479,7 +25313,6 @@ worthy of the occasion, and worthy of
 THE STORY CONCLUDED BY WALTER HARTRIGHT
 
 
-I
 
 When I closed the last leaf of the Count's manuscript the half-hour
 during which I had engaged to remain at Forest Road had expired.
@@ -25771,7 +25604,6 @@ made Pesca the means of forcing a confession from the Count.
 
 
 
-II
 
 Two more events remain to be added to the chain before it reaches
 fairly from the outset of the story to the close.
@@ -25946,7 +25778,6 @@ Order, and he died a martyr to his cause."
 
 
 
-III
 
 The summer and autumn passed after my return from Paris, and brought no
 changes with them which need be noticed here.  We lived so simply and
@@ -26040,364 +25871,3 @@ Marian was the good angel of our lives--let Marian end our Story.
 
 
 
-End of the Project Gutenberg EBook of The Woman in White, by Wilkie Collins
-
-*** END OF THIS PROJECT GUTENBERG EBOOK THE WOMAN IN WHITE ***
-
-***** This file should be named 583.txt or 583.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/8/583/
-
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.net/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including including checks, online payments and credit card
-donations.  To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.net
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

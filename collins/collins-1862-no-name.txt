@@ -1,121 +1,3 @@
-﻿The Project Gutenberg EBook of No Name, by Wilkie Collins
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: No Name
-
-Author: Wilkie Collins
-
-Release Date: March 18, 2006 [EBook #1438]
-Last Updated: September 11, 2016
-
-Language: English
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK NO NAME ***
-
-
-
-
-Produced by James Rusk and David Widger
-
-
-
-
-
-NO NAME
-
-
-by Wilkie Collins
-
-
-     [editorial note: italics are indicated by the underscore
-     character; accent marks in the few words in French are omitted;
-     the umlaut in Zurich is omitted]
-
-
-
-
-PREFACE.
-
-
-THE main purpose of this story is to appeal to the reader’s interest
-in a subject which has been the theme of some of the greatest writers,
-living and dead--but which has never been, and can never be, exhausted,
-because it is a subject eternally interesting to all mankind. Here is
-one more book that depicts the struggle of a human creature, under those
-opposing influences of Good and Evil, which we have all felt, which we
-have all known. It has been my aim to make the character of “Magdalen,”
- which personifies this struggle, a pathetic character even in its
-perversity and its error; and I have tried hard to attain this result by
-the least obtrusive and the least artificial of all means--by a resolute
-adherence throughout to the truth as it is in Nature. This design was
-no easy one to accomplish; and it has been a great encouragement to me
-(during the publication of my story in its periodical form) to know, on
-the authority of many readers, that the object which I had proposed to
-myself, I might, in some degree, consider as an object achieved.
-
-Round the central figure in the narrative other characters will be found
-grouped, in sharp contrast--contrast, for the most part, in which I
-have endeavored to make the element of humor mainly predominant. I have
-sought to impart this relief to the more serious passages in the book,
-not only because I believe myself to be justified in doing so by the
-laws of Art--but because experience has taught me (what the experience
-of my readers will doubtless confirm) that there is no such moral
-phenomenon as unmixed tragedy to be found in the world around us.
-Look where we may, the dark threads and the light cross each other
-perpetually in the texture of human life.
-
-To pass from the Characters to the Story, it will be seen that the
-narrative related in these pages has been constructed on a plan which
-differs from the plan followed in my last novel, and in some other of
-my works published at an earlier date. The only Secret contained in this
-book is revealed midway in the first volume. From that point, all the
-main events of the story are purposely foreshadowed before they take
-place--my present design being to rouse the reader’s interest in
-following the train of circumstances by which these foreseen events are
-brought about. In trying this new ground, I am not turning my back in
-doubt on the ground which I have passed over already. My one object in
-following a new course is to enlarge the range of my studies in the art
-of writing fiction, and to vary the form in which I make my appeal to
-the reader, as attractively as I can.
-
-There is no need for me to add more to these few prefatory words than is
-here written. What I might otherwise have wished to say in this place, I
-have endeavored to make the book itself say for me.
-
-
-TO
-
-FRANCIS CARR BEARD
-
-
-(FELLOW OF THE ROYAL COLLEGE OF SURGEONS OF ENGLAND),
-
-IN REMEMBRANCE OF THE TIME WHEN
-
-THE CLOSING SCENES OF THIS STORY WERE WRITTEN.
-
-
-
-
-NO NAME.
-
-
-
-
-THE FIRST SCENE.
-
-COMBE-RAVEN, SOMERSETSHIRE.
-
-
-
-CHAPTER I.
 
 THE hands on the hall-clock pointed to half-past six in the morning. The
 house was a country residence in West Somersetshire, called Combe-Raven.
@@ -687,7 +569,6 @@ suppose I’m getting old. I don’t like change.”
 
 
 
-CHAPTER II.
 
 AT ten o’clock the next morning Norah and Magdalen stood alone in the
 hall at Combe-Raven watching the departure of the carriage which took
@@ -923,7 +804,6 @@ _Captain Wragge. Post-office, Bristol._
 
 
 
-CHAPTER III.
 
 WHEN she returned to the house, Miss Garth made no attempt to conceal
 her unfavorable opinion of the stranger in black. His object was, no
@@ -1117,7 +997,6 @@ Mr. and Mrs. Vanstone were coming back on the twenty-third of the month.
 Who could say what new revelations might not come back with them?
 
 
-CHAPTER IV.
 
 No new revelations came back with them: no anticipations associated with
 their return were realized. On the one forbidden subject of their errand
@@ -1569,7 +1448,6 @@ many a darker winding that was yet to come.
 
 
 
-CHAPTER V.
 
 MR. VANSTONE’S inquiries into the proposed theatrical entertainment at
 Evergreen Lodge were answered by a narrative of dramatic disasters; of
@@ -1864,7 +1742,6 @@ rehearsal began.
 
 
 
-CHAPTER VI.
 
 “I HOPE Miss Vanstone knows her part?” whispered Mrs. Marrable,
 anxiously addressing herself to Miss Garth, in a corner of the theater.
@@ -2266,7 +2143,6 @@ first time, the idea dawned on her that Norah had seen the consequences
 in their true light.
 
 
-CHAPTER VII.
 
 EARLY the next morning Miss Garth and Norah met in the garden and spoke
 together privately. The only noticeable result of the interview, when
@@ -2467,7 +2343,6 @@ bitterly.
 
 
 
-CHAPTER VIII.
 
 WHEN Magdalen and her father met in the shrubbery Mr. Vanstone’s face
 showed plainly that something had happened to please him since he had
@@ -2769,7 +2644,6 @@ helpless, as gentleman-like as ever.
 
 
 
-CHAPTER IX.
 
 THREE months passed. During that time Frank remained in London; pursuing
 his new duties, and writing occasionally to report himself to Mr.
@@ -3307,7 +3181,6 @@ of spirits: he was strangely out of spirits. What did it mean?
 
 
 
-CHAPTER X.
 
 ON returning to the house, Magdalen felt her shoulder suddenly touched
 from behind as she crossed the hall. She turned and confronted her
@@ -3782,7 +3655,6 @@ dead?”
 
 
 
-CHAPTER XI.
 
 THE sun sank lower; the western breeze floated cool and fresh into the
 house. As the evening advanced, the cheerful ring of the village clock
@@ -4145,7 +4017,6 @@ the same bed. The Angel of Death had done his awful bidding; and the two
 Sisters were left alone in the world.
 
 
-CHAPTER XII.
 
 EARLIER than usual on the morning of Thursday, the twenty-third of July,
 Mr. Clare appeared at the door of his cottage, and stepped out into the
@@ -4534,7 +4405,6 @@ His next words raised the veil, and showed the irrevocable Past.
 
 
 
-CHAPTER XIII.
 
 “THE fortune which Mr. Vanstone possessed when you knew him” (the lawyer
 began) “was part, and part only, of the inheritance which fell to him
@@ -5138,7 +5008,6 @@ broad, cheerful sunshine--that truth disclosed--he went out.
 
 
 
-CHAPTER XIV.
 
 IT was nearly an hour past noon when Mr. Pendril left the house. Miss
 Garth sat down again at the table alone, and tried to face the necessity
@@ -5454,7 +5323,6 @@ beyond him?
 
 
 
-CHAPTER XV.
 
 ON the next morning but one, news was received from Mr. Pendril.
 The place of Michael Vanstone’s residence on the Continent had been
@@ -6293,7 +6161,6 @@ BETWEEN THE SCENES.
 
 PROGRESS OF THE STORY THROUGH THE POST.
 
-I.
 
 _From Norah Vanstone to Mr. Pendril._
 
@@ -6594,7 +6461,6 @@ dear Mr. Pendril, gratefully yours,
 “NORAH VANSTONE.”
 
 
-II.
 
 _From Miss Garth to Mr. Pendril._
 
@@ -6704,7 +6570,6 @@ obliged,
 “HARRIET GARTH.”
 
 
-III.
 
 _From Magdalen to Norah (inclosed in the preceding Letter)._
 
@@ -6732,7 +6597,6 @@ best, dearest love, till we meet again.
 “MAGDALEN.”
 
 
-IV.
 
 _From Sergeant Bulmer (of the Detective Police) to Mr. Pendril._
 
@@ -6805,7 +6669,6 @@ respectfully,
 
 “ABRAHAM BULMER.”
 
-V.
 
 _Anonymous Letter addressed to Mr. Pendril._
 
@@ -6834,7 +6697,6 @@ SKELDERGATE, YORK.
 
 
 
-CHAPTER I.
 
 IN that part of the city of York which is situated on the western bank
 of the Ouse there is a narrow street, called Skeldergate, running nearly
@@ -7488,7 +7350,6 @@ subordinates, and took up his own position, on the opposite side of the
 river, within easy view of Mr. Huxtable’s door.
 
 
-CHAPTER II.
 
 CAPTAIN WRAGGE stopped nearly midway in the one little row of houses
 composing Rosemary Lane, and let himself and his guest in at the door of
@@ -8143,7 +8004,6 @@ for?”
 
 
 
-CHAPTER III.
 
 TOWARD six o’clock the next morning, the light pouring in on her face
 awoke Magdalen in the bedroom in Rosemary Lane.
@@ -8786,7 +8646,6 @@ BETWEEN THE SCENES.
 
 CHRONICLE OF EVENTS: PRESERVED IN CAPTAIN WRAGGE’S DISPATCH-BOX.
 
-I.
 
 _Chronicle for October, 1846._
 
@@ -8913,7 +8772,6 @@ wants experience, poor girl--she sadly wants experience of the world.
 How consoling to know that I am just the man to give it her!
 
 
-II.
 
 _Chronicle for November._
 
@@ -8936,7 +8794,6 @@ dire necessity imposes on me at starting. Well! there is only one
 consolation: I’ll cheat the music-seller.
 
 
-III.
 
 _Chronicle for December. First Fortnight._
 
@@ -8977,7 +8834,6 @@ enough to upset her by a letter from her sister, I tremble for the
 consequences.
 
 
-IV.
 
 _Chronicle for December. Second Fortnight._
 
@@ -9035,7 +8891,6 @@ first bewilderment of her success. It looks ill for the future; it looks
 infernally ill for the future.
 
 
-V.
 
 _Chronicle for January, 1847._
 
@@ -9147,7 +9002,6 @@ The next stronghold of British sympathy which we take by storm is
 Sheffield. We open the first week in February.
 
 
-VI.
 
 _Chronicle for February._
 
@@ -9185,7 +9039,6 @@ it--Mischief to Michael Vanstone--which is of no earthly consequence:
 mischief to Me--which is a truly serious matter.
 
 
-VII.
 
 _Chronicle for March._
 
@@ -9206,7 +9059,6 @@ are very little things; but they express my feelings, and I put them in
 freely.
 
 
-VIII.
 
 _Chronicle for April and May._
 
@@ -9355,7 +9207,6 @@ he is the only human being possessed of pecuniary blessings who fails to
 inspire me with a feeling of unmitigated envy.
 
 
-IX.
 
 _Chronicle for June_.
 
@@ -9651,7 +9502,6 @@ VAUXHALL WALK, LAMBETH.
 
 
 
-CHAPTER I.
 
 THE old Archiepiscopal Palace of Lambeth, on the southern bank of the
 Thames--with its Bishop’s Walk and Garden, and its terrace fronting the
@@ -9925,7 +9775,6 @@ bargained for. No matter: to-morrow shall show.”
 
 
 
-CHAPTER II.
 
 THE early morning, when Magdalen rose and looked out, was cloudy and
 overcast. But as time advanced to the breakfast hour the threatening of
@@ -10460,7 +10309,6 @@ room.
 
 
 
-CHAPTER III.
 
 “MISS GARTH, sir,” said Mrs. Lecount, opening the parlor door, and
 announcing the visitor’s appearance with the tone and manner of a
@@ -11012,7 +10860,6 @@ Wragge.
 
 
 
-CHAPTER IV.
 
 MRS. LECOUNT returned to the parlor, with the fragment of Magdalen’s
 dress in one hand, and with Captain Wragge’s letter in the other.
@@ -11510,7 +11357,6 @@ BETWEEN THE SCENES.
 
 PROGRESS OF THE STORY THROUGH THE POST.
 
-I.
 
 _Extract from the Advertising Columns of “The Times.”_
 
@@ -11519,7 +11365,6 @@ at which a letter can reach him. The receipt of the information which he
 offers will be acknowledged by a reward of Five Pounds.”
 
 
-II.
 
 _From Captain Wragge to Magdalen._
 
@@ -11570,7 +11415,6 @@ again,
 “HORATIO WRAGGE.”
 
 
-III.
 
 _From Norah to Magdalen_.
 
@@ -11610,7 +11454,6 @@ next time you think of
 “NORAH.”
 
 
-IV.
 
 _From Miss Garth to Magdalen._
 
@@ -11679,7 +11522,6 @@ Your friend, my dear, always,
 “HARRIET GARTH.”
 
 
-V.
 
 _From Francis Clare, Jun., to Magdalen._
 
@@ -11733,7 +11575,6 @@ friend and well-wisher.
 “FRANCIS CLARE, Jun.”
 
 
-VI.
 
 _From Francis Clare, Sen., to Magdalen_.
 
@@ -11749,7 +11590,6 @@ All I can now say in return, I do say. My girl, I am sorry for you,
 “F. C.”
 
 
-VII.
 
 _From Mrs. Wragge to her Husband._
 
@@ -11784,7 +11624,6 @@ interfere who has influence enough to rouse her. Your obedient servant,
 “RICHARD JARVIS, M.R.C.S.”
 
 
-VIII.
 
 _From Norah to Magdalen._
 
@@ -11803,7 +11642,6 @@ now--let me come and comfort you, let me be more than a sister to you,
 if I can. One line--only one line to tell me where I can find you!”
 
 
-IX.
 
 _From Magdalen to Norah._
 
@@ -11866,7 +11704,6 @@ but I dare not see you yet.
 “MAGDALEN.”
 
 
-X.
 
 _From Magdalen to Miss Garth._
 
@@ -11909,7 +11746,6 @@ to forget me. Affectionately yours,
 this letter to Norah!”
 
 
-XI.
 
 _From Magdalen to Captain Wragge._
 
@@ -11996,7 +11832,6 @@ violent temper has tried your forbearance for the last time.
 “MAGDALEN.”
 
 
-XII.
 
 _From Captain Wragge to Magdalen._
 
@@ -12110,7 +11945,6 @@ bows. A sharp woman, my dear Magdalen; but Joyce and I together may
 prove a trifle too much for her.”
 
 
-XIII.
 
 _Extract from the “East Suffolk Argus.”_
 
@@ -12131,7 +11965,6 @@ ALDBOROUGH, SUFFOLK.
 
 
 
-CHAPTER I.
 
 THE most striking spectacle presented to a stranger by the shores of
 Suffolk is the extraordinary defenselessness of the land against the
@@ -12835,7 +12668,6 @@ the night.
 
 
 
-CHAPTER II.
 
 THE tall man who had passed Captain Wragge in the dark proceeded rapidly
 along the public walk, struck off across a little waste patch of ground,
@@ -13108,7 +12940,6 @@ commander, sailed from London for the China Sea.
 
 
 
-CHAPTER III.
 
 THE threatening of storm and change passed away with the night. When
 morning rose over Aldborough, the sun was master in the blue heaven, and
@@ -13462,7 +13293,6 @@ back again to meet Noel Vanstone and Mrs. Lecount.
 
 
 
-CHAPTER IV.
 
 CAPTAIN WRAGGE and Magdalen retraced their steps until they were again
 within view of North Shingles Villa before any signs appeared of Mrs.
@@ -13960,7 +13790,6 @@ Vanstone has raised the ghost of him at starting.”
 
 
 
-CHAPTER V.
 
 WHEN Magdalen appeared in the parlor shortly before seven o’clock, not a
 trace of discomposure was visible in her manner. She looked and spoke as
@@ -14583,7 +14412,6 @@ So the day’s skirmish ended. The heat of the battle was yet to come.
 
 
 
-CHAPTER VI.
 
 ALL human penetration has its limits. Accurately as Captain Wragge
 had seen his way hitherto, even his sharp insight was now at fault. He
@@ -15208,7 +15036,6 @@ person of the victim himself!
 
 
 
-CHAPTER VII.
 
 LATE that evening, when Magdalen and Mrs. Wragge came back from their
 walk in the dark, the captain stopped Magdalen on her way upstairs to
@@ -15803,7 +15630,6 @@ captain, looking after him--“rich as you are, I wouldn’t take it!”
 
 
 
-CHAPTER VIII.
 
 ON returning to the house, Captain Wragge received a significant message
 from the servant. “Mr. Noel Vanstone would call again at two o’clock
@@ -16357,7 +16183,6 @@ enough by this time to distrust the wakefulness of Mrs. Lecount.
 
 
 
-CHAPTER IX.
 
 IF Captain Wragge could have looked into Mrs. Lecount’s room while he
 stood on the Parade watching the light in her window, he would have seen
@@ -16961,7 +16786,6 @@ hand and sent him home on the spot.
 
 
 
-CHAPTER X.
 
 ON returning to Sea View, Noel Vanstone executed the instructions which
 prescribed his line of conduct for the first of the five days with
@@ -17472,7 +17296,6 @@ It was the forged letter from Zurich.
 
 
 
-CHAPTER XI.
 
 THE postmark and the handwriting on the address (admirably imitated from
 the original) warned Mrs. Lecount of the contents of the letter before
@@ -17888,7 +17711,6 @@ He stepped into the chaise, and started on the first stage of the
 journey to St. Crux.
 
 
-CHAPTER XII.
 
 TOWARD three o’clock in the afternoon Captain Wragge stopped at the
 nearest station to Ossory which the railway passed in its course through
@@ -18068,7 +17890,6 @@ North Shingles.
 
 
 
-CHAPTER XIII.
 
 WHAT had happened at Aldborough in Captain Wragge’s absence? Events had
 occurred which the captain’s utmost dexterity might have found it hard
@@ -18913,7 +18734,6 @@ quietly as a new-born child.”
 
 
 
-CHAPTER XIV.
 
 THE morning of her husband’s return to North Shingles was a morning
 memorable forever in the domestic calendar of Mrs. Wragge. She
@@ -19459,7 +19279,6 @@ BETWEEN THE SCENES.
 
 PROGRESS OF THE STORY THROUGH THE POST.
 
-I.
 
 _From George Bartram to Noel Vanstone._
 
@@ -19636,7 +19455,6 @@ time is of consequence.
 “GEORGE BARTRAM.”
 
 
-II.
 
 _From Norah Vanstone to Miss Garth._
 
@@ -19696,7 +19514,6 @@ that I cannot, and dare not, say in writing.
 “NORAH.”
 
 
-III.
 
 _From Mr. John Loscombe (Solicitor) to George Bartram, Esq._
 
@@ -19726,7 +19543,6 @@ placed in a position to forward it to its destination.
 “JOHN LOSCOMBE.”
 
 
-IV.
 
 _From Norah Vanstone to Miss Garth._
 
@@ -19773,7 +19589,6 @@ imagine how my spirits are improved when I can occupy my pen in writing
 such nonsense as this!”
 
 
-V.
 
 _From Mrs. Lecount to Mr. de Bleriot, General Agent, London._
 
@@ -19845,7 +19660,6 @@ obliged
 “VIRGINIE LECOUNT.”
 
 
-VI.
 
 _From Mr. de Bleriot to Mrs. Lecount._
 
@@ -19898,7 +19712,6 @@ servant,
 “ALFRED DE BLERIOT.”
 
 
-VII.
 
 _From Mr. Pendril to Norah Vanstone._
 
@@ -19943,7 +19756,6 @@ therefore, if you see Mrs. Lecount, see her in Miss Garth’s company.
 “WILLIAM PENDRIL.”
 
 
-VIII.
 
 _From Norah Vanstone to Mr. Pendril._
 
@@ -19971,7 +19783,6 @@ yours,
 “NORAH VANSTONE.”
 
 
-IX.
 
 _From Mr. de Bleriot to Mrs. Lecount._
 
@@ -20012,7 +19823,6 @@ shortly,
 “ALFRED DE BLERIOT.”
 
 
-X.
 
 _From Miss Garth to Mr. Pendril._
 
@@ -20104,7 +19914,6 @@ character, and future prosperity at any price.
 “HARRIET GARTH.”
 
 
-XI.
 
 _From Mrs. Lecount to Mr. de Bleriot._
 
@@ -20139,7 +19948,6 @@ much obliged servant,
 “VIRGINIE LECOUNT.”
 
 
-XII.
 
 _From Mr. Pendril to Miss Garth._
 
@@ -20159,7 +19967,6 @@ the sincere expression of my sympathy and regard.
 “WILLIAM PENDRIL.”
 
 
-XIII.
 
 _From Mr. de Bleriot to Mrs. Lecount._
 
@@ -20198,7 +20005,6 @@ hasten your journey.
 “ALFRED DE BLERIOT.”
 
 
-XIV.
 
 _From Mrs. Lecount to Mr. de Bleriot._
 
@@ -20224,7 +20030,6 @@ BALIOL COTTAGE, DUMFRIES.
 
 
 
-CHAPTER I.
 
 TOWARD eleven o’clock, on the morning of the third of November, the
 breakfast-table at Baliol Cottage presented that essentially comfortless
@@ -20783,7 +20588,6 @@ liquid, and it was labeled--POISON.
 
 
 
-CHAPTER II.
 
 MRS. LECOUNT mixed the sal-volatile with water, and administered
 it immediately. The stimulant had its effect. In a few minutes Noel
@@ -21445,7 +21249,6 @@ you must be heard by no living creature but ourselves.”
 
 
 
-CHAPTER III.
 
 THERE was a pause of a few minutes while Mrs. Lecount opened the second
 of the two papers which lay before her on the table, and refreshed her
@@ -22166,7 +21969,6 @@ BETWEEN THE SCENES.
 PROGRESS OF THE STORY THROUGH THE POST.
 
 
-I.
 
 _From Mrs. Noel Vanstone to Mr. Loscombe._
 
@@ -22220,7 +22022,6 @@ sincerely,
 “MAGDALEN VANSTONE.”
 
 
-II.
 
 _From Mr. Loscombe to Mrs. Noel Vanstone._
 
@@ -22244,7 +22045,6 @@ remain, dear madam, faithfully yours,
 “JOHN LOSCOMBE.”
 
 
-III.
 
 _From Mrs. Noel Vanstone to Miss Garth._
 
@@ -22427,7 +22227,6 @@ to meddle with me again.
 “MAGDALEN VANSTONE.”
 
 
-IV.
 
 _From Mr. Loscombe to Mrs. Noel Vanstone._
 
@@ -22450,7 +22249,6 @@ remain, dear madam, faithfully yours,
 “JOHN LOSCOMBE.”
 
 
-V.
 
 _From Mr. Pendril to Miss Garth._
 
@@ -22487,7 +22285,6 @@ truth. Believe me most truly yours,
 “WILLIAM PENDRIL.”
 
 
-VI.
 
 _From Mr. Loscombe to Mrs. Noel Vanstone._
 
@@ -22586,7 +22383,6 @@ more to say, which may greatly surprise you, on the subject of the Will.
 “JOHN LOSCOMBE.”
 
 
-VII.
 
 _From Mrs. Noel Vanstone to Mr. Loscombe._
 
@@ -22606,7 +22402,6 @@ subject of the Will.
 “MAGDALEN VANSTONE.”
 
 
-VIII.
 
 _From Mr. Loscombe to Mrs. Noel Vanstone._
 
@@ -22695,7 +22490,6 @@ for the season; and he never expressed, either by word or deed, the
 slightest intention of settling permanently in the North.”
 
 
-IX.
 
 _From Mrs. Noel Vanstone to Mr. Loscombe._
 
@@ -22733,7 +22527,6 @@ ST. JOHN’S WOOD.
 
 
 
-CHAPTER I.
 
 IT wanted little more than a fortnight to Christmas; but the weather
 showed no signs yet of the frost and snow, conventionally associated
@@ -23092,7 +22885,6 @@ withdrew into the bedroom to put on her bonnet and shawl.
 
 
 
-CHAPTER II.
 
 BETWEEN nine and ten o’clock the same evening, Louisa, waiting
 anxiously, heard the long-expected knock at the house door. She ran
@@ -23411,7 +23203,6 @@ BETWEEN THE SCENES.
 PROGRESS OF THE STORY THROUGH THE POST.
 
 
-I.
 
 _From Miss Garth to Mr. Pendril._
 
@@ -23451,7 +23242,6 @@ seems to cling to me more obstinately than ever. Always yours truly,
 “HARRIET GARTH.”
 
 
-II
 
 _From Mr. Pendril to Miss Garth._
 
@@ -23493,7 +23283,6 @@ cause. Yours most truly,
 “WILLIAM PENDRIL.”
 
 
-III.
 
 From Admiral Bartram to Mrs. Drake (housekeeper at St. Crux).
 
@@ -23527,7 +23316,6 @@ pay her what compensation is right, and so have done with her. Yours,
 “ARTHUR BARTRAM.”
 
 
-IV.
 
 _From Mrs. Drake to Admiral Bartram._
 
@@ -23559,7 +23347,6 @@ ST. CRUX-IN-THE-MARSH.
 
 
 
-CHAPTER I.
 
 “THIS is where you are to sleep. Put yourself tidy, and then come down
 again to my room. The admiral has returned, and you will have to begin
@@ -24133,7 +23920,6 @@ day!”
 
 
 
-CHAPTER II.
 
 THE first week passed, the second week passed, and Magdalen was, to all
 appearance, no nearer to the discovery of the Secret Trust than on the
@@ -24403,7 +24189,6 @@ St. Crux.
 
 
 
-CHAPTER III.
 
 AFTER placing the second cover, Magdalen awaited the ringing of the
 dinner-bell, with an interest and impatience which she found it no easy
@@ -24812,7 +24597,6 @@ last chance in Magdalen’s favor had left it with him.
 
 
 
-CHAPTER IV.
 
 WHEN the servants’ dinner-bell at St. Crux rang as usual on the day of
 George Bartram’s departure, it was remarked that the new parlor-maid’s
@@ -25816,7 +25600,6 @@ BETWEEN THE SCENES.
 PROGRESS OF THE STORY THROUGH THE POST.
 
 
-I.
 
 _From George Bartram to Admiral Bartram._
 
@@ -25843,7 +25626,6 @@ Affectionately yours,
 “GEORGE BARTRAM.”
 
 
-II.
 
 _From George Bartram to Miss Garth._
 
@@ -25890,7 +25672,6 @@ but pleasure to my next interview with my uncle. If you address your
 letter to Long’s Hotel, it will be sure to reach me.”
 
 
-III.
 
 _From Miss Garth to George Bartram._
 
@@ -25995,7 +25776,6 @@ your friend and well-wisher,
 “HARRIET GARTH.”
 
 
-IV.
 
 _From Mrs. Drake to George Bartram._
 
@@ -26084,7 +25864,6 @@ servant,
 “SOPHIA DRAKE.”
 
 
-V.
 
 _From George Bartram to Miss Garth._
 
@@ -26104,7 +25883,6 @@ days. Meantime, believe me, with sincere gratitude,
 “GEORGE BARTRAM.”
 
 
-VI.
 
 _From Mr. Loscombe to Mrs. Noel Vanstone._
 
@@ -26209,7 +25987,6 @@ of business, you shall know the result.
 “JOHN LOSCOMBE.”
 
 
-VII.
 
 _From George Bartram to Miss Garth._
 
@@ -26307,7 +26084,6 @@ Drake to give you, and any friends of yours, the freest admission to the
 house and grounds.”
 
 
-VIII.
 
 _From Mr. Loscombe to Mrs. Noel Vanstone._
 
@@ -26343,7 +26119,6 @@ matter must, from this moment, be considered at an end.
 “JOHN LOSCOMBE.”
 
 
-IX.
 
 _From Mrs. Ruddock (Lodging-house Keeper) to Mr. Loscombe._
 
@@ -26385,7 +26160,6 @@ chance of finding her.
 “CATHERINE RUDDOCK.”
 
 
-X.
 
 _From Mr. Loscombe to Mrs. Ruddock._
 
@@ -26411,7 +26185,6 @@ AARON’S BUILDINGS
 
 
 
-CHAPTER I.
 
 ON the seventh of June, the owners of the merchantman _Deliverance_
 received news that the ship had touched at Plymouth to land passengers,
@@ -26861,7 +26634,6 @@ So the day ended--the first of many days that were to come.
 
 
 
-CHAPTER II.
 
 THE warm sunlight of July shining softly through a green blind; an open
 window with fresh flowers set on the sill; a strange bed, in a strange
@@ -27449,7 +27221,6 @@ who employed him, at their office in Cornhill.
 
 
 
-CHAPTER III.
 
 MAGDALEN’S first glance round the empty room showed her the letter on
 the table. The address, as the doctor had predicted, broke the news the
@@ -27816,7 +27587,6 @@ tempting him to go back to his ship?
 
 
 
-CHAPTER IV.
 
 THE first agitation of the meeting between the sisters was over; the
 first vivid impressions, half pleasurable, half painful, had softened a
@@ -28162,364 +27932,3 @@ He stooped and kissed her.
 
 
 
-End of the Project Gutenberg EBook of No Name, by Wilkie Collins
-
-*** END OF THIS PROJECT GUTENBERG EBOOK NO NAME ***
-
-***** This file should be named 1438-0.txt or 1438-0.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/1/4/3/1438/
-
-Produced by James Rusk and David Widger
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  “Project Gutenberg” is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation (“the Foundation”
- or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase “Project Gutenberg” appears, or with which the phrase “Project
-Gutenberg” is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase “Project Gutenberg” associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-“Plain Vanilla ASCII” or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original “Plain Vanilla ASCII” or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, “Information about donations to
-     the Project Gutenberg Literary Archive Foundation.”
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-“Defects,” such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’ WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm’s
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation’s EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state’s laws.
-
-The Foundation’s principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation’s web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

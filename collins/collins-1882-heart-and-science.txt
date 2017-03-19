@@ -1,60 +1,3 @@
-﻿The Project Gutenberg EBook of Heart and Science, by Wilkie Collins
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: Heart and Science
-       A Story of the Present Time
-
-Author: Wilkie Collins
-
-Release Date: April, 2005 [EBook #7892]
-Posting Date: July 29, 2009
-Last Updated: September 11, 2016
-
-Language: English
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK HEART AND SCIENCE ***
-
-
-
-
-Produced by James Rusk
-
-
-
-
-
-HEART AND SCIENCE
-
-A Story of the Present Time
-
-By Wilkie Collins
-
-
-
-TO
-
-SARONY
-
-(OF NEW YORK)
-
-ARTIST; PHOTOGRAPHER,
-
-AND
-
-GOOD FRIEND
-
-
-
-
-
-I. PREFACE TO READERS IN GENERAL
 
 
 You are the children of Old Mother England, on both sides of the
@@ -141,7 +84,6 @@ With this, your servant withdraws, and leaves you to the story.
 
 
 
-II. TO READERS IN PARTICULAR.
 
 If you are numbered among those good friends of ours, who are especially
 capable of understanding us and sympathising with us, be pleased to
@@ -215,7 +157,6 @@ London: April 1883
 
 
 
-CHAPTER I.
 
 The weary old nineteenth century had advanced into the last twenty years
 of its life.
@@ -259,7 +200,6 @@ Inn Fields.
 
 
 
-CHAPTER II.
 
 When two friends happen to meet in the street, do they ever look back
 along the procession of small circumstances which has led them both,
@@ -513,7 +453,6 @@ them.
 
 
 
-CHAPTER III.
 
 A room of magnificent size; furnished with every conventional luxury
 that money can buy; lavishly provided with newspapers and books of
@@ -796,7 +735,6 @@ the quiet square.
 
 
 
-CHAPTER IV.
 
 If, on entering the hall, Ovid had noticed the placards, he would have
 found himself confronted by a coincidence. The person who gave the
@@ -881,7 +819,6 @@ sank on good Teresa’s shoulder. She had fainted.
 
 
 
-CHAPTER V.
 
 “May I ask for a cup of tea, Miss Minerva?”
 
@@ -1183,7 +1120,6 @@ above.
 
 
 
-CHAPTER VI.
 
 Mrs. Gallilee was as complete a mistress of the practice of domestic
 virtue as of the theory of acoustics and fainting fits. At dressing
@@ -1372,7 +1308,6 @@ conversation between mother and son.
 
 
 
-CHAPTER VII.
 
 The library at Fairfield Gardens possessed two special attractions,
 besides the books. It opened into a large conservatory; and it was
@@ -1573,7 +1508,6 @@ human anomaly on the roll of attorneys?
 
 
 
-CHAPTER VIII.
 
 Mrs. Gallilee made her appearance in the library--and Mr. Mool’s
 pulse accelerated its beat. Mrs. Gallilee’s son followed her into the
@@ -1959,7 +1893,6 @@ Gallilee and her daughters.”’
 
 
 
-CHAPTER IX.
 
 Time had advanced to midnight, after the reading of the Will--and Ovid
 was at home.
@@ -2153,7 +2086,6 @@ it to go.
 
 
 
-CHAPTER X.
 
 Mrs. Gallilee was on her way to the breakfast-room, when her son entered
 the house. They met in the hall. “Is your packing done?” she asked.
@@ -2433,7 +2365,6 @@ is--my son.”
 
 
 
-CHAPTER XI.
 
 On entering the Zoological Gardens, Ovid turned at once to the right,
 leading Carmina to the aviaries, so that she might begin by seeing the
@@ -2671,7 +2602,6 @@ Teresa turned--and found herself in the presence of a remarkable man.
 
 
 
-CHAPTER XII.
 
 In the first place, the stranger was almost tall enough to be shown as a
 giant; he towered to a stature of six feet six inches, English measure.
@@ -2915,7 +2845,6 @@ it had a disease of the brain.”
 
 
 
-CHAPTER XIII.
 
 Ovid had promised to return to Carmina in a minute. The minutes passed,
 and still Doctor Benjulia held him in talk.
@@ -3160,7 +3089,6 @@ you,” he said, quietly, “I’d rather see the monkey.”
 
 
 
-CHAPTER XIV.
 
 In the meantime, Zo had become the innocent cause of a difference of
 opinion between two no less dissimilar personages than Maria and the
@@ -3526,7 +3454,6 @@ herself, with a sad little sigh.
 
 
 
-CHAPTER XV.
 
 Two days passed. In spite of the warnings that he had received, Ovid
 remained in London.
@@ -3817,7 +3744,6 @@ asked. And a voice outside answered,
 
 
 
-CHAPTER XVI.
 
 “I am afraid I have startled you?” said the governess, carefully closing
 the door.
@@ -4045,7 +3971,6 @@ to Carmina.
 
 
 
-CHAPTER XVII.
 
 “Pray come to me; I am waiting for you in the garden of the Square.”
 
@@ -4389,7 +4314,6 @@ the garden. They started guiltily. It was the voice of Mrs. Gallilee.
 
 
 
-CHAPTER XVIII.
 
 “Carmina! are you in the Square?”
 
@@ -4500,7 +4424,6 @@ her son?”
 
 
 
-CHAPTER XIX.
 
 The lapse of a few hours exercised no deteriorating influence on Mrs.
 Gallilee’s amiability.
@@ -4858,7 +4781,6 @@ been near to tearing it up.
 
 
 
-CHAPTER XX.
 
 The wise ancient who asserted that “Time flies,” must have made that
 remarkable discovery while he was in a state of preparation for a
@@ -5145,7 +5067,6 @@ VOLUME TWO
 
 
 
-CHAPTER XXI.
 
 On the afternoon of the day that followed Ovid’s departure, the three
 ladies of the household were in a state of retirement--each in her own
@@ -5428,7 +5349,6 @@ object that she had in view.
 
 
 
-CHAPTER XXII.
 
 There was an interval of silence between the two ladies.
 
@@ -5594,7 +5514,6 @@ without trusting her.
 
 
 
-CHAPTER XXIII.
 
 The mistress of the house, and the governess of the house, had their own
 special reasons for retiring to their own rooms. Carmina was in solitude
@@ -5764,7 +5683,6 @@ man. He neither forgave nor forgot--he was Carmina’s enemy for life.
 
 
 
-CHAPTER XXIV.
 
 The month of July was near its end.
 
@@ -5959,7 +5877,6 @@ Send them to me in your next letter.”
 
 
 
-CHAPTER XXV.
 
 On the twelfth of August, Carmina heard from Ovid again. He wrote from
 Montreal; describing the presentation of that letter of introduction
@@ -6174,7 +6091,6 @@ by the mail steamer, in the place of my letter!”
 
 
 
-CHAPTER XXVI.
 
 The answers to Ovid’s questions were not to be found in Carmina’s reply.
 She had reasons for not mentioning the conversazione; and she shrank
@@ -6454,7 +6370,6 @@ more to-morrow.”
 
 
 
-CHAPTER XXVII.
 
 On the next day events happened, the influence of which upon Carmina’s
 excitable nature urged her to complete her unfinished letter, without
@@ -6883,7 +6798,6 @@ I to do? what am I to do?”
 
 
 
-CHAPTER XXVIII.
 
 The last lines addressed by Carmina to her old nurse were completed on
 the seventeenth of August, and were posted that night.
@@ -7128,7 +7042,6 @@ took it and kissed it.
 
 
 
-CHAPTER XXIX.
 
 Mrs. Gallilee saw her housekeeper as usual, and gave her orders for the
 day. “If there is anything forgotten,” she said, “I must leave it to
@@ -7393,7 +7306,6 @@ might be necessary to fascinate the doctor.
 
 
 
-CHAPTER XXX.
 
 The complimentary allusion to Ovid, which Benjulia had not been able
 to understand, was contained in a letter from Mr. Morphew, and was
@@ -7474,7 +7386,6 @@ the purpose, was enough for the doctor, when he addressed his brother.
 
 
 
-CHAPTER XXXI.
 
 Between one and two o’clock, the next afternoon, Benjulia (at work in
 his laboratory) heard the bell which announced the arrival of a visitor
@@ -7656,7 +7567,6 @@ moral level.
 
 
 
-CHAPTER XXXII.
 
 “Now,” said Benjulia, “what is it to be? The favourite public bugbear?
 Vivisection?”
@@ -7880,7 +7790,6 @@ away. As it was, Lemuel retired.
 
 
 
-CHAPTER XXXIII.
 
 An unusually long day’s work at the office had fatigued good Mr. Mool.
 He pushed aside his papers, and let his weary eyes rest on a glass vase
@@ -8195,7 +8104,6 @@ usual.
 
 
 
-CHAPTER XXXIV.
 
 “I don’t know what is the matter with me. Sometimes I think I am going
 to be really ill.”
@@ -8439,7 +8347,6 @@ again--with best wishes for the success of the song.”
 
 
 
-CHAPTER XXXV.
 
 The solitude of her own room was no welcome refuge to Carmina, in her
 present state of mind. She went on to the schoolroom.
@@ -8559,7 +8466,6 @@ home for her when she reaches London.”
 
 
 
-CHAPTER XXXVI.
 
 The weather, to Carmina’s infinite relief, changed for the worse the
 next day. Incessant rain made it impossible to send her out in the
@@ -8951,7 +8857,6 @@ had frightened you.”
 
 
 
-CHAPTER XXXVII.
 
 After two days of rain, the weather cleared again.
 
@@ -9317,7 +9222,6 @@ she had ceased to interest him. He returned to the dining-room.
 
 
 
-CHAPTER XXXVIII.
 
 “You look hot, sir; have a drink. Old English ale, out of the barrel.”
 
@@ -9533,7 +9437,6 @@ She ran out, without once looking back.
 
 
 
-CHAPTER XXXIX.
 
 Mrs. Gallilee’s maid looked at her watch, when the carriage left Mr.
 Mool’s house. “We shall be nearly an hour late, before we get home,” she
@@ -9692,7 +9595,6 @@ had innocently urged her to set her guardian’s authority at defiance.
 
 
 
-CHAPTER XL.
 
 When the morning lessons were over, Carmina showed the priest’s letter
 to Miss Minerva. The governess read it, and handed it back in silence.
@@ -10014,7 +9916,6 @@ moment!
 
 
 
-CHAPTER XLI.
 
 The ordinary aspect of the schoolroom was seen no more.
 
@@ -10176,7 +10077,6 @@ VOLUME THREE
 
 
 
-CHAPTER XLII.
 
 The next day--the important Tuesday of the lecture on Matter; the
 delightful Tuesday of Teresa’s arrival--brought with it special demands
@@ -10324,7 +10224,6 @@ Mool’s head clerk, charged with news for Doctor Benjulia.
 
 
 
-CHAPTER XLIII.
 
 The mind of the clerk’s master had been troubled by serious doubts,
 after Carmina left his house on Sunday.
@@ -10520,7 +10419,6 @@ Mr. Mool turned to the clerk.
 
 
 
-CHAPTER XLIV.
 
 Mrs. Gallilee’s page (attending to the house-door, in the footman’s
 absence) had just shown Benjulia into the library, when there was
@@ -10912,7 +10810,6 @@ Benjulia was silent.
 
 
 
-CHAPTER XLV.
 
 The clock on the mantelpiece struck six. Zo, turning suddenly from the
 window, ran to the sofa. “Here’s the carriage!” she cried.
@@ -11118,7 +11015,6 @@ human feeling with her big friend--she, too, was surprised.
 
 
 
-CHAPTER XLVI.
 
 THE first signs of reviving life had begun to appear, when Marceline
 answered the bell. In a few minutes more, it was possible to raise
@@ -11477,7 +11373,6 @@ That time had gone by for ever.
 
 
 
-CHAPTER XLVII.
 
 The slander on which Mrs. Gallilee had reckoned, as a means of
 separating Ovid and Carmina, was now a slander refuted by unanswerable
@@ -11752,7 +11647,6 @@ the serious question still dwelt on his mind: What would Teresa do?
 
 
 
-CHAPTER XLVIII.
 
 Even in the welcome retirement of the school-room, Mr. Gallilee’s mind
 was not at ease. He was troubled by a question entirely new to him--the
@@ -12048,7 +11942,6 @@ memory, and rewarded Marceline for posting her letter to Ovid.
 
 
 
-CHAPTER XLIX.
 
 It was past the middle of the day, before Mr. Le Frank paid his promised
 visit to Mrs. Gallilee. He entered the room with gloomy looks; and made
@@ -12288,7 +12181,6 @@ address, Mrs. Gallilee--may I trouble you for the address?”
 
 
 
-CHAPTER L.
 
 Towards seven o’clock on the evening of Thursday, Carmina recognised
 Teresa for the first time.
@@ -12607,7 +12499,6 @@ hurry to put it away, when I came in?”
 
 
 
-CHAPTER LI.
 
 In eight days from the date of his second interview with Mrs. Gallilee,
 Mr. Le Frank took possession of his new bedroom.
@@ -12799,7 +12690,6 @@ and considered for a moment.
 
 
 
-CHAPTER LII.
 
 Watching through the night by Carmina’s bedside, Teresa found herself
 thinking of Mr. Le Frank. It was one way of getting through the weary
@@ -12911,7 +12801,6 @@ He took his hat. The nurse followed him out.
 
 
 
-CHAPTER LIII.
 
 Left alone, Teresa went into the sitting-room: she was afraid to show
 herself at the bedside.
@@ -13150,7 +13039,6 @@ the hospital.”
 
 
 
-CHAPTER LIV.
 
 On Monday morning, the strain on Mrs. Gallilee’s powers of patient
 endurance came to an end. With the help of Mr. Null’s arm, she was
@@ -13365,7 +13253,6 @@ London in ten days more.
 
 
 
-CHAPTER LV.
 
 Mrs. Gallilee read the telegram--paused--and read it again. She let it
 drop on her lap; but her eyes still rested mechanically on the slip of
@@ -13660,7 +13547,6 @@ force.
 
 
 
-CHAPTER LVI.
 
 On the next day, Mr. Mool--returning from a legal consultation to an
 appointment at his office--found a gentleman, whom he knew by sight,
@@ -13982,7 +13868,6 @@ A week later, Miss Minerva left London, to wait for Ovid at Queenstown.
 
 
 
-CHAPTER LVII.
 
 Mr. Mool was in attendance at Fairfield Gardens, when his old friend
 arrived from Scotland, to tell him what the cautiously expressed message
@@ -14129,7 +14014,6 @@ melancholy silence.
 
 
 
-CHAPTER LVIII.
 
 Among many vain hopes, one hope had been realised: they had met again.
 
@@ -14234,7 +14118,6 @@ room. Still, he kept his place by her, like a man entranced.
 
 
 
-CHAPTER LIX.
 
 The first trivial sound that broke the spell, was the sound of a match
 struck in the next room.
@@ -14434,7 +14317,6 @@ hope.
 
 
 
-CHAPTER LX.
 
 After a brief interview with his step-son, Mr. Gallilee returned to his
 daughters in Scotland.
@@ -14614,7 +14496,6 @@ yet, under the Vagrant Act!”
 
 
 
-CHAPTER LXI.
 
 Aided by time, care, and skill, Carmina had gained strength enough
 to pass some hours of the day in the sitting-room; reclining in
@@ -14838,7 +14719,6 @@ were never more to meet.
 
 
 
-CHAPTER LXII.
 
 Benjulia’s servants had but a dull time of it, poor souls, in the lonely
 house. Towards the end of December, they subscribed among themselves to
@@ -15235,7 +15115,6 @@ their cause.
 
 
 
-CHAPTER LXIII.
 
 The life of the New Year was still only numbered by weeks, when a modest
 little marriage was celebrated--without the knowledge of the neighbours,
@@ -15390,364 +15269,3 @@ THE END.
 
 
 
-End of the Project Gutenberg EBook of Heart and Science, by Wilkie Collins
-
-*** END OF THIS PROJECT GUTENBERG EBOOK HEART AND SCIENCE ***
-
-***** This file should be named 7892-0.txt or 7892-0.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/7/8/9/7892/
-
-Produced by James Rusk
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  “Project Gutenberg” is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation (“the Foundation”
- or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase “Project Gutenberg” appears, or with which the phrase “Project
-Gutenberg” is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase “Project Gutenberg” associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-“Plain Vanilla ASCII” or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original “Plain Vanilla ASCII” or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, “Information about donations to
-     the Project Gutenberg Literary Archive Foundation.”
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-“Defects,” such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’ WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm’s
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation’s EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state’s laws.
-
-The Foundation’s principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation’s web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

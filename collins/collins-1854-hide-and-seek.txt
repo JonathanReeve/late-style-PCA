@@ -1,741 +1,3 @@
-﻿The Project Gutenberg EBook of Hide and Seek, by Wilkie Collins
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: Hide and Seek
-
-Author: Wilkie Collins
-
-Release Date: April, 2005  [EBook #7893]
-Posting Date: July 31, 2009
-Last Updated: September 11, 2016
-
-Language: English
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK HIDE AND SEEK ***
-
-
-
-
-Produced by James Rusk
-
-
-
-
-
-HIDE AND SEEK
-
-By Wilkie Collins
-
-
-
-
-
-
-TO
-
-CHARLES DICKENS,
-
-THIS STORY IS INSCRIBED,
-
-AS A
-
-TOKEN OF ADMIRATION AND AFFECTION,
-
-BY HIS FRIEND,
-
-THE AUTHOR.
-
-
-
-
-PREFACE TO THE REVISED EDITION
-
-This novel ranks the third, in order of succession, of the works of
-fiction which I have produced. The history of its reception, on its
-first appearance, is soon told.
-
-Unfortunately for me, “Hide And Seek” was originally published in the
-year eighteen hundred and fifty-four, at the outbreak of the Crimean
-War. All England felt the absorbing interest of watching that serious
-national event; and new books--some of them books of far higher
-pretensions than mine--found the minds of readers in general
-pre-occupied or indifferent. My own little venture in fiction
-necessarily felt the adverse influence of the time. The demand among
-the booksellers was just large enough to exhaust the first edition, and
-there the sale of this novel, in its original form, terminated.
-
-Since that period, the book has been, in the technical phrase, “out
-of print.” Proposals have reached me, at various times, for its
-republication; but I have resolutely abstained from availing myself of
-them for two reasons.
-
-In the first place, I was anxious to wait until “Hide And Seek” could
-make its re-appearance on a footing of perfect equality with my other
-works. In the second place, I was resolved to keep it back until it
-might obtain the advantage of a careful revisal, guided by the light of
-the author’s later experience. The period for the accomplishment of
-both these objects has now presented itself. “Hide And Seek,” in this
-edition, forms one among the uniform series of my novels, which has
-begun with “Antonina,” “The Dead Secret,” and “The Woman In White;”
- and which will be continued with “Basil,” and “The Queen Of Hearts.”
- My project of revisal has, at the same time, been carefully and rigidly
-executed. I have abridged, and in many cases omitted, several passages
-in the first edition, which made larger demands upon the reader’s
-patience than I should now think it desirable to venture on if I were
-writing a new book; and I have, in one important respect, so altered the
-termination of the story as to make it, I hope, more satisfactory and
-more complete than it was in its original form.
-
-With such advantages, therefore, as my diligent revision can give it,
-“Hide And Seek” now appeals, after an interval of seven years, for
-another hearing. I cannot think it becoming--especially in this age of
-universal self-assertion--to state the grounds on which I believe my
-book to be worthy of gaining more attention than it obtained, through
-accidental circumstances, when it was first published. Neither can I
-consent to shelter myself under the favorable opinions which many of my
-brother writers--and notably, the great writer to whom “Hide And Seek”
- is dedicated--expressed of these pages when I originally wrote them. I
-leave it to the reader to compare this novel--especially in reference
-to the conception and delineation of character--with the two novels
-(“Antonina” and “Basil”) which preceded it; and then to decide whether
-my third attempt in fiction, with all its faults, was, or was not, an
-advance in Art on my earlier efforts. This is all the favor I ask for a
-work which I once wrote with anxious care--which I have since corrected
-with no sparing hand--which I have now finally dismissed to take its
-second journey through the world of letters as usefully and prosperously
-as it can.
-
-HARLEY STREET, LONDON, SEPTEMBER, 1861.
-
-
-
-
-OPENING CHAPTER. A CHILD’S SUNDAY.
-
-At a quarter to one o’clock, on a wet Sunday afternoon, in November
-1837, Samuel Snoxell, page to Mr. Zachary Thorpe, of Baregrove Square,
-London, left the area gate with three umbrellas under his arm, to meet
-his master and mistress at the church door, on the conclusion of
-morning service. Snoxell had been specially directed by the housemaid
-to distribute his three umbrellas in the following manner: the new silk
-umbrella was to be given to Mr. and Mrs. Thorpe; the old silk umbrella
-was to be handed to Mr. Goodworth, Mrs. Thorpe’s father; and the heavy
-gingham was to be kept by Snoxell himself, for the special protection
-of “Master Zack,” aged six years, and the only child of Mr. Thorpe.
-Furnished with these instructions, the page set forth on his way to the
-church.
-
-The morning had been fine for November; but before midday the clouds had
-gathered, the rain had begun, and the inveterate fog of the season had
-closed dingily over the wet streets, far and near. The garden in the
-middle of Baregrove Square--with its close-cut turf, its vacant beds,
-its bran-new rustic seats, its withered young trees that had not yet
-grown as high as the railings around them--seemed to be absolutely
-rotting away in yellow mist and softly-steady rain, and was deserted
-even by the cats. All blinds were drawn down for the most part over all
-windows; what light came from the sky came like light seen through
-dusty glass; the grim brown hue of the brick houses looked more
-dirtily mournful than ever; the smoke from the chimney-pots was lost
-mysteriously in deepening superincumbent fog; the muddy gutters gurgled;
-the heavy rain-drops dripped into empty areas audibly. No object great
-or small, no out-of-door litter whatever appeared anywhere, to break
-the dismal uniformity of line and substance in the perspective of
-the square. No living being moved over the watery pavement, save the
-solitary Snoxell. He plodded on into a Crescent, and still the awful
-Sunday solitude spread grimly humid all around him. He next entered a
-street with some closed shops in it; and here, at last, some
-consoling signs of human life attracted his attention. He now saw the
-crossing-sweeper of the district (off duty till church came out) smoking
-a pipe under the covered way that led to a mews. He detected, through
-half closed shutters, a chemist’s apprentice yawing over a large book.
-He passed a navigator, an ostler, and two costermongers wandering
-wearily backwards and forwards before a closed public-house door. He
-heard the heavy _clop clop_ of thickly-booted feet advancing behind him,
-and a stern voice growling, “Now then! be off with you, or you’ll get
-locked up!”--and, looking round, saw an orange-girl, guilty of having
-obstructed an empty pavement by sitting on the curb-stone, driven along
-before a policeman, who was followed admiringly by a ragged boy gnawing
-a piece of orange-peel. Having delayed a moment to watch this Sunday
-procession of three with melancholy curiosity as it moved by him,
-Snoxell was about to turn the corner of a street which led directly to
-the church, when a shrill series of cries in a child’s voice struck on
-his ear and stopped his progress immediately.
-
-The page stood stock-still in astonishment for an instant--then pulled
-the new silk umbrella from under his arm, and turned the corner in a
-violent hurry. His suspicions had not deceived him. There was Mr. Thorpe
-himself walking sternly homeward through the rain, before church was
-over. He led by the hand “Master Zack,” who was trotting along under
-protest, with his hat half off his head, hanging as far back from his
-father’s side as he possibly could, and howling all the time at the
-utmost pitch of a very powerful pair of lungs.
-
-Mr. Thorpe stopped as he passed the page, and snatched the umbrella out
-of Snoxell’s hand, with unaccustomed impetuity; said sharply, “Go to
-your mistress, go on to the church;” and then resumed his road home,
-dragging his son after him faster than ever.
-
-“Snoxy! Snoxy!” screamed Master Zack, turning round towards the page, so
-that he tripped himself up and fell against his father’s legs at every
-third step; “I’ve been a naughty boy at church!”
-
-“Ah! you look like it, you do,” muttered Snoxell to himself
-sarcastically, as he went on. With that expression of opinion, the
-page approached the church portico, and waited sulkily among his fellow
-servants and their umbrellas for the congregation to come out.
-
-When Mr. Goodworth and Mrs. Thorpe left the church, the old gentleman,
-regardless of appearances, seized eagerly on the despised gingham
-umbrella, because it was the largest he could get, and took his daughter
-home under it in triumph. Mrs. Thorpe was very silent, and sighed
-dolefully once or twice, when her father’s attention wandered from her
-to the people passing along the street.
-
-“You’re fretting about Zack,” said the old gentleman, looking round
-suddenly at his daughter. “Never mind! leave it to me. I’ll undertake to
-beg him off this time.”
-
-“It’s very disheartening and shocking to find him behaving so,” said
-Mrs. Thorpe, “after the careful way we’ve brought him up in, too!”
-
-“Nonsense, my love! No, I don’t mean that--I beg your pardon. But who
-can be surprised that a child of six years old should be tired of a
-sermon forty minutes long by my watch? I was tired of it myself I know,
-though I wasn’t candid enough to show it as the boy did. There! there!
-we won’t begin to argue: I’ll beg Zack off this time, and we’ll say no
-more about it.”
-
-Mr. Goodworth’s announcement of his benevolent intentions towards Zack
-seemed to have very little effect on Mrs. Thorpe; but she said nothing
-on that subject or any other during the rest of the dreary walk home,
-through rain, fog, and mud, to Baregrove Square.
-
-Rooms have their mysterious peculiarities of physiognomy as well as men.
-There are plenty of rooms, all of much the same size, all furnished
-in much the same manner, which, nevertheless, differ completely
-in expression (if such a term may be allowed) one from the other;
-reflecting the various characters of their inhabitants by such fine
-varieties of effect in the furniture-features generally common to all,
-as are often, like the infinitesimal varieties of eyes, noses, and
-mouths, too intricately minute to be traceable. Now, the parlor of Mr.
-Thorpe’s house was neat, clean, comfortably and sensibly furnished.
-It was of the average size. It had the usual side-board, dining-table,
-looking-glass, scroll fender, marble chimney-piece with a clock on it,
-carpet with a drugget over it, and wire window-blinds to keep people
-from looking in, characteristic of all respectable London parlors of the
-middle class. And yet it was an inveterately severe-looking room--a room
-that seemed as if it had never been convivial, never uproarious,
-never anything but sternly comfortable and serenely dull--a room which
-appeared to be as unconscious of acts of mercy, and easy unreasoning
-over-affectionate forgiveness to offenders of any kind--juvenile or
-otherwise--as if it had been a cell in Newgate, or a private torturing
-chamber in the Inquisition. Perhaps Mr. Goodworth felt thus affected
-by the parlor (especially in November weather) as soon as he entered
-it--for, although he had promised to beg Zack off, although Mr. Thorpe
-was sitting alone by the table and accessible to petitions, with a book
-in his hand, the old gentleman hesitated uneasily for a minute or two,
-and suffered his daughter to speak first.
-
-“Where is Zack?” asked Mrs. Thorpe, glancing quickly and nervously all
-round her.
-
-“He is locked up in my dressing-room,” answered her husband without
-taking his eyes off the book.
-
-“In your dressing-room!” echoed Mrs. Thorpe, looking as startled and
-horrified as if she had received a blow instead of an answer; “in your
-dressing-room! Good heavens, Zachary! how do you know the child hasn’t
-got at your razors?”
-
-“They are locked up,” rejoined Mr. Thorpe, with the mildest reproof in
-his voice, and the mournfullest self-possession in his manner. “I took
-care before I left the boy, that he should get at nothing which could do
-him any injury. He is locked up, and will remain locked up, because”--
-
-“I say, Thorpe! won’t you let him off this time?” interrupted Mr.
-Goodworth, boldly plunging head foremost, with his petition for mercy,
-into the conversation.
-
-“If you had allowed me to proceed, sir,” said Mr. Thorpe, who always
-called his father-in-law _Sir,_ “I should have simply remarked that,
-after having enlarged to my son (in such terms, you will observe, as I
-thought best fitted to his comprehension) on the disgrace to his parents
-and himself of his behavior this morning, I set him as a task three
-verses to learn out of the ‘Select Bible Texts for Children;’ choosing
-the verses which seemed most likely, if I may trust my own judgment
-on the point, to impress on him what his behavior ought to be for the
-future in church. He flatly refused to learn what I told him. It was, of
-course, quite impossible to allow my authority to be set at defiance by
-my own child (whose disobedient disposition has always, God knows, been
-a source of constant trouble and anxiety to me); so I locked him up, and
-locked up he will remain until he has obeyed me. My dear,” (turning to
-his wife and handing her a key), “I have no objection, if you wish, to
-your going and trying what _you_ can do towards overcoming the obstinacy
-of this unhappy child.”
-
-Mrs. Thorpe took the key, and went up stairs immediately--went up to do
-what all women have done, from the time of the first mother; to do
-what Eve did when Cain was wayward in his infancy, and cried at her
-breast--in short, went up to coax her child.
-
-Mr. Thorpe, when his wife closed the door, carefully looked down
-the open page on his knee for the place where he had left off--found
-it--referred back a moment to the last lines of the preceding leaf--and
-then went on with his book, not taking the smallest notice of Mr.
-Goodworth.
-
-“Thorpe!” cried the old gentleman, plunging head-foremost again, into
-his son-in-law’s reading this time instead of his talk, “You may say
-what you please; but your notion of bringing up Zack is a wrong one
-altogether.”
-
-With the calmest imaginable expression of face, Mr. Thorpe looked up
-from his book; and, first carefully putting a paper-knife between the
-leaves, placed it on the table. He then crossed one of his legs over the
-other, rested an elbow on each arm of his chair, and clasped his
-hands in front of him. On the wall opposite hung several
-lithographed portraits of distinguished preachers, in and out of the
-Establishment--mostly represented as very sturdily-constructed men with
-bristly hair, fronting the spectator interrogatively and holding thick
-books in their hands. Upon one of these portraits--the name of the
-original of which was stated at the foot of the print to be the Reverend
-Aaron Yollop--Mr. Thorpe now fixed his eyes, with a faint approach to
-a smile on his face (he never was known to laugh), and with a look and
-manner which said as plainly as if he had spoken it: “This old man is
-about to say something improper or absurd to me; but he is my wife’s
-father, it is my duty to bear with him, and therefore I am perfectly
-resigned.”
-
-“It’s no use looking in that way, Thorpe,” growled the old gentleman;
-“I’m not to be put down by looks at my time of life. I may have my own
-opinions I suppose, like other people; and I don’t see why I shouldn’t
-express them, especially when they relate to my own daughter’s boy. It’s
-very unreasonable of me, I dare say, but I think I ought to have a voice
-now and then in Zack’s bringing up.”
-
-Mr. Thorpe bowed respectfully--partly to Mr. Goodworth, partly to the
-Reverend Aaron Yollop. “I shall always be happy, sir, to listen to any
-expression of your opinion--”
-
-“My opinion’s this,” burst out Mr. Goodworth. “You’ve no business to
-take Zack to church at all, till he’s some years older than he is now.
-I don’t deny that there may be a few children, here and there, at six
-years old, who are so very patient, and so very--(what’s the word for
-a child that knows a deal more than he has any business to know at his
-age? Stop! I’ve got it!--_precocious_--that’s the word)--so very patient
-and so very precocious that they will sit quiet in the same place for
-two hours; making believe all the time that they understand every word
-of the service, whether they really do or not. I don’t deny that there
-may be such children, though I never met with them myself, and should
-think them all impudent little hypocrites if I did! But Zack isn’t one
-of that sort: Zack’s a genuine child (God bless him)! Zack--”
-
-“Do I understand you, my dear sir,” interposed Mr. Thorpe, sorrowfully
-sarcastic, “to be praising the conduct of my son in disturbing the
-congregation, and obliging me to take him out of church?”
-
-“Nothing of the sort,” retorted the old gentleman; “I’m not praising
-Zack’s conduct, but I _am_ blaming yours. Here it is in plain
-words:--_You_ keep on cramming church down his throat; and _he_ keeps on
-puking at it as if it was physic, because he don’t know any better,
-and can’t know any better at his age. Is that the way to make him take
-kindly to religious teaching? I know as well as you do, that he roared
-like a young Turk at the sermon. And pray what was the subject of the
-sermon? Justification by Faith. Do you mean to tell me that he, or any
-other child at his time of life, could understand anything of such a
-subject as that; or get an atom of good out of it? You can’t--you know
-you can’t! I say again, it’s no use taking him to church yet; and what’s
-more, it’s worse than no use, for you only associate his first ideas
-of religious instruction with everything in the way of restraint and
-discipline and punishment that can be most irksome to him. There! that’s
-my opinion, and I should like to hear what you’ve got to say against
-it?”
-
-“Latitudinarianism,” said Mr. Thorpe, looking and speaking straight at
-the portrait of the Reverend Aaron Yollop.
-
-“You can’t fob me off with long words, which I don’t understand, and
-which I don’t believe you can find in Johnson’s Dictionary,” continued
-Mr. Goodworth doggedly. “You would do much better to take my advice, and
-let Zack go to church, for the present, at his mother’s knees. Let his
-Morning Service be about ten minutes long; let your wife tell him, out
-of the New Testament, about Our Savior’s goodness and gentleness to
-little children; and then let her teach him, from the Sermon on the
-Mount, to be loving and truthful and forbearing and forgiving, for Our
-Savior’s sake. If such precepts as those are enforced--as they may be
-in one way or another--by examples drawn from his own daily life; from
-people around him; from what he meets with and notices and asks about,
-out of doors and in--mark my words, he’ll take kindly to his religious
-instruction. I’ve seen that in other children: I’ve seen it in my own
-children, who were all brought up so. Of course, you don’t agree with
-me! Of course you’ve got another objection all ready to bowl me down
-with?”
-
-“Rationalism,” said Mr. Thorpe, still looking steadily at the
-lithographed portrait of the Reverend Aaron Yollop.
-
-“Well, your objection’s a short one this time at any rate; and that’s a
-blessing!” said the old gentleman rather irritably. “Rationalism--eh? I
-understand that _ism,_ I rather suspect, better than the other. It
-means in plain English, that you think I’m wrong in only wanting to give
-religious instruction the same chance with Zack which you let all other
-kinds of instruction have--the chance of becoming useful by being first
-made attractive. You can’t get him to learn to read by telling him
-that it will improve his mind--but you can by getting him to look at a
-picture book. You can’t get him to drink senna and salts by reasoning
-with him about its doing him good--but you can by promising him a lump
-of sugar to take after it. You admit this sort of principle so far,
-because you’re obliged; but the moment anybody wants (in a spirit of
-perfect reverence and desire to do good) to extend it to higher things,
-you purse up your lips, shake your head, and talk about Rationalism--as
-if that was an answer! Well! well! it’s no use talking--go your own
-way--I wash my hands of the business altogether. But now I _am_ at
-it I’ll just say this one thing more before I’ve done:--your way of
-punishing the boy for his behavior in church is, in my opinion, about as
-bad and dangerous a one as could possibly be devised. Why not give him
-a thrashing, if you _must_ punish the miserable little urchin for
-what’s his misfortune as much as his fault? Why not stop his pudding, or
-something of that sort? Here you are associating verses in the Bible, in
-his mind, with the idea of punishment and being locked up in the cold!
-You may make him get his text by heart, I dare say, by fairly tiring him
-out; but I tell you what I’m afraid you’ll make him learn too, if you
-don’t mind--you’ll make him learn to dislike the Bible as much as other
-boys dislike the birch-rod!”
-
-“Sir,” cried Mr. Thorpe, turning suddenly round, and severely
-confronting Mr. Goodworth, “once for all, I must most respectfully
-insist on being spared for the future any open profanities in
-conversation, even from your lips. All my regard and affection for you,
-as Mrs. Thorpe’s father, shall not prevent me from solemnly recording my
-abhorrence of such awful infidelity as I believe to be involved in the
-words you have just spoken! My religious convictions recoil--”
-
-“Stop, sir!” said Mr. Goodworth, seriously and sternly.
-
-Mr. Thorpe obeyed at once. The old gentleman’s manner was generally
-much more remarkable for heartiness than for dignity; but it altered
-completely while he now spoke. As he struck his hand on the table, and
-rose from his chair, there was something in his look which it was not
-wise to disregard.
-
-“Mr. Thorpe,” he went on, more calmly, but very decidedly, “I refrain
-from telling you what my opinion is of the ‘respect’ and ‘affection’
-which have allowed _you_ to rebuke _me_ in such terms as you have
-chosen. I merely desire to say that I shall never need a second reproof
-of the same kind at your hands; for I shall never again speak to you
-on the subject of my grandson’s education. If, in consideration of this
-assurance, you will now permit me, in my turn--not to rebuke--but to
-offer you one word of advice, I would recommend you not to be too ready
-in future, lightly and cruelly to accuse a man of infidelity because
-his religious opinions happen to differ on some subjects from yours. To
-infer a serious motive for your opponent’s convictions, however wrong
-you may think them, can do _you_ no harm: to infer a scoffing motive can
-do _him_ no good. We will say nothing more about this, if you please.
-Let us shake hands, and never again revive a subject about which we
-disagree too widely ever to discuss it with advantage.”
-
-At this moment the servant came in with lunch. Mr. Goodworth poured
-himself out a glass of sherry, made a remark on the weather, and soon
-resumed his cheerful, everyday manner. But he did not forget the pledge
-that he had given to Mr. Thorpe. From that time forth, he never by word
-or deed interfered again in his grandson’s education.
-
-*****
-
-While the theory of Mr. Thorpe’s system of juvenile instruction was
-being discussed in the free air of the parlor, the practical working
-of that theory, so far as regarded the case of Master Zack, was being
-exemplified in anything but a satisfactory manner, in the prison-region
-of the dressing-room.
-
-While she ascended the first flight of stairs, Mrs. Thorpe’s ears
-informed her that her son was firing off one uninterrupted volley of
-kicks against the door of his place of confinement. As this was by no
-means an unusual circumstance, whenever the boy happened to be locked up
-for bad behavior, she felt distressed, but not at all surprised at what
-she heard; and went into the drawing-room, on her way up stairs, to
-deposit her Bible and Prayerbook (kept in a morocco case, with gold
-clasps) on the little side-table, upon which they were always placed
-during week-days. Possibly, she was so much agitated that her hand
-trembled; possibly, she was in too great a hurry; possibly, the
-household imp who rules the brittle destinies of domestic glass and
-china, had marked her out as his destroying angel for that day; but
-however it was, in placing the morocco case on the table, she knocked
-down and broke an ornament standing near it--a little ivory model of a
-church steeple in the florid style, enshrined in a glass case. Picking
-up the fragments, and mourning over the catastrophe, occupied some
-little time, more than she was aware of, before she at last left the
-drawing-room, to proceed on her way to the upper regions.
-
-As she laid her hand on the banisters, it struck her suddenly and
-significantly, that the noises in the dressing-room above had entirely
-ceased.
-
-The instant she satisfied herself of this, her maternal imagination,
-uninfluenced by what Mr. Thorpe had said below stairs, conjured up an
-appalling vision of Zack before his father’s looking-glass, with his
-chin well lathered, and a bare razor at his naked throat. The child
-had indeed a singular aptitude for amusing himself with purely adult
-occupations. Having once been incautiously taken into church by his
-nurse, to see a female friend of hers married, Zack had, the very next
-day, insisted on solemnizing the nuptial ceremony from recollection,
-before a bride and bridegroom of his own age, selected from his
-playfellows in the garden of the square. Another time, when the gardener
-had incautiously left his lighted pipe on a bench while he went
-to gather a flower for one of the local nursery-maids, whom he was
-accustomed to favor horticulturally in this way, Zack contrived,
-undetected, to take three greedy whiffs of pigtail in close succession;
-was discovered reeling about the grass like a little drunkard; and had
-to be smuggled home (deadly pale, and bathed in cold perspiration) to
-recover, out of his mother’s sight, in the congenial gloom of the back
-kitchen. Although the precise infantine achievements here cited were
-unknown to Mrs. Thorpe, there were plenty more, like them, which she had
-discovered; and the warning remembrance of which now hurried the poor
-lady up the second flight of stairs in a state of breathless agitation
-and alarm.
-
-Zack, however, had not got at the razors; for they were all locked up,
-as Mr. Thorpe had declared. But he had, nevertheless, discovered in
-the dressing-room a means of perpetrating domestic mischief, which his
-father had never thought of providing against. Finding that kicking,
-screaming, stamping, sobbing, and knocking down chairs, were quite
-powerless as methods of enforcing his liberation, he suddenly suspended
-his proceedings; looked all round the room; observed the cock which
-supplied his father’s bath with water; and instantly resolved to flood
-the house. He had set the water going in the bath, had filled it to
-the brim, and was anxiously waiting, perched up on a chair, to see it
-overflow--when his mother unlocked the dressing-room door, and entered
-the room.
-
-“Oh, you naughty, wicked, shocking child!” cried Mrs. Thorpe, horrified
-at what she beheld, but instantly stopping the threatened deluge from
-motives of precaution connected with the drawing-room ceiling. “Oh,
-Zack! Zack! what will you do next? What _would_ your papa say if he
-heard of this? You wicked, wicked, wicked child, I’m ashamed to look at
-you!”
-
-And, in very truth, Zack offered at that moment a sufficiently
-disheartening spectacle for a mother’s eyes to dwell on. There stood the
-young imp, sturdy and upright in his chair, wriggling his shoulders in
-and out of his frock, and holding his hands behind him in unconscious
-imitation of the favorite action of Napoleon the Great. His light hair
-was all rumpled down over his forehead; his lips were swelled; his nose
-was red; and from his bright blue eyes Rebellion looked out frankly
-mischievous, amid a surrounding halo of dirt and tears, rubbed circular
-by his knuckles. After gazing on her son in mute despair for a minute
-or so, Mrs. Thorpe took the only course that was immediately open to
-her--or, in other words, took the child off the chair.
-
-“Have you learnt your lesson, you wicked boy?” she asked.
-
-“No, I havn’t,” answered Zack, resolutely.
-
-“Then come to the table with me: your papa’s waiting to hear you. Come
-here and learn your lesson directly,” said Mrs. Thorpe, leading the way
-to the table.
-
-“I won’t!” rejoined Zack, emphasizing the refusal by laying tight hold
-of the wet sides of the bath with both hands.
-
-It was lucky for this rebel of six years old that he addressed those
-two words to his mother only. If his nurse had heard them, she would
-instantly have employed that old-established resource in all educational
-difficulties, familiarly known to persons of her condition under the
-appellation of “a smack on the head;” if Mr. Thorpe had heard them, the
-boy would have been sternly torn away, bound to the back of a chair, and
-placed ignominiously with his chin against the table; if Mr. Goodworth
-had heard them, the probability is that he would instantly have lost his
-temper, and soused his grandson head over ears in the bath. Not one of
-these ideas occurred to Mrs. Thorpe, who possessed no ideas. But she
-had certain substitutes which were infinitely more useful in the present
-emergency: she had instincts.
-
-“Look up at me, Zack,” she said, returning to the bath, and sitting in
-the chair by its side; “I want to say something to you.”
-
-The boy obeyed directly. His mother opened her lips, stopped suddenly,
-said a few words, stopped again, hesitated--and then ended her first
-sentence of admonition in the most ridiculous manner, by snatching at
-the nearest towel, and bearing Zack off to the wash-hand basin.
-
-The plain fact was, that Mrs. Thorpe was secretly vain of her child. She
-had long since, poor woman, forced down the strong strait-waistcoats of
-prudery and restraint over every other moral weakness but this--of all
-vanities the most beautiful; of all human failings surely the most
-pure! Yes, she was proud of Zack! The dear, naughty, handsome,
-church-disturbing, door-kicking, house-flooding Zack! If he had been
-a plain-featured boy, she could have gone on more sternly with her
-admonition: but to look coolly on his handsome face, made ugly by dirt,
-tears, and rumpled hair; to speak to him in that state, while soap,
-water, brush and towel, were all within reach, was more than the mother
-(or the woman either, for that matter) had the self-denial to do! So,
-before it had well begun, the maternal lecture ended impotently in the
-wash-hand basin.
-
-When the boy had been smartened and brushed up, Mrs. Thorpe took him on
-her lap; and suppressing a strong desire to kiss him on both his round,
-shining cheeks, said these words:--
-
-“I want you to learn your lesson, because you will please _me_ by
-obeying your papa. I have always been kind to _you,_--now I want you to
-be kind to _me.”_
-
-For the first time, Zack hung down his head, and seemed unprepared with
-an answer. Mrs. Thorpe knew by experience what this symptom meant. “I
-think you are beginning to be sorry for what you have done, and are
-going to be a good boy,” she said. “If you are, I know you will give me
-a kiss.” Zack hesitated again--then suddenly reached up, and gave his
-mother a hearty and loud-sounding kiss on the tip of her chin. “And now
-you will learn your lesson?” continued Mrs. Thorpe. “I have always tried
-to make _you_ happy, and I am sure you are ready, by this time, to try
-and make _me_ happy--are you not, Zack?”
-
-“Yes, I am,” said Zack manfully. His mother took him at once to the
-table, on which the “Select Bible Texts for Children” lay open, and
-tried to lift him into a chair “No!” said the boy, resisting and shaking
-his head resolutely; “I want to learn my lesson on your lap.”
-
-Mrs. Thorpe humored him immediately. She was not a handsome, not even a
-pretty woman; and the cold atmosphere of the dressing-room by no means
-improved her personal appearance. But, notwithstanding this, she looked
-absolutely attractive and interesting at the present moment, as she
-sat with Zack in her arms, bending over him while he studied his three
-verses in the “Bible Texts.” Women who have been ill-used by nature have
-this great advantage over men in the same predicament--wherever there
-is a child present, they have a means ready at hand, which they can all
-employ alike, for hiding their personal deficiencies. Who ever saw an
-awkward woman look awkward with a baby in her arms? Who ever saw an ugly
-woman look ugly when she was kissing a child?
-
-Zack, who was a remarkably quick boy when he chose to exert himself,
-got his lesson by heart in so short a time that his mother insisted on
-hearing him twice over, before she could satisfy herself that he was
-really perfect enough to appear in his father’s presence. The second
-trial decided her doubts, and she took him in triumph down stairs.
-
-Mr. Thorpe was reading intently, Mr. Goodworth was thinking profoundly,
-the rain was falling inveterately, the fog was thickening dirtily, and
-the austerity of the severe-looking parlor was hardening apace into its
-most adamantine Sunday grimness, as Zack was brought to say his lesson
-at his father’s knees. He got through it perfectly again; but his
-childish manner, during this third trial, altered from frankness to
-distrustfulness; and he looked much oftener, while he said his task, at
-Mr. Goodworth than at his father. When the texts had been repeated, Mr.
-Thorpe just said to his wife, before resuming his book--“You may tell
-the nurse, my dear, to get Zachary’s dinner ready for him--though he
-doesn’t deserve it for behaving so badly about learning his lesson.”
-
-“Please, grandpapa, may I look at the picture-book you brought for me
-last night, after I was in bed?” said Zack, addressing Mr. Goodworth,
-and evidently feeling that he was entitled to his reward now he had
-suffered his punishment.
-
-“Certainly not on a Sunday,” interposed Mr. Thorpe; “your grandpapa’s
-book is not a book for Sundays.”
-
-Mr. Goodworth started, and seemed about to speak; but recollecting what
-he had said to Mr. Thorpe, contented himself with poking the fire. The
-book in question was a certain romance, entitled “Jack and the Bean
-Stalk,” adorned with illustrations in the freest style of water-color
-art.
-
-“If you want to look at picture-books, you know what books you may have
-to-day; and your mamma will get them for you when she comes in again,”
- continued Mr. Thorpe.
-
-The works now referred to were, an old copy of the “Pilgrim’s Progress”
- containing four small prints of the period of the last century; and a
-“Life of Moses,” illustrated by severe German outlines in the manner of
-the modern school. Zack knew well enough what books his father meant,
-and exhibited his appreciation of them by again beginning to wriggle his
-shoulders in and out of his frock. He had evidently had more than enough
-already of the “Pilgrim’s Progress” and the “Life of Moses.”
-
-Mr. Thorpe said nothing more, and returned to his reading. Mr. Goodworth
-put his hands in his pockets, yawned disconsolately, and looked, with
-a languidly satirical expression in his eyes, to see what his grandson
-would do next. If the thought passing through the old gentleman’s mind
-at that moment had been put into words, it would have been exactly
-expressed in the following sentence:--“You miserable little boy! When I
-was your age, how I should have kicked at all this!”
-
-Zack was not long in finding a new resource. He spied Mr. Goodworth’s
-cane standing in a corner; and, instantly getting astride of it,
-prepared to amuse himself with a little imaginary horse-exercise up and
-down the room. He had just started at a gentle canter, when his father
-called out, “Zachary!” and brought the boy to a stand-still directly.
-
-“Put back the stick where you took it from,” said Mr. Thorpe; “you
-mustn’t do that on Sunday. If you want to move about, you can walk up
-and down the room.”
-
-Zack paused, debating for an instant whether he should disobey or burst
-out crying.
-
-“Put back the stick,” repeated Mr. Thorpe.
-
-Zack remembered the dressing-room and the “Select Bible Texts for
-Children,” and wisely obeyed. He was by this time completely crushed
-down into as rigid a state of Sunday discipline as his father could
-desire. After depositing the stick in the corner, he slowly walked up to
-Mr. Goodworth, with a comical expression of amazement and disgust in his
-chubby face, and meekly laid down his head on his grandfather’s knee.
-
-“Never say die, Zack,” said the kind old gentleman, rising and taking
-the boy in his arms. “While nurse is getting your dinner ready, let’s
-look out of window, and see if it’s going to clear up.”
-
-Mr. Thorpe raised his head disapprovingly from his book, but said
-nothing this time.
-
-“Ah, rain! rain! rain!” muttered Mr. Goodworth, staring desperately out
-at the miserable prospect, while Zack amused himself by rubbing his nose
-vacantly backwards and forwards against a pane of glass. “Rain!
-rain! Nothing but rain and fog in November. Hold up, Zack! Ding-dong,
-ding-dong; there go the bells for afternoon church! I wonder whether it
-will be fine to-morrow? Think of the pudding, my boy!” whispered the old
-gentleman with a benevolent remembrance of the consolation which that
-thought had often afforded to him, when he was a child himself.
-
-“Yes,” said Zack, acknowledging the pudding suggestion, but declining to
-profit by it. “And, please, when I’ve had my dinner, will somebody put
-me to bed?”
-
-“Put you to bed!” exclaimed Mr. Goodworth. “Why, bless the boy! what’s
-come to him now? He used always to be wanting to stop up.”
-
-“I want to go to bed, and get to to-morrow, and have my picture-book,”
- was the weary and whimpering answer.
-
-“I’ll be hanged, if I don’t want to go to bed too!” soliloquized the old
-gentleman under his breath, “and get to to-morrow, and have my ‘Times’
-at breakfast. I’m as bad as Zack, every bit!”
-
-“Grandpapa,” continued the child, more wearily than before, “I want to
-whisper something in your ear.”
-
-Mr. Goodworth bent down a little. Zack looked round cunningly towards
-his father--then putting his mouth close to his grandfather’s ear,
-communicated the conclusion at which he had arrived, after the events of
-the day, in these words--
-
-_“I say, granpapa, I hate Sunday!”_
-
-
-
-
-BOOK I. THE HIDING.
-
-
-
-CHAPTER I. A NEW NEIGHBORHOOD, AND A STRANGE CHARACTER.
 
 At the period when the episode just related occurred in the life of Mr.
 Zachary Thorpe the younger--that is to say, in the year 1837--Baregrove
@@ -1258,7 +520,6 @@ his acquaintance in the appropriate atmosphere of his own Studio.
 
 
 
-CHAPTER II. MR. BLYTH IN HIS STUDIO.
 
 It was wintry weather--not such a November winter’s day as some of us
 may remember looking at fourteen years ago, in Baregrove Square, but a
@@ -1693,7 +954,6 @@ Mystery of the painter’s fireside, and reveals the story of this book.
 
 
 
-CHAPTER III. MADONNA’S CHILDHOOD.
 
 In the autumn of 1838, Mrs. Blyth’s malady had for some time past
 assumed the permanent form from which it seldom afterwards varied. She
@@ -2373,7 +1633,6 @@ over the empty doorway.
 
 
 
-CHAPTER IV. MADONNA’S MOTHER.
 
 It is a quarter to twelve by the hall clock at the Rectory, and one of
 the finest autumn mornings of the whole season. Vance, Doctor Joyce’s
@@ -3018,7 +2277,6 @@ fit for such as you to hear.”
 
 
 
-CHAPTER V. MADONNA’S MISFORTUNE.
 
 As the clown’s wife ended her narrative, but little was said in the way
 of comment on it by those who had listened to her. They were too much
@@ -3494,7 +2752,6 @@ together in their shady resting-place among the trees.
 
 
 
-CHAPTER VI. MADONNA GOES TO LONDON.
 
 The clown’s wife had sat very pale and very quiet under the whole
 overwhelming torrent of Mr. Blyth’s apostrophes, exclamations, and
@@ -4058,7 +3315,6 @@ started for London by the first coach.
 
 
 
-CHAPTER VII. MADONNA IN HER NEW HOME.
 
 The result of Mr. Blyth’s Adventure in the traveling Circus, and of the
 events which followed it, was that little Mary at once became a member
@@ -4303,7 +3559,6 @@ pages back, in the congenial sphere of his own painting-room.*
 
 
 
-CHAPTER VIII. MENTOR AND TELEMACHUS.
 
 It is now some time since we left Mr. Blyth and Madonna in the studio.
 The first was engaged, it may be remembered, in the process of brushing
@@ -4670,7 +3925,6 @@ character of an unhappy man.
 
 
 
-CHAPTER IX. THE TRIBULATIONS OF ZACK.
 
 A week elapsed before Mrs. Blyth’s wavering health permitted her husband
 to open the sittings of his evening drawing-academy in the invalid room.
@@ -4921,7 +4175,6 @@ teaching him to draw from the “glorious Antique.”
 
 
 
-CHAPTER X. MR. BLYTH’S DRAWING ACADEMY.
 
 When the week of delay had elapsed, and when Mrs. Blyth felt strong
 enough to receive company in her room, Valentine sent the promised
@@ -5579,7 +4832,6 @@ but the poor girl whose ear no voice could reach, the servant announced:
 
 
 
-CHAPTER XI. THE BREWING OF THE STORM.
 
 Time had lavishly added to Mrs. Peckover’s size, but had generously
 taken little or nothing from her in exchange. Her hair had certainly
@@ -6385,7 +5637,6 @@ BOOK II. THE SEEKING.
 
 
 
-CHAPTER I. THE MAN WITH THE BLACK SKULL-CAP.
 
 The Roman poet who, writing of vice, ascribed its influence entirely to
 the allurement of the fair disguises that it wore, and asserted that
@@ -6921,7 +6172,6 @@ Something _did_ come of it.
 
 
 
-CHAPTER II. THE PRODIGAL’S RETURN.
 
 When Zack reached Baregrove Square, it was four in the morning. The
 neighboring church clock struck the hour as he approached his own door.
@@ -7270,7 +6520,6 @@ Square.
 
 
 
-CHAPTER III. THE SEARCH BEGUN.
 
 The street which Mat had chosen for his place of residence in London,
 was situated in a densely populous, and by no means respectable
@@ -7828,7 +7077,6 @@ where the clue lay hid--the clue to the Mystery of Mary Grice.
 
 
 
-CHAPTER IV. FATE WORKS, WITH ZACK FOR AN INSTRUMENT.
 
 A quarter of an hour’s rapid walking from his father’s door, took Zack
 well out of the neighborhood of Baregrove Square, and launched him in
@@ -8256,7 +7504,6 @@ followed the road to his own house.
 
 
 
-CHAPTER V. FATE WORKS, WITH MR. BLYTH FOR AN INSTRUMENT.
 
 The great day of the year in Valentine’s house was always the day on
 which his pictures for the Royal Academy Exhibition were shown in their
@@ -9087,7 +8334,6 @@ his friend from the backwoods was close behind him.
 
 
 
-CHAPTER VI. THE FINDING OF THE CLUE.
 
 Mr. Blyth’s visitors, now that their common center of attraction had
 disappeared, either dispersed again in the painting-room, or approached
@@ -9386,7 +8632,6 @@ direction of Kirk Street.
 
 
 
-CHAPTER VII. THE BOX OF LETTERS.
 
 The first thing Mat did when he got to his lodgings, was to fill and
 light his pipe. He then sat down on his bear-skins, and dragged the box
@@ -9714,7 +8959,6 @@ of all the afternoon light which still flowed into the room.
 
 
 
-CHAPTER VIII. JOANNA GRICE’S NARRATIVE.
 
 “I intend this letter to be read after my death, and I purpose calling
 it plainly a Justification of my conduct towards my Niece. Not because
@@ -10384,7 +9628,6 @@ me.”
 
 
 
-CHAPTER IX. MORE DISCOVERIES.
 
 When Zack entered the room, and saw his strange friend, with legs
 crossed and hands in pockets, sitting gravely in the usual corner,
@@ -10819,7 +10062,6 @@ handkerchief, as he quietly settled himself to go to sleep.
 
 
 
-CHAPTER X. THE SQUAW’S MIXTURE.
 
 Like the vast majority of those persons who are favored by Nature with,
 what is commonly termed, “a high flow of animal spirits,” Zack was
@@ -11516,7 +10758,6 @@ good earnest.
 
 
 
-CHAPTER XI. THE GARDEN DOOR.
 
 “Hit or miss, I’ll chance it to-night” Those words were the first that
 issued from Mat’s lips on the morning after Mr. Blyth’s visit, as he
@@ -12231,7 +11472,6 @@ that led him back to Valentine’s house.
 
 
 
-CHAPTER XII. THE HAIR BRACELET.
 
 Mr. Blyth’s spirits sank apace, as he bolted and locked the front door,
 when his guests had left him. He actually sighed as he now took a turn
@@ -12732,7 +11972,6 @@ this time in the darkness of the street.
 
 
 
-CHAPTER XIII. THE SEARCH FOR ARTHUR CARR.
 
 Mr. Blyth was astir betimes on the morning after Mat and young Thorpe
 had visited him in the studio. Manfully determined not to give way an
@@ -13247,7 +12486,6 @@ his pocket, and taking the way back to the railway station immediately.
 
 
 
-CHAPTER XIV. MARY’S GRAVE.
 
 Matthew Grice was a resolute traveler; but no resolution is powerful
 enough to alter the laws of inexorable Time-Tables to suit the
@@ -14133,7 +13371,6 @@ me, I shall find him yet!”
 
 
 
-CHAPTER XV. THE DISCOVERY OF ARTHUR CARR.
 
 While Matthew Grice was traveling backwards and forwards between town
 and town in the midland counties, the life led by his young friend
@@ -14748,7 +13985,6 @@ Zack.”
 
 
 
-CHAPTER XVI. THE DAY OF RECKONING.
 
 On the forenoon of the day that followed Mat’s return to Kirk Street,
 the ordinarily dull aspect of Baregrove Square was enlivened by a
@@ -15064,7 +14300,6 @@ passed by her, and left the house.
 
 
 
-CHAPTER XVII. MATTHEW GRICE’S REVENGE.
 
 Neither looking to the right nor the left, neither knowing nor caring
 whither he went, Matthew Grice took the first turning he came to,
@@ -15866,364 +15101,3 @@ who desires to address himself to the best sympathies of his readers.
 
 
 
-End of the Project Gutenberg EBook of Hide and Seek, by Wilkie Collins
-
-*** END OF THIS PROJECT GUTENBERG EBOOK HIDE AND SEEK ***
-
-***** This file should be named 7893-0.txt or 7893-0.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/7/8/9/7893/
-
-Produced by James Rusk
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  “Project Gutenberg” is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation (“the Foundation”
- or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase “Project Gutenberg” appears, or with which the phrase “Project
-Gutenberg” is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase “Project Gutenberg” associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-“Plain Vanilla ASCII” or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original “Plain Vanilla ASCII” or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, “Information about donations to
-     the Project Gutenberg Literary Archive Foundation.”
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-“Defects,” such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’ WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm’s
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation’s EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state’s laws.
-
-The Foundation’s principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation’s web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
