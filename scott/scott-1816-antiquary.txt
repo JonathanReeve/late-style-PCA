@@ -1,963 +1,3 @@
-The Project Gutenberg EBook of The Antiquary, Complete, by Sir Walter Scott
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-
-Title: The Antiquary, Complete
-
-Author: Sir Walter Scott
-
-Release Date: October 25, 2006 [EBook #7005]
-Last Updated: August 29, 2016
-
-
-Language: English
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE ANTIQUARY, COMPLETE ***
-
-
-
-
-Produced by David Widger
-
-
-
-
-
-
-THE ANTIQUARY
-
-
-BY SIR WALTER SCOTT, BART.
-
-
-[Illustration: Titlepage]
-
-
-[Illustration: Frontispiece]
-
-
-
-
-CONTENTS
-
-VOLUME ONE
-
-INTRODUCTION
-
-EDITOR’S INTRODUCTION
-
-CHAPTER FIRST.
-
-CHAPTER SECOND.
-
-CHAPTER THIRD.
-
-CHAPTER FOURTH.
-
-CHAPTER FIFTH.
-
-CHAPTER SIXTH.
-
-CHAPTER SEVENTH.
-
-CHAPTER EIGHTH.
-
-CHAPTER NINTH.
-
-CHAPTER TENTH.
-
-CHAPTER ELEVENTH.
-
-CHAPTER TWELFTH.
-
-CHAPTER THIRTEENTH.
-
-CHAPTER FOURTEENTH.
-
-CHAPTER FIFTEENTH.
-
-CHAPTER SIXTEENTH.
-
-CHAPTER SEVENTEENTH.
-
-CHAPTER EIGHTEENTH.
-
-CHAPTER NINETEENTH.
-
-CHAPTER TWENTIETH.
-
-CHAPTER TWENTY-FIRST.
-
-
-
-
-ILLUSTRATIONS
-
-Bookcover
-
-Spines
-
-Titlepage
-
-Frontispiece
-
-The Antiquary and Lovel--the Sanctum
-
-Sir Arthur and Miss Wardour
-
-The Rescue of Sir Arthur and Miss Wardour
-
-Eddie Ochiltree Visits Miss Wardour
-
-Mrs. Heukbane and Mrs. Shortcake
-
-St. Ruth (arbroath Abbey)
-
-The Ruins of St. Ruth
-
-
-
-
-
-VOLUME ONE
-
-           I knew Anselmo. He was shrewd and prudent,
-                Wisdom and cunning had their shares of him;
-                But he was shrewish as a wayward child,
-           And pleased again by toys which childhood please;
-           As--book of fables, graced with print of wood,
-                Or else the jingling of a rusty medal,
-                Or the rare melody of some old ditty,
-           That first was sung to please King Pepin’s cradle
-
-
-
-
-
-INTRODUCTION
-
-The present work completes a series of fictitious narratives, intended
-to illustrate the manners of Scotland at three different periods.
-Waverley embraced the age of our fathers, Guy Mannering that of our own
-youth, and the Antiquary refers to the last ten years of the eighteenth
-century. I have, in the two last narratives especially, sought my
-principal personages in the class of society who are the last to feel
-the influence of that general polish which assimilates to each other the
-manners of different nations. Among the same class I have placed some
-of the scenes in which I have endeavoured to illustrate the operation of
-the higher and more violent passions; both because the lower orders are
-less restrained by the habit of suppressing their feelings, and because
-I agree, with my friend Wordsworth, that they seldom fail to express
-them in the strongest and most powerful language. This is, I think,
-peculiarly the case with the peasantry of my own country, a class with
-whom I have long been familiar. The antique force and simplicity
-of their language, often tinctured with the Oriental eloquence of
-Scripture, in the mouths of those of an elevated understanding, give
-pathos to their grief, and dignity to their resentment.
-
-I have been more solicitous to describe manners minutely than to arrange
-in any case an artificial and combined narrative, and have but to regret
-that I felt myself unable to unite these two requisites of a good Novel.
-
-The knavery of the adept in the following sheets may appear forced
-and improbable; but we have had very late instances of the force of
-superstitious credulity to a much greater extent, and the reader may be
-assured, that this part of the narrative is founded on a fact of actual
-occurrence.
-
-I have now only to express my gratitude to the Public for the
-distinguished reception which, they have given to works, that have
-little more than some truth of colouring to recommend them, and to take
-my respectful leave, as one who is not likely again to solicit their
-favour.
-
-
-To the above advertisement, which was prefixed to the first edition
-of the Antiquary, it is necessary in the present edition to add a
-few words, transferred from the Introduction to the Chronicles of the
-Canongate, respecting the character of Jonathan Oldbuck.
-
-“I may here state generally, that although I have deemed historical
-personages free subjects of delineation, I have never on any occasion
-violated the respect due to private life. It was indeed impossible that
-traits proper to persons, both living and dead, with whom I have had
-intercourse in society, should not have risen to my pen in such works
-as Waverley, and those which followed it. But I have always studied to
-generalise the portraits, so that they should still seem, on the whole,
-the productions of fancy, though possessing some resemblance to real
-individuals. Yet I must own my attempts have not in this last particular
-been uniformly successful. There are men whose characters are so
-peculiarly marked, that the delineation of some leading and principal
-feature, inevitably places the whole person before you in his
-individuality. Thus the character of Jonathan Oldbuck in the Antiquary,
-was partly founded on that of an old friend of my youth, to whom I am
-indebted for introducing me to Shakspeare, and other invaluable favours;
-but I thought I had so completely disguised the likeness, that it could
-not be recognised by any one now alive. I was mistaken, however, and
-indeed had endangered what I desired should be considered as a secret;
-for I afterwards learned that a highly respectable gentleman, one of the
-few surviving friends of my father, and an acute critic, had said, upon
-the appearance of the work, that he was now convinced who was the author
-of it, as he recognised, in the Antiquary, traces of the character of a
-very intimate friend* of my father’s family.”
-
-* [The late George Constable of Wallace Craigie, near Dundee.]
-
-I have only farther to request the reader not to suppose that my late
-respected friend resembled Mr. Oldbuck, either in his pedigree, or the
-history imputed to the ideal personage. There is not a single incident
-in the Novel which is borrowed from his real circumstances, excepting
-the fact that he resided in an old house near a flourishing seaport, and
-that the author chanced to witness a scene betwixt him and the female
-proprietor of a stage-coach, very similar to that which commences the
-history of the Antiquary. An excellent temper, with a slight degree of
-subacid humour; learning, wit, and drollery, the more poignant that
-they were a little marked by the peculiarities of an old bachelor; a
-soundness of thought, rendered more forcible by an occasional quaintness
-of expression, were, the author conceives, the only qualities in which
-the creature of his imagination resembled his benevolent and excellent
-old friend.
-
-The prominent part performed by the Beggar in the following narrative,
-induces the author to prefix a few remarks of that character, as it
-formerly existed in Scotland, though it is now scarcely to be traced.
-
-Many of the old Scottish mendicants were by no means to be confounded
-with the utterly degraded class of beings who now practise that
-wandering trade. Such of them as were in the habit of travelling through
-a particular district, were usually well received both in the farmer’s
-ha’, and in the kitchens of the country gentlemen. Martin, author of
-the Reliquiae Divi Sancti Andreae, written in 1683, gives the following
-account of one class of this order of men in the seventeenth century,
-in terms which would induce an antiquary like Mr. Oldbuck to regret its
-extinction. He conceives them to be descended from the ancient bards,
-and proceeds:--“They are called by others, and by themselves,
-Jockies, who go about begging; and use still to recite the Sloggorne
-(gathering-words or war-cries) of most of the true ancient surnames
-of Scotland, from old experience and observation. Some of them I have
-discoursed, and found to have reason and discretion. One of them told
-me there were not now above twelve of them in the whole isle; but he
-remembered when they abounded, so as at one time he was one of five that
-usually met at St. Andrews.”
-
-The race of Jockies (of the above description) has, I suppose, been long
-extinct in Scotland; but the old remembered beggar, even in my own time,
-like the Baccoch, or travelling cripple of Ireland, was expected to
-merit his quarters by something beyond an exposition of his distresses.
-He was often a talkative, facetious fellow, prompt at repartee, and not
-withheld from exercising his powers that way by any respect of persons,
-his patched cloak giving him the privilege of the ancient jester. To
-be a gude crack, that is, to possess talents for conversation, was
-essential to the trade of a “puir body” of the more esteemed class; and
-Burns, who delighted in the amusement their discourse afforded, seems to
-have looked forward with gloomy firmness to the possibility of himself
-becoming one day or other a member of their itinerant society. In his
-poetical works, it is alluded to so often, as perhaps to indicate that
-he considered the consummation as not utterly impossible. Thus in the
-fine dedication of his works to Gavin Hamilton, he says,--
-
-                     And when I downa yoke a naig,
-                    Then, Lord be thankit, I can beg.
-
-Again, in his Epistle to Davie, a brother Poet, he states, that in their
-closing career--
-
-                     The last o’t, the warst o’t,
-                         Is only just to beg.
-
-And after having remarked, that
-
-                  To lie in kilns and barns at e’en,
-                  When banes are crazed and blude is thin,
-
-Is doubtless great distress; the bard reckons up, with true poetical
-spirit, the free enjoyment of the beauties of nature, which might
-counterbalance the hardship and uncertainty of the life, even of
-a mendicant. In one of his prose letters, to which I have lost the
-reference, he details this idea yet more seriously, and dwells upon it,
-as not ill adapted to his habits and powers.
-
-As the life of a Scottish mendicant of the eighteenth century seems to
-have been contemplated without much horror by Robert Burns, the author
-can hardly have erred in giving to Edie Ochiltree something of poetical
-character and personal dignity, above the more abject of his miserable
-calling. The class had, intact, some privileges. A lodging, such as
-it was, was readily granted to them in some of the out-houses, and the
-usual awmous (alms) of a handful of meal (called a gowpen) was scarce
-denied by the poorest cottager. The mendicant disposed these, according
-to their different quality, in various bags around his person, and thus
-carried about with him the principal part of his sustenance, which he
-literally received for the asking. At the houses of the gentry, his
-cheer was mended by scraps of broken meat, and perhaps a Scottish
-“twalpenny,” or English penny, which was expended in snuff or whiskey.
-In fact, these indolent peripatetics suffered much less real hardship
-and want of food, than the poor peasants from whom they received alms.
-
-If, in addition to his personal qualifications, the mendicant chanced to
-be a King’s Bedesman, or Blue-Gown, he belonged, in virtue thereof,
-to the aristocracy of his order, and was esteemed a parson of great
-importance.
-
-These Bedesmen are an order of paupers to whom the Kings of Scotland
-were in the custom of distributing a certain alms, in conformity with
-the ordinances of the Catholic Church, and who were expected in return
-to pray for the royal welfare and that of the state. This order is still
-kept up. Their number is equal to the number of years which his Majesty
-has lived; and one Blue-Gown additional is put on the roll for every
-returning royal birth-day. On the same auspicious era, each Bedesman
-receives a new cloak, or gown of coarse cloth, the colour light blue,
-with a pewter badge, which confers on them the general privilege of
-asking alms through all Scotland,--all laws against sorning, masterful
-beggary, and every other species of mendicity, being suspended in favour
-of this privileged class. With his cloak, each receives a leathern
-purse, containing as many shillings Scots (videlicet, pennies sterling)
-as the sovereign is years old; the zeal of their intercession for the
-king’s long life receiving, it is to be supposed, a great stimulus
-from their own present and increasing interest in the object of their
-prayers. On the same occasion one of the Royal Chaplains preaches a
-sermon to the Bedesmen, who (as one of the reverend gentlemen expressed
-himself) are the most impatient and inattentive audience in the world.
-Something of this may arise from a feeling on the part of the Bedesmen,
-that they are paid for their own devotions, not for listening to those
-of others. Or, more probably, it arises from impatience, natural, though
-indecorous in men bearing so venerable a character, to arrive at the
-conclusion of the ceremonial of the royal birth-day, which, so far as
-they are concerned, ends in a lusty breakfast of bread and ale; the
-whole moral and religious exhibition terminating in the advice of
-Johnson’s “Hermit hoar” to his proselyte,
-
-                   Come, my lad, and drink some beer.
-
-Of the charity bestowed on these aged Bedesmen in money and clothing,
-there are many records in the Treasurer’s accompts. The following
-extract, kindly supplied by Mr. Macdonald of the Register House, may
-interest those whose taste is akin to that of Jonathan Oldbuck of
-Monkbarns. BLEW GOWNIS.
-
-    In the Account of Sir Robert Melvill of Murdocarney,
-    Treasurer-Depute of King James VI., there are the following Payments:--
-
-                              “Junij 1590.
-
-    “Item, to Mr. Peter Young, Elimosinar, twentie four gownis of blew
-    clayth, to be gevin to xxiiij auld men, according to the yeiris of his
-    hienes age, extending to viii xx viii elnis clayth; price of the elne
-    xxiiij s.                              Inde, ij cj li. xij s.
-
-    “Item, for sextene elnis bukrum to the saidis gownis, price of the elne x
-    s.                                     Inde, viij li.
-
-    “Item, twentie four pursis, and in ilk purse twentie four schelling
-                                        Inde, xxciij li.  xvj s.
-    “Item, the price of ilk purse iiij d.       Inde, viij s.
-
-    “Item, for making of the saidis gownis       viij li.”
-
-    In the Account of John, Earl of Mar, Great Treasurer of Scotland, and of
-    Sir Gideon Murray of Enbank, Treasurer-Depute, the Blue-Gowns also appear
-    thus:--
-
-
-                              “Junij 1617.
-
-   “Item, to James Murray, merchant, for fyftene scoir sex elnis and aine
-   half elne of blew claith to be gownis to fyftie ane aigeit men, according
-   to the yeiris of his Majesteis age, at xl s.  the elne
-                                        Inde, vj c xiij li.
-
-    “Item, to workmen for careing the blewis to James Aikman, tailyeour, his
-    hous xiij s.  iiij d.
-
-    “Item, for sex elnis and ane half of harden to the saidis gownis, at vj
-    s.  viij d.  the elne                 Inde, xliij s. iiij d.
-
-    “Item, to the said workmen for careing of the gownis fra the said James
-    Aikman’s hous to the palace of Halyrudehous xviij s.
-
-    “Item, for making the saidis fyftie ane gownis, at xij s.  the peice
-                                        Inde, xxx li. xij s.
-
-    “Item, for fyftie ane pursis to the said puire menlj s.
-
-    “Item, to Sir Peter Young, li s.  to be put in everie ane of the saidis
-    ljpursis to the said poore men j cxxxl jj s.
-
-    “Item, to the said Sir Peter, to buy breid and drink to the said puir men
-    vj li. xiij s. iiij d.
-
-    “Item, to the said Sir Peter, to be delt amang uther puire folk j cli.
-
-    “Item, upoun the last day of Junii to Doctor Young, Deane of Winchester,
-    Elimozinar Deput to his Majestic, twentie fyve pund sterling, to be gevin
-    to the puir be the way in his Majesteis progress    Inde, iij c li.”
-
-I have only to add, that although the institution of King’s Bedesmen
-still subsists, they are now seldom to be seen on the streets
-of Edinburgh, of which their peculiar dress made them rather a
-characteristic feature.
-
-Having thus given an account of the genus and species to which Edie
-Ochiltree appertains, the author may add, that the individual he had
-in his eye was Andrew Gemmells, an old mendicant of the character
-described, who was many years since well known, and must still be
-remembered, in the vales of Gala, Tweed, Ettrick, Yarrow, and the
-adjoining country.
-
-The author has in his youth repeatedly seen and conversed with Andrew,
-but cannot recollect whether he held the rank of Blue-Gown. He was a
-remarkably fine old figure, very tall, and maintaining a soldierlike
-or military manner and address. His features were intelligent, with a
-powerful expression of sarcasm. His motions were always so graceful,
-that he might almost have been suspected of having studied them; for
-he might, on any occasion, have, served as a model for an artist, so
-remarkably striking were his ordinary attitudes. Andrew Gemmells had
-little of the cant of his calling; his wants were food and shelter, or
-a trifle of money, which he always claimed, and seemed to receive as his
-due. He, sung a good song, told a good story, and could crack a severe
-jest with all the acumen of Shakespeare’s jesters, though without using,
-like them, the cloak of insanity. It was some fear of Andrew’s satire,
-as much as a feeling of kindness or charity, which secured him the
-general good reception which he enjoyed everywhere. In fact, a jest of
-Andrew Gemmells, especially at the expense of a person of consequence,
-flew round the circle which he frequented, as surely as the bon-mot of
-a man of established character for wit glides through the fashionable
-world, Many of his good things are held in remembrance, but are
-generally too local and personal to be introduced here.
-
-Andrew had a character peculiar to himself among his tribe for aught I
-ever heard. He was ready and willing to play at cards or dice with any
-one who desired such amusement. This was more in the character of the
-Irish itinerant gambler, called in that country a “carrow,” than of the
-Scottish beggar. But the late Reverend Doctor Robert Douglas, minister
-of Galashiels, assured the author, that the last time he saw Andrew
-Gemmells, he was engaged in a game at brag with a gentleman of fortune,
-distinction, and birth. To preserve the due gradations of rank, the
-party was made at an open window of the chateau, the laird sitting on
-his chair in the inside, the beggar on a stool in the yard; and they
-played on the window-sill. The stake was a considerable parcel of
-silver. The author expressing some surprise, Dr. Douglas observed, that
-the laird was no doubt a humourist or original; but that many decent
-persons in those times would, like him, have thought there was
-nothing extraordinary in passing an hour, either in card-playing or
-conversation, with Andrew Gemmells.
-
-This singular mendicant had generally, or was supposed to have, much
-money about his person, as would have been thought the value of his life
-among modern foot-pads. On one occasion, a country gentleman, generally
-esteemed a very narrow man, happening to meet Andrew, expressed great
-regret that he had no silver in his pocket, or he would have given him
-sixpence.--“I can give you change for a note, laird,” replied Andrew.
-
-Like most who have arisen to the head of their profession, the modern
-degradation which mendicity has undergone was often the subject of
-Andrew’s lamentations. As a trade, he said, it was forty pounds a-year
-worse since he had first practised it. On another occasion he observed,
-begging was in modern times scarcely the profession of a gentleman; and
-that, if he had twenty sons, he would not easily be induced to breed one
-of them up in his own line. When or where this laudator temporis acti
-closed his wanderings, the author never heard with certainty; but most
-probably, as Burns says,
-
-                   --he died a cadger-powny’s death,
-                          At some dike side.
-
-The author may add another picture of the same kind as Edie Ochiltree
-and Andrew Gemmells; considering these illustrations as a sort of
-gallery, open to the reception of anything which may elucidate former
-manners, or amuse the reader.
-
-The author’s contemporaries at the university of Edinburgh will probably
-remember the thin, wasted form of a venerable old Bedesman, who stood
-by the Potterrow-Port, now demolished, and, without speaking a syllable,
-gently inclined his head, and offered his hat, but with the least
-possible degree of urgency, towards each individual who passed. This man
-gained, by silence and the extenuated and wasted appearance of a palmer
-from a remote country, the same tribute which was yielded to Andrew
-Gemmells’ sarcastic humour and stately deportment. He was understood to
-be able to maintain a son a student in the theological classes of the
-University, at the gate of which the father was a mendicant. The young
-man was modest and inclined to learning, so that a student of the same
-age, and whose parents where rather of the lower order, moved by seeing
-him excluded from the society of other scholars when the secret of his
-birth was suspected, endeavoured to console him by offering him some
-occasional civilities. The old mendicant was grateful for this attention
-to his son, and one day, as the friendly student passed, he stooped
-forward more than usual, as if to intercept his passage. The scholar
-drew out a halfpenny, which he concluded was the beggar’s object, when
-he was surprised to receive his thanks for the kindness he had shown to
-Jemmie, and at the same time a cordial invitation to dine with them next
-Saturday, “on a shoulder of mutton and potatoes,” adding, “ye’ll put on
-your clean sark, as I have company.” The student was strongly tempted
-to accept this hospitable proposal, as many in his place would
-probably have done; but, as the motive might have been capable of
-misrepresentation, he thought it most prudent, considering the character
-and circumstances of the old man, to decline the invitation.
-
-Such are a few traits of Scottish mendicity, designed to throw light on
-a Novel in which a character of that description plays a prominent
-part. We conclude, that we have vindicated Edie Ochiltree’s right to the
-importance assigned him; and have shown, that we have known one beggar
-take a hand at cards with a person of distinction, and another give
-dinner parties.
-
-I know not if it be worth while to observe, that the Antiquary,* was not
-so well received on its first appearance as either of its predecessors,
-though in course of time it rose to equal, and, with some readers,
-superior popularity.
-
-* Note A. Mottoes.
-
-
-
-
-EDITOR’S INTRODUCTION TO THE ANTIQUARY.
-
-“THE ANTIQUARY” was begun in 1815; the bargain for its publication by
-Constable was made in the October of that year. On December 22 Scott
-wrote to Morritt: “I shall set myself seriously to ‘The Antiquary,’ of
-which I have only a very general sketch at present; but when once I get
-my pen to the paper it will walk fast enough. I am sometimes tempted to
-leave it alone, and try whether it will not write as well without the
-assistance of my head as with it,--a hopeful prospect for the reader!’”
- It is amazing enough that he even constructed “a general sketch,” for
-to such sketches he confesses that he never could keep constant. “I have
-generally written to the middle of one of these novels without having
-the least idea how it was to end,--in short, in the hab nab at a venture
-style of composition” (Journal, Feb. 24, 1828). Yet it is almost
-impossible but that the plot of “The Antiquary” should have been duly
-considered. Scott must have known from the first who Lovel was to
-turn out to be, and must have recognised in the hapless bride of
-Lord Glenallan the object of the Antiquary’s solitary and unfortunate
-passion. To introduce another Wandering Heir immediately after the Harry
-Bertram of “Guy Mannering” was rather audacious. But that old favourite,
-the Lost Heir, is nearly certain to be popular. For the Antiquary’s
-immortal sorrow Scott had a model in his own experience. “What a romance
-to tell!--and told, I fear, it will one day be. And then my three years
-of dreaming and my two years of wakening will be chronicled doubtless.
-But the dead will feel no pain.” The dead, as Aristotle says, if they
-care for such things at all, care no more than we do for what has passed
-in a dream.
-
-The general sketch probably began to take full shape about the last day
-of 1815. On December 29 Scott wrote to Ballantyne:--
-
-          DEAR JAMES,--
-               I’ve done, thank’God, with the long yarns
-                   Of the most prosy of Apostles--Paul, 1
-               And now advance, sweet heathen of Monkbarns,
-                  Step out, old quizz, as fast as I can scrawl.
-
-In “The Antiquary” Scott had a subject thoroughly to his mind. He
-had been an antiquary from his childhood. His earliest pence had
-been devoted to that collection of printed ballads which is still
-at Abbotsford. These he mentions in the unfinished fragment of his
-“Reliquiae Trotcosienses,” in much the same words as in his manuscript
-note on one of the seven volumes.
-
-“This little collection of Stall tracts and ballads was formed by me,
-when a boy, from the baskets of the travelling pedlars. Until put into
-its present decent binding it had such charms for the servants that it
-was repeatedly, and with difficulty, recovered from their clutches. It
-contains most of the pieces that were popular about thirty years since,
-and, I dare say, many that could not now be procured for any price
-(1810).”
-
-Nor did he collect only--
-
-                      “The rare melody of some old ditties
-          That first were sung to please King Pepin’s cradle.
-
-“Walter had soon begun to gather out-of-the-way things of all sorts. He
-had more books than shelves [sic]; a small painted cabinet with Scotch
-and Roman coins in it, and so forth. A claymore and Lochaber axe,
-given him by old Invernahyle, mounted guard on a little print of Prince
-Charlie; and Broughton’s Saucer was hooked up on the wall below it.” He
-had entered literature through the ruined gateway of archleology, in the
-“Border Minstrelsy,” and his last project was an edition of Perrault’s
-“Contes de Ma Mere l’Oie.” As pleasant to him as the purchase of new
-lands like Turn Again, bought dearly, as in Monkbarns’s case, from
-“bonnet lauds,” was a fresh acquisition of an old book or of old armour.
-Yet, with all his enthusiasm, he did not please the antiquaries of his
-own day. George Chalmers, in Constable’s “Life and Correspondence”
- (i. 431), sneers at his want of learning. “His notes are loose and
-unlearned, as they generally are.” Charles Kirkpatrick Sharpe, his
-friend in life, disported himself in jealous and ribald mockery of
-Scott’s archaeological knowledge, when Scott was dead. In a letter of
-the enigmatic Thomas Allen, or James Stuart Hay, father of John Sobieski
-and Charles Edward Stuart, this mysterious person avers that he never
-knew Scott’s opinion to be held as of any value by antiquaries (1829).
-They probably missed in him “a sort of pettifogging intimacy with dates,
-names, and trifling matters of fact,--a tiresome and frivolous accuracy
-of memory” which Sir Arthur Wardour reproves in Monkbarns. Scott, in
-brief, was not as Dry-as-dust; all the dead bones that he touches come
-to life. He was as great an archeologist as a poet can be, and, with
-Virgil, was the greatest antiquary among poets. Like Monkbarns, he was
-not incapable of being beguiled. As Oldbuck bought the bodle from the
-pedlar at the price of a rare coin, so Scott took Surtees’s “Barthram’s
-Dirge,” and his Latin legend of the tourney with the spectre knight, for
-genuine antiquities. No Edie Ochiltree ever revealed to him the truth
-about these forgeries, and the spectre knight, with the ballad of
-“Anthony Featherstonhaugh,” hold their own in “Marmion,” to assure the
-world that this antiquary was gullible when the sleight was practised by
-a friend. “Non est tanti,” he would have said, had he learned the truth;
-for he was ever conscious of the humorous side of the study of the
-mouldering past. “I do not know anything which relieves the mind so much
-from the sullens as a trifling discourse about antiquarian oldwomanries.
-It is like knitting a stocking,--diverting the mind without occupying
-it.” (“Journal,” March 9, 1828).
-
-Begun about Jan. 1, 1816, “The Antiquary” was published before May 16,
-1816, when Scott writes to say that he has sent Mr. Morritt the novel
-“some time since.” “It is not so interesting as its predecessors; the
-period does not admit of so much romantic situation. But it has been
-more fortunate than any of them in the sale, for six thousand went off
-in the first six days, and it is now at press again.” The Preface of the
-first edition ends with the melancholy statement that the author “takes
-his respectful leave, as one who is not likely again to solicit favour.”
- Apparently Scott had already determined not to announce his next novels
-(“The Black Dwarf” and “Old Mortality”) as “by the Author of Waverley.”
- Mr. Constable, in the biography of his father, says (iii. 84): “Even
-before the publication of ‘The Antiquary,’ John Ballantyne had been
-impowered by the Author to negotiate with Mr. Murray and Mr. Blackwood
-for the first series of the ‘Tales of my Landlord.’” The note of
-withdrawal from the stage, in the first edition of “The Antiquary,”
- was probably only a part of another experiment on public sagacity. As
-Lockhart says, Mr. Murray and Mr. Blackwood thought that the consequent
-absence of the Author of “Waverley’s” name from the “Tales of my
-Landlord” would “check very much the first success of the book;” but
-they risked this, “to disturb Constable’s tenure.”
-
-Scott’s temporary desertion of Constable in the “Tales of my Landlord”
- may have had various motives. There was a slight grudge against
-Constable, born of some complications of the Ballantynes’ affairs.
-Perhaps the mere amusement of the experiment on public sagacity was one
-of the more powerful reasons for the change. In our day Lord Lytton and
-Mr. Trollope made similar trials of their popularity when anonymous, the
-former author with the greater success. The idea of these masquerades
-and veils of the incognito appears to have bewitched Constable. William
-Godwin was writing for him his novel “Mandeville,” and Godwin had
-obviously been counselled to try a disguise. He says (Jan. 30, 1816) “I
-have amused my imagination a thousand times since last we parted with
-the masquerade you devised for me. The world is full of wonder. An old
-favourite is always reviewed with coldness. . . . ‘Pooh,’ they say;
-‘Godwin has worn his pen to the stump!’ . . . But let me once be
-equipped with a significant mask and an unknown character from your
-masquerade shop, and admitted to figure in with the ‘Last Minstrel,’ the
-‘Lady of the Lake,’ and ‘Guy Mannering’ in the Scottish carnival, Gods!
-how the boys and girls will admire me! ‘Here is a new wonder!’ they
-will say. ‘Ah, this is something like! Here is Godwin beaten on his own
-ground. . . Here is for once a Scottish writer that they cannot say has
-anything of the Scotchman about him.’”
-
-However, Mr. Godwin did not don the mask and domino. “Mandeville” came
-out about the same time as “Rob Roy;” but the “craziness of the public”
- for the Author of “Waverley” was not changed into a passion for the
-father-in-law of Shelley.
-
-“‘The Antiquary,’ after a little pause of hesitation, attained
-popularity not inferior to ‘Guy Mannering,’ and though the author
-appears for a moment to have shared the doubts which he read in the
-countenance of James Ballantyne, it certainly was, in the sequel, his
-chief favourite among all his novels.’”
-
-As Scott said to Terry, “If a man will paint from nature, he will be
-likely to amuse those who are daily looking at it.” The years which saw
-the first appearance of “Guy Mannering” also witnessed that of “Emma.”
- By the singular chance, or law, which links great authors closely
-in time, giving us novelists in pairs, Miss Austen was “drawing from
-nature” at the very moment when Scott was wedding nature with romance.
-How generously and wisely he admired her is familiar, and it may, to
-some, seem curious that he never deliberately set himself to a picture
-of ordinary life, free from the intrusion of the unusual, of the heroic.
-Once, looking down at the village which lies on the Tweed, opposite
-Melrose, he remarked that under its roofs tragedies and tales were
-doubtless being lived. ‘I undertake to say there is some real romance at
-this moment going on down there, that, if it could have justice done to
-it, would be well worth all the fiction that was ever spun out of human
-brains.’ But the example he gave was terrible,--“anything more dreadful
-was never conceived by Crabbe;” yet, adds Lockhart, “it would never have
-entered into his head to elaborate such a tale.” He could not dwell in
-the unbroken gloom dear to some modern malingerers. But he could
-easily have made a tale of common Scotch life, dark with the sorrow of
-Mucklebackit, and bright with the mirth of Cuddie Headrigg. There was,
-however, this difficulty,--that Scott cared not to write a story of a
-single class. “From the peer to the ploughman,” all society mingles in
-each of his novels. A fiction of middle-class life did not allure him,
-and he was not at the best, but at his worst, as Sydney Smith observed,
-in the light talk of society. He could admire Miss Austen, and read her
-novels again and again; but had he attempted to follow her, by way of
-variety, then inevitably wild as well as disciplined humour would have
-kept breaking in, and his fancy would have wandered like the old knights
-of Arthur’s Court, “at adventure.” “St. Ronan’s Well” proved the truth
-of all this. Thus it happens that, in “The Antiquary,” with all his
-sympathy for the people, with all his knowledge of them, he does not
-confine himself to their cottages. As Lockhart says, in his admirable
-piece of criticism, he preferred to choose topics in which he could
-display “his highest art, that of skilful contrast.”
-
-Even the tragic romance of “Waverley” does not set off its Macwheebles
-and Callum Begs better than the oddities of Jonathan Oldbuck and
-his circle are relieved, on the one hand by the stately gloom of the
-Glenallans, on the other by the stern affliction of the poor fisherman,
-who, when discovered repairing “the auld black bitch of a boat,” in
-which his boy had been lost, and congratulated by his visitors on being
-capable of the exertion, makes answer, “And what would you have me to
-do, unless I wanted to see four children starve, because one is drowned?
-It ‘s weel with you gentles, that can sit in the house with handkerchers
-at your een, when ye lose a friend; but the like o’ us maun to our work
-again, if our hearts were beating as hard as ony hammer.” And to his
-work again Scott had to go when he lost the partner of his life.
-
-The simple unsought charm which Lockhart notes in “The Antiquary” may
-have passed away in later works, when what had been the amusement of
-happy days became the task of sadness. But this magic “The Antiquary”
- keeps perhaps beyond all its companions,--the magic of pleasant memories
-and friendly associations. The sketches of the epoch of expected
-invasion, with its patriotic musters and volunteer drillings, are
-pictures out of that part in the author’s life which, with his early
-Highland wanderings (“Waverley”) and his Liddesdale raids (“Guy
-Mannering”), was most dear to him. In “Redgauntlet,” again, he makes, as
-Alan Fairford, a return on his youth and his home, and in “Rob Roy” he
-revives his Highland recollections, his Highland lairds of “the blawing,
-bleezing stories.” None of the rest of the tales are so intimate in
-their connection with Scott’s own personal history. “The Antiquary” has
-always, therefore, been held in the very first rank of his novels.
-
-As far as plot goes, though Godwin denied that it had any story, “The
-Antiquary” may be placed among the most careful. The underplot of the
-Glenallans, gloomy almost beyond endurance, is very ingeniously made
-to unravel the mystery of Lovel. The other side-narrative, that of
-Dousterswivel, is the weak point of the whole; but this Scott justifies
-by “very late instances of the force of superstitious credulity, to a
-much greater extent.” Some occurrence of the hour may have suggested the
-knavish adept with his divining-rod. But facts are never a real excuse
-for the morally incredible, or all but incredible, in fiction. On the
-wealth and vraisemblance and variety of character it were superfluous to
-dilate. As in Shakspeare, there is not even a minor person but lives
-and is of flesh and blood, if we except, perhaps, Dousterswivel and Sir
-Arthur Wardour. Sir Arthur is only Sir Robert Hazlewood over again, with
-a slightly different folly and a somewhat more amiable nature. Lovel’s
-place, as usual, is among the shades of heroes, and his love-affair is
-far less moving, far more summarily treated, than that of Jenny Caxon.
-The skilful contrasts are perhaps most remarkable when we compare
-Elspeth of the Burnfoot with the gossiping old women in the post-office
-at Fairport,--a town studied perhaps from Arbroath. It was the opinion
-of Sydney Smith that every one of the novels, before “The Fortunes of
-Nigel,” contained a Meg Merrilies and a Dominie Sampson. He may have
-recognized a male Meg in Edie Ochiltree,--the invaluable character who is
-always behind a wall, always overhears everything, and holds the threads
-of the plot. Or he may have been hypercritical enough to think that
-Elspeth of the Burnfoot is the Meg of the romance. Few will agree with
-him that Meg Merrilies, in either of these cases, is “good, but good too
-often.”
-
-The supposed “originals” of certain persons in the tale have been
-topics of discussion. The character of Oldbuck, like most characters in
-fiction, is a combination of traits observed in various persons. Scott
-says, in a note to the Ashiestiel fragment of Autobiography, that Mr.
-George Constable, an old friend of his father’s, “had many of those
-peculiarities of character which long afterwards I tried to develop in
-the character of Jonathan Oldbuck.” Sir Walter, when a child, made Mr.
-Constable’s acquaintance at Prestonpans in 1777, where he explored the
-battle-field “under the learned guidance of Dalgetty.” Mr. Constable
-first introduced him to Shakspeare’s plays, and gave him his first
-German dictionary. Other traits may have been suggested by John Clerk
-of Eldin, whose grandfather was the hero of the story “Praetorian here,
-Praetorian there, I made it wi’ a flaughter spade.” Lockhart is no
-doubt right in thinking that Oldbuck is partly a caricature of Oldbuck’s
-creator,--Sir Walter indeed frankly accepted the kinship; and the book
-which he began on his own collection he proposed to style “Reliquim
-Trotcosienses; or, the Gabions of Jonathan Oldbuck.”
-
-Another person who added a few points to Oldbuck was “Sandy Gordon,”
- author of the “Itinerarium Septentrionale” (1726), the very folio which
-Monkbarns carried in the dilatory coach to Queensferry. Gordon had been
-a student in the University of Aberdeen; he was an amateur in many arts,
-but antiquarianism was his favourite hobby. He was an acquaintance of
-Sir John Clerk of Eldin, the hero of the Praetorium. The words of Gordon
-in his “Itinerarium,” where he describes the battle of the Grampians,
-have supplied, or suggested, the speech of Monkbarns at the Kaim
-of Kinprunes. The great question was, Where is the Mons Grampius of
-Tacitus? Dismissing Camden’s Grantsbain, because he does not know where
-it is, Gordon says, “As for our Scotch Antiquaries, they are so divided
-that some will have it to be in the shire of Angus, or in the Mearns,
-some at the Blair of Athol in Perthshire, or Ardoch in Strathallan, and
-others at Inverpeffery.” Gordon votes for Strathern, “half a mile short
-of the Kirk of Comrie.” This spot is both at the foot of the Montes
-Grampii, “and boasts a Roman camp capable of holding an army fit to
-encounter so formidable a number as thirty thousand Caledonians. . . .
-Here is the Porta Decumana, opposite the Prcetoria, together with the
-dextra and sinistra gates,” all discovered by Sandy Gordon. “Moreover,
-the situation of the ground is so very exact with the description
-given by Tacitus, that in all my travels through Britain I never beheld
-anything with more pleasure. . . . Nor is it difficult, in viewing this
-ground, to say where the Covinarii, or Charioteers, stood. In fine, to
-an Antiquary, this is a ravishing scene.” He adds the argument “that
-Galgacus’s name still remains on this ground, for the moor on which the
-camp stood is called to this day Galdachan, or Galgachan Rosmoor.”
- All this lore Gordon illustrates by an immense chart of a camp, and a
-picture of very small Montes Grampii, about the size and shape of buns.
-The plate is dedicated to his excellency General Wade.
-
-In another point Monkbapns borrows from Gordon. Sandy has a plate (page
-20) of “The Roman Sacellum of Mars Signifer, vulgarly called ‘Arthur’s
-Oon.’ With regard to its shape, it is not unlike the famous Pantheon at
-Rome before the noble Portico was added to it by Marcus Agrippa.” Gordon
-agrees with Stukeley in attributing Arthur’s Oon to Agricola, and
-here Monkbarns and Lovel adopt almost his words. “Time has left Julius
-Agricola’s very name on the place; . . . and if ever those initial
-letters J. A. M. P. M. P. T., mentioned by Sir Robert Sibbald, were
-engraven on a stone in this building, it may not be reckoned altogether
-absurd that they should bear this reading, JULIUS AGRICOLA MAGNUS
-PIETATIS MONUMENTUM POSUIT TEMPLUM; but this my reader may either accept
-or reject as he pleases. However, I think it may be as probably received
-as that inscription on Caligula’s Pharos in Holland, which having these
-following letters, C. C. P. F., is read Caius Caligula Pharum Fecit.”
- “This,” Monkbarns adds, “has ever been recorded as a sound exposition.”
-
-The character of Edie Ochiltree, Scott himself avers to have been
-suggested by Andrew Gemmells, pleasantly described in the Introduction.
-Mr. Chambers, in “Illustrations of the Author of ‘Waverley,” clears up
-a point doubtful in Scott’s memory, by saying that Geimells really was a
-Blue-Gown. He rode a horse of his own, and at races was a bookmaker.
-He once dropped at Rutherford, in Teviotdale, a clue of yarn containing
-twenty guineas. Like Edie Ochiltree, he had served at Fontenoy. He
-died at Roxburgh Newton in 1793, at the age of one hundred and five,
-according to his own reckoning. “His wealth was the means of enriching
-a nephew in Ayrshire, who is now (1825) a considerable landholder there,
-and belongs to a respectable class of society.”
-
-An old Irus of similar character patrolled Teviotdale, while Andrew
-Gemmells was attached to Ettrick and Yarrow. This was Blind Willie Craw.
-Willie was the Society Journal of Hawick, and levied blackmail on the
-inhabitants. He is thus described by Mr. Grieve, in the Diary already
-quoted: “He lived at Branxholme Town, in a free house set apart for the
-gamekeeper, and for many a year carried all the bread from Hawick used
-in my father’s family. He came in that way at breakfast-time, and got a
-wallet which he put it in, and returned at dinner-time with the ‘bawbee
-rows’ and two loaves. He laid the town of Hawick under contribution for
-bawbees, and he knew the history of every individual, and went rhyming
-through the town from door to door; and as he knew something against
-every one which they would rather wish should not be rehearsed, a bawbee
-put a stop to the paragraph which they wished suppressed. Willie Craw
-was the son of a gamekeeper of the duke’s, and enjoyed a free house at
-Branxholme Town as long as he lived.”
-
-Had Burns ever betaken himself to the gaberlunzie’s life, which he
-speaks of in one of his poems as “the last o’t, the worst o’t,” he would
-have proved a much more formidable satirist than poor Willie Craw, the
-last of the “blind crowders.” Burns wrote, of course, in a spirit of
-reckless humour; but he could not, even in sport, have alluded to the
-life as “suited to his habits and powers,” had gaberlunzies been mere
-mendicants. In Herd’s collection of Ballads is one on the ancient
-Scottish beggar:--
-
-                In Scotland there lived a humble beggar,
-                  He had nor house, nor hald, nor hame;
-                  But he was well liked by ilk a body,
-                And they gave him sunkets to rax his wame.
-
-                A sieve fu’ o’ meal, a handfu’ o’ groats,
-                  A dad o’ a bannock, or pudding bree,
-                  Cauld porridge, or the lickings o’ plates,
-                Wad make him as blythe as a body could be.
-
-The dress and trade of the beggar are said to have been adopted by
-James V. in his adventures, and tradition attributes to him a song, “The
-Gaberlunzie Man.”
-
-One of Edie’s most charming traits is his readiness to “fight for his
-dish, like the laird for his land,” when a French invasion was expected.
-Scott places the date of “The False Alarm,” when he himself rode a
-hundred miles to join his regiment, on Feb. 2, 1804.
-
-Lockhart gives it as an event of 1805 (vol. ii. p. 275). The occasion
-gave great pleasure to Scott, on account of the patriotism and courage
-displayed by all classes. “Me no muckle to fight for?” says Edie. “Isna
-there the country to fight for, and the burns I gang dandering beside,
-and the hearths o’ the gudewives that gie me my bit bread, and the bits
-o’ weans that come toddling to play wi’ me when I come about a landward
-town?” Edie had fought at Fontenoy, and was of the old school. Scott
-would have been less pleased with a recruit from St. Boswells, on the
-Tweed. This man was a shoemaker, John Younger, a very intelligent and
-worthy person, famous as an angler and writer on angling, who has left
-an account of the “False Alarm” in his memoirs. His view was that the
-people, unlike Edie, had nothing to fight for, that only the rich had
-any reason to be patriotic, that the French had no quarrel with the
-poor. In fact, Mr. Younger was a cosmopolitan democrat, and sneered at
-the old Border glories of the warlike days. Probably, however, he would
-have done his duty, had the enemy landed, and, like Edie, might have
-remembered the “burns he dandered beside,” always with a fishingrod in
-his hand.
-
-     The Editor cannot resist the temptation to add that the patriotic
-     lady mentioned in Scott’s note, who “would rather have seen her son
-     dead on that hearth than hear that he had been a horse’s length
-     behind his companions,” was his paternal great-grandmother, Mrs.
-     John Lang. Her husband, who died shortly afterwards, so that she was
-     a widow when Scott conversed with her, chanced to be chief
-     magistrate of Selkirk. His family was aroused late one night by the
-     sound of a carriage hurrying down the steep and narrow street. Lord
-     Napier was bringing, probably from Hawick, the tidings that the
-     beacons were ablaze. The town-bell was instantly rung, the
-     inhabitants met in the marketplace, where Scott’s statue now stands,
-     and the whole force, with one solitary exception, armed and marched
-     to Dalkeith. According to the gentleman whose horse and arms were
-     sent on to meet him, it was intended, if the French proved
-     victorious, that the population of the Border towns should abandon
-     their homes and retire to the hills.
-
-No characters in the “Antiquary,” except Monkbarns and Edie Ochiltree,
-seem to have been borrowed from notable originals. The frauds of
-Dousterswivel, Scott says, are rendered plausible by “very late
-instances of the force of superstitious credulity to a much greater
-extent.” He can hardly be referring to the career of Cagliostro, but
-he may have had in his memory some unsuccessful mining speculations by
-Charles Earl of Traquair, who sought for lead and found little or none
-in Traquair hills. The old “Statistical Account of Scotland” (vol. xii.
-p. 370) says nothing about imposture, and merely remarks that “the noble
-family of Traquair have made several attempts to discover lead mines,
-and have found quantities of the ore of that metal, though not adequate
-to indemnify the expenses of working, and have therefore given up the
-attempt.” This was published in 1794, so twenty years had passed
-when “The Antiquary” was written. If there was here an “instance
-of superstitious credulity,” it was not “a very late instance.” The
-divining, or “dowsing,” rod of Dousterswivel still keeps its place in
-mining superstition and in the search for wells.
-
-With “The Antiquary” most contemporary reviews of the novels lose their
-interest. Their author had firmly established his position, at least
-till “The Monastery” caused some murmurings. Even the “Quarterly Review”
- was infinitely more genial in its reception of “The Antiquary” than of
-“Guy Mannering.” The critic only grumbled at Lovel’s feverish dreams,
-which, he thought, showed an intention to introduce the marvellous. He
-complained of “the dark dialect of Anglified Erse,” but found comfort in
-the glossary appended. The “Edinburgh Review” pronounced the chapter on
-the escape from the tide to be “I the very best description we have ever
-met, inverse or in prose, in ancient or in modern writing.” No reviewer
-seems to have noticed that the sun is made to set in the sea, on the
-east coast of Scotland. The “Edinburgh,” however, declared that the
-Antiquary, “at least in so far as he is an Antiquary,” was the chief
-blemish on the book. The “sweet heathen of Monkbarns” has not suffered
-from this disparagement. The “British Critic” pledged its reputation
-that Scott was the author. If an argument were wanted, “it would be that
-which has been applied to prove the authenticity of the last book of
-the Iliad,--that Homer must have written it, because no one else could.”
- Alas! that argument does not convince German critics.
-
-                                            ANDREW LANG.
-
-
-
-
-
-CHAPTER FIRST.
 
                Go call a coach, and let a coach be called,
                And let the man who calleth be the caller;
@@ -1262,7 +302,6 @@ travellers alighted at the Hawes.
 
 
 
-CHAPTER SECOND.
 
               Sir, they do scandal me upon the road here!
                 A poor quotidian rack of mutton roasted
@@ -1574,7 +613,6 @@ recommendation of his fellow-traveller.
 
 
 
-CHAPTER THIRD.
 
                  He had a routh o’ auld nick-nackets,
                  Rusty airn caps, and jinglin-jackets,
@@ -1965,7 +1003,6 @@ curiosity on his return to Fairport.
 
 
 
-CHAPTER FOURTH.
 
                 The pawkie auld carle cam ower the lea,
                 Wi’ mony good-e’ens and good-morrows to me,
@@ -2331,7 +1368,6 @@ without farther adventure.
 
 
 
-CHAPTER FIFTH.
 
                      Launcelot Gobbo. Mark me now:
                       Now will I raise the waters.
@@ -2681,7 +1717,6 @@ wind, set out on his return to the Antiquary’s mansion.
 
 
 
-CHAPTER SIXTH.
 
                    Moth. By Woden, God of Saxons,
             From whence comes Wensday, that is, Wodnesday,
@@ -3274,7 +2309,6 @@ ever such madness heard of!”
 
 
 
-CHAPTER SEVENTH.
 
                        --Pleased awhile to view
                The watery waste, the prospect wild and new;
@@ -3655,7 +2689,6 @@ not within reach, of friendly assistance.
 
 
 
-CHAPTER EIGHTH.
 
               There is a cliff, whose high and bending head
                  Looks fearfully on the confined deep;
@@ -3943,7 +2976,6 @@ even more than his extraordinary exertions of body.
 
 
 
-CHAPTER NINTH.
 
            “Be brave,” she cried, “you yet may be our guest,
                Our haunted room was ever held the best.
@@ -4303,7 +3335,6 @@ came to the apartment destined for his young guest.
 
 
 
-CHAPTER TENTH.
 
                  When midnight o’er the moonless skies
                  Her pall of transient death has spread,
@@ -4636,7 +3667,6 @@ pint of substantial oatmeal porridge.
 
 
 
-CHAPTER ELEVENTH.
 
             Sometimes he thinks that Heaven this pageant sent,
                And ordered all the pageants as they went;
@@ -5063,7 +4093,6 @@ Knockwinnock.”
 
 
 
-CHAPTER TWELFTH.
 
               Beggar?--the only freeman of your commonwealth;
               Free above Scot-free, that observe no laws,
@@ -5299,7 +4328,6 @@ usually received.
 
 
 
-CHAPTER THIRTEENTH.
 
                      --The time was that I hated thee,
                 And yet it is not that I bear thee love.
@@ -5695,7 +4723,6 @@ Here the conversation paused, until renewed in the next CHAPTER.
 
 
 
-CHAPTER FOURTEENTH.
 
               If I may trust the flattering eye of sleep,
               My dreams presage some joyful news at hand:
@@ -6032,7 +5059,6 @@ dinner-bell.”
 
 
 
-CHAPTER FIFTEENTH.
 
         Be this letter delivered with haste--haste--post-haste!
         Ride, villain, ride,--for thy life--for thy life--for thy life.
@@ -6451,7 +5477,6 @@ pocket till he found the object of his search, the Antiquary added,
 
 
 
-CHAPTER SIXTEENTH.
 
      “I am bewitched with the rogue’s company. If the rascal has not
      given me medicines to make me love him, I’ll be hanged; it could
@@ -6842,7 +5867,6 @@ o’clock precisely. “--And with this ageement the friends separated.
 
 
 
-CHAPTER SEVENTEENTH.
 
           Of seats they tell, where priests, ‘mid tapers dim,
           Breathed the warm prayer, or tuned the midnight hymn
@@ -7313,7 +6337,6 @@ down around it, did ample honour to the contents of the basket.
 
 
 
-CHAPTER EIGHTEENTH.
 
                As when a Gryphon through the wilderness,
                With winged course, o’er hill and moory dale,
@@ -7764,7 +6787,6 @@ of Martin Waldeck.
 
 
 
-CHAPTER NINETEENTH.
 
                  Here has been such a stormy encounter
                  Betwixt my cousin Captain, and this soldier,
@@ -8235,7 +7257,6 @@ with me this night to Monkbarns.” So saying, he bid the postilion go on.
 
 
 
-CHAPTER TWENTIETH.
 
                          --If you fail Honour here,
                  Never presume to serve her any more;
@@ -8668,7 +7689,6 @@ wood.
 
 
 
-CHAPTER TWENTY-FIRST.
 
                       --The Lord Abbot had a soul
                Subtile and quick, and searching as the fire;
@@ -9399,7 +8419,6 @@ The Antiquary Arming
 
 
 
-CHAPTER FIRST.
 
                  Wiser Raymondus, in his closet pent,
                  Laughs at such danger and adventurement
@@ -9874,7 +8893,6 @@ very liberal.
 
 
 
-CHAPTER SECOND.
 
                           --And this Doctor,
              Your sooty smoky-bearded compeer, he
@@ -10250,7 +9268,6 @@ next CHAPTER.
 
 
 
-CHAPTER THIRD.
 
    Clause.--You now shall know the king o’ the beggars’ treasure:--
             Yes--ere to-morrow you shall find your harbour
@@ -10621,7 +9638,6 @@ of fidelity to their appointment, they separated for the present.
 
 
 
-CHAPTER FOURTH.
 
                           --See thou shake the bags
                  Of hoarding abbots; angels imprisoned
@@ -11055,7 +10071,6 @@ direction towards which the mourners had bent their course.
 
 
 
-CHAPTER FIFTH.
 
                        O weel may the boatie row
                        And better may she speed,
@@ -11420,7 +10435,6 @@ sort of order, retired to rest the last of the family.
 
 
 
-CHAPTER SIXTH.
 
                            --Many great ones
           Would part with half their states, to have the plan
@@ -11825,7 +10839,6 @@ stationed.
 
 
 
-CHAPTER SEVENTH.
 
                              --This ring.--
                This little ring, with necromantic force,
@@ -12045,7 +11058,6 @@ signal of departure, which the mendicant instantly obeyed.
 
 
 
-CHAPTER EIGHTH.
 
                 For he was one in all their idle sport,
                And like a monarch, ruled their little court
@@ -12306,7 +11318,6 @@ killing Dousterswivel outright.
 
 
 
-CHAPTER NINTH
 
                Who is he?--One that for the lack of land
               Shall fight upon the water--he hath challenged
@@ -12819,7 +11830,6 @@ of Troy, and thou to be the plague of Monkbarns!”
 
 
 
-CHAPTER TENTH.
 
              Tell me not of it, friend--when the young weep,
          Their tears are luke-warm brine;--from your old eyes
@@ -13109,7 +12119,6 @@ purpose of again visiting the cottage as he passed.
 
 
 
-CHAPTER ELEVENTH
 
               What is this secret sin, this untold tale,
               That art cannot extract, nor penance cleanse?
@@ -13382,7 +12391,6 @@ of her communication is disclosed in the following CHAPTER.
 
 
 
-CHAPTER TWELFTH.
 
                     Remorse--she neer forsakes us--
             A bloodhound staunch--she tracks our rapid step
@@ -13778,7 +12786,6 @@ cottage opening as she spoke, prevented her from proceeding.
 
 
 
-CHAPTER THIRTEENTH.
 
           Still in his dead hand clenched remain the strings
               That thrill his father’s heart--e’en as the limb,
@@ -14172,7 +13179,6 @@ he left the Earl at liberty to arrange himself previous to dinner.
 
 
 
-CHAPTER FOURTEENTH
 
                            --Life, with you,
             Glows in the brain and dances in the arteries;
@@ -14614,7 +13620,6 @@ rather abused, the present to the uttermost.
 
 
 
-CHAPTER FIFTEENTH.
 
                          Crabbed age and youth
                          Cannot live together:--
@@ -14989,7 +13994,6 @@ which Lord Glenallan’s equipage had seemed to vanish from their eyes.
 
 
 
-CHAPTER SIXTEENTH.
 
               Yes! I love justice well--as well as you do--
              But since the good dame’s blind, she shall excuse me
@@ -15317,7 +14321,6 @@ escape before the Antiquary concluded the sentence.
 
 
 
-CHAPTER SEVENTEENTH.
 
             Well, well, at worst, ‘tis neither theft nor coinage,
              Granting I knew all that you charge me with.
@@ -15655,7 +14658,6 @@ returned with his nephew, after having perfected their good work.
 
 
 
-CHAPTER EIGHTEENTH.
 
                 Full of wise saws and modern instances.
                                        As You Like It.
@@ -15973,7 +14975,6 @@ time, she may come to fickle us a’.”
 
 
 
-CHAPTER NINETEENTH
 
            Life ebbs from such old age, unmarked and silent,
            As the slow neap-tide leaves yon stranded galley.--
@@ -16399,7 +15400,6 @@ anxiously summoned thither.
 
 
 
-CHAPTER TWENTIETH.
 
              So, while the Goose, of whom the fable told,
                 Incumbent, brooded o’er her eggs of gold,
@@ -16849,7 +15849,6 @@ Castle.
 
 
 
-CHAPTER TWENTY-FIRST.
 
                Let those go see who will--I like it not--
                For, say he was a slave to rank and pomp,
@@ -17213,7 +16212,6 @@ conversation. The cause we must refer to the next CHAPTER.
 
 
 
-CHAPTER TWENTY-SECOND.
 
            Fortune, you say, flies from us--She but circles,
            Like the fleet sea-bird round the fowler’s skiff,--
@@ -17577,7 +16575,6 @@ possible.
 
 
 
-CHAPTER TWENTY-THIRD.
 
               Nay, if she love me not, I care not for her:
               Shall I look pale because the maiden blooms
@@ -17905,7 +16902,6 @@ left in the morning, for no reason that he knew himself, unless just to
 
 
 
-CHAPTER TWENTY-FOURTH.
 
                     Red glared the beacon on Pownell
                         On Skiddaw there were three;
@@ -18704,364 +17700,4 @@ with the most determined opposition from the children of the soil.
 
 
 End of Project Gutenberg’s The Antiquary, Complete, by Sir Walter Scott
-
-*** END OF THIS PROJECT GUTENBERG EBOOK THE ANTIQUARY, COMPLETE ***
-
-***** This file should be named 7005-0.txt or 7005-0.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.net/7/0/0/7005/
-
-Produced by David Widger
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.net/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  “Project Gutenberg” is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation (“the Foundation”
- or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase “Project Gutenberg” appears, or with which the phrase “Project
-Gutenberg” is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase “Project Gutenberg” associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-“Plain Vanilla ASCII” or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original “Plain Vanilla ASCII” or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, “Information about donations to
-     the Project Gutenberg Literary Archive Foundation.”
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-“Defects,” such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’ WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm’s
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation’s EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state’s laws.
-
-The Foundation’s principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation’s web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including including checks, online payments and credit card
-donations.  To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.net
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
 

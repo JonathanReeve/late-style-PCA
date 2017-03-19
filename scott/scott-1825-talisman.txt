@@ -1,506 +1,3 @@
-The Project Gutenberg EBook of The Talisman, by Sir Walter Scott
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: The Talisman
-
-Author: Sir Walter Scott
-
-Release Date: July, 1998  [Etext #1377]
-Posting Date: 8, 2009
-Last Updated: August 31, 2016
-
-Language: English
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE TALISMAN ***
-
-
-
-
-Produced by An Anonomous Volunteer
-
-
-
-
-
-THE TALISMAN
-
-By Sir Walter Scott
-
-
-
-
-INTRODUCTION TO THE TALISMAN.
-
-The “Betrothed” did not greatly please one or two friends, who thought
-that it did not well correspond to the general title of “The Crusaders.”
- They urged, therefore, that, without direct allusion to the manners of
-the Eastern tribes, and to the romantic conflicts of the period, the
-title of a “Tale of the Crusaders” would resemble the playbill, which
-is said to have announced the tragedy of Hamlet, the character of
-the Prince of Denmark being left out. On the other hand, I felt the
-difficulty of giving a vivid picture of a part of the world with which
-I was almost totally unacquainted, unless by early recollections of
-the Arabian Nights’ Entertainments; and not only did I labour under the
-incapacity of ignorance--in which, as far as regards Eastern manners, I
-was as thickly wrapped as an Egyptian in his fog--but my contemporaries
-were, many of them, as much enlightened upon the subject as if they had
-been inhabitants of the favoured land of Goshen. The love of travelling
-had pervaded all ranks, and carried the subjects of Britain into all
-quarters of the world. Greece, so attractive by its remains of art, by
-its struggles for freedom against a Mohammedan tyrant, by its very name,
-where every fountain had its classical legend--Palestine, endeared
-to the imagination by yet more sacred remembrances--had been of late
-surveyed by British eyes, and described by recent travellers. Had I,
-therefore, attempted the difficult task of substituting manners of my
-own invention, instead of the genuine costume of the East, almost every
-traveller I met who had extended his route beyond what was anciently
-called “The Grand Tour,” had acquired a right, by ocular inspection, to
-chastise me for my presumption. Every member of the Travellers’ Club who
-could pretend to have thrown his shoe over Edom was, by having done so,
-constituted my lawful critic and corrector. It occurred, therefore,
-that where the author of Anastasius, as well as he of Hadji Baba, had
-described the manners and vices of the Eastern nations, not only with
-fidelity, but with the humour of Le Sage and the ludicrous power of
-Fielding himself, one who was a perfect stranger to the subject must
-necessarily produce an unfavourable contrast. The Poet Laureate also,
-in the charming tale of “Thalaba,” had shown how extensive might be
-the researches of a person of acquirements and talent, by dint of
-investigation alone, into the ancient doctrines, history, and manners of
-the Eastern countries, in which we are probably to look for the cradle
-of mankind; Moore, in his “Lalla Rookh,” had successfully trod the
-same path; in which, too, Byron, joining ocular experience to extensive
-reading, had written some of his most attractive poems. In a word, the
-Eastern themes had been already so successfully handled by those who
-were acknowledged to be masters of their craft, that I was diffident of
-making the attempt.
-
-These were powerful objections; nor did they lose force when they
-became the subject of anxious reflection, although they did not finally
-prevail. The arguments on the other side were, that though I had no hope
-of rivalling the contemporaries whom I have mentioned, yet it occurred
-to me as possible to acquit myself of the task I was engaged in without
-entering into competition with them.
-
-The period relating more immediately to the Crusades which I at last
-fixed upon was that at which the warlike character of Richard I., wild
-and generous, a pattern of chivalry, with all its extravagant virtues,
-and its no less absurd errors, was opposed to that of Saladin, in which
-the Christian and English monarch showed all the cruelty and violence
-of an Eastern sultan, and Saladin, on the other hand, displayed the deep
-policy and prudence of a European sovereign, whilst each contended
-which should excel the other in the knightly qualities of bravery and
-generosity. This singular contrast afforded, as the author conceived,
-materials for a work of fiction possessing peculiar interest. One of the
-inferior characters introduced was a supposed relation of Richard Coeur
-de Lion--a violation of the truth of history which gave offence to Mr.
-Mills, the author of the “History of Chivalry and the Crusades,” who was
-not, it may be presumed, aware that romantic fiction naturally includes
-the power of such invention, which is indeed one of the requisites of
-the art.
-
-Prince David of Scotland, who was actually in the host, and was the hero
-of some very romantic adventures on his way home, was also pressed into
-my service, and constitutes one of my DRAMATIS PERSONAE.
-
-It is true I had already brought upon the field him of the lion heart.
-But it was in a more private capacity than he was here to be exhibited
-in the Talisman--then as a disguised knight, now in the avowed character
-of a conquering monarch; so that I doubted not a name so dear to
-Englishmen as that of King Richard I. might contribute to their
-amusement for more than once.
-
-I had access to all which antiquity believed, whether of reality or
-fable, on the subject of that magnificent warrior, who was the proudest
-boast of Europe and their chivalry, and with whose dreadful name the
-Saracens, according to a historian of their own country, were wont to
-rebuke their startled horses. “Do you think,” said they, “that King
-Richard is on the track, that you stray so wildly from it?” The most
-curious register of the history of King Richard is an ancient romance,
-translated originally from the Norman; and at first certainly having a
-pretence to be termed a work of chivalry, but latterly becoming stuffed
-with the most astonishing and monstrous fables. There is perhaps no
-metrical romance upon record where, along with curious and genuine
-history, are mingled more absurd and exaggerated incidents. We have
-placed in the Appendix to this Introduction the passage of the romance
-in which Richard figures as an ogre, or literal cannibal.
-
-A principal incident in the story is that from which the title is
-derived. Of all people who ever lived, the Persians were perhaps most
-remarkable for their unshaken credulity in amulets, spells, periapts,
-and similar charms, framed, it was said, under the influence of
-particular planets, and bestowing high medical powers, as well as the
-means of advancing men’s fortunes in various manners. A story of this
-kind, relating to a Crusader of eminence, is often told in the west of
-Scotland, and the relic alluded to is still in existence, and even yet
-held in veneration.
-
-Sir Simon Lockhart of Lee and Gartland made a considerable figure in the
-reigns of Robert the Bruce and of his son David. He was one of the chief
-of that band of Scottish chivalry who accompanied James, the Good Lord
-Douglas, on his expedition to the Holy Land with the heart of King
-Robert Bruce. Douglas, impatient to get at the Saracens, entered into
-war with those of Spain, and was killed there. Lockhart proceeded to the
-Holy Land with such Scottish knights as had escaped the fate of their
-leader and assisted for some time in the wars against the Saracens.
-
-The following adventure is said by tradition to have befallen him:--
-
-He made prisoner in battle an Emir of considerable wealth and
-consequence. The aged mother of the captive came to the Christian camp,
-to redeem her son from his state of captivity. Lockhart is said to have
-fixed the price at which his prisoner should ransom himself; and the
-lady, pulling out a large embroidered purse, proceeded to tell down the
-ransom, like a mother who pays little respect to gold in comparison of
-her son’s liberty. In this operation, a pebble inserted in a coin, some
-say of the Lower Empire, fell out of the purse, and the Saracen matron
-testified so much haste to recover it as gave the Scottish knight a
-high idea of its value, when compared with gold or silver. “I will not
-consent,” he said, “to grant your son’s liberty, unless that amulet be
-added to his ransom.” The lady not only consented to this, but explained
-to Sir Simon Lockhart the mode in which the talisman was to be used,
-and the uses to which it might be put. The water in which it was dipped
-operated as a styptic, as a febrifuge, and possessed other properties as
-a medical talisman.
-
-Sir Simon Lockhart, after much experience of the wonders which it
-wrought, brought it to his own country, and left it to his heirs, by
-whom, and by Clydesdale in general, it was, and is still, distinguished
-by the name of the Lee-penny, from the name of his native seat of Lee.
-
-The most remarkable part of its history, perhaps, was that it so
-especially escaped condemnation when the Church of Scotland chose to
-impeach many other cures which savoured of the miraculous, as occasioned
-by sorcery, and censured the appeal to them, “excepting only that to
-the amulet, called the Lee-penny, to which it had pleased God to annex
-certain healing virtues which the Church did not presume to condemn.” It
-still, as has been said, exists, and its powers are sometimes resorted
-to. Of late, they have been chiefly restricted to the cure of persons
-bitten by mad dogs; and as the illness in such cases frequently arises
-from imagination, there can be no reason for doubting that water which
-has been poured on the Lee-penny furnishes a congenial cure.
-
-Such is the tradition concerning the talisman, which the author has
-taken the liberty to vary in applying it to his own purposes.
-
-Considerable liberties have also been taken with the truth of history,
-both with respect to Conrade of Montserrat’s life, as well as his death.
-That Conrade, however, was reckoned the enemy of Richard is agreed both
-in history and romance. The general opinion of the terms upon which they
-stood may be guessed from the proposal of the Saracens that the Marquis
-of Montserrat should be invested with certain parts of Syria, which they
-were to yield to the Christians. Richard, according to the romance which
-bears his name, “could no longer repress his fury. The Marquis he said,
-was a traitor, who had robbed the Knights Hospitallers of sixty thousand
-pounds, the present of his father Henry; that he was a renegade, whose
-treachery had occasioned the loss of Acre; and he concluded by a solemn
-oath, that he would cause him to be drawn to pieces by wild horses, if
-he should ever venture to pollute the Christian camp by his presence.
-Philip attempted to intercede in favour of the Marquis, and throwing
-down his glove, offered to become a pledge for his fidelity to the
-Christians; but his offer was rejected, and he was obliged to give way
-to Richard’s impetuosity.”--HISTORY OF CHIVALRY.
-
-Conrade of Montserrat makes a considerable figure in those wars, and was
-at length put to death by one of the followers of the Scheik, or Old Man
-of the Mountain; nor did Richard remain free of the suspicion of having
-instigated his death.
-
-It may be said, in general, that most of the incidents introduced in
-the following tale are fictitious, and that reality, where it exists, is
-only retained in the characters of the piece.
-
-ABBOTSFORD, 1st July, 1832
-
-
-
-
-APPENDIX TO INTRODUCTION.
-
-While warring in the Holy Land, Richard was seized with an ague.
-
-The best leeches of the camp were unable to effect the cure of the
-King’s disease; but the prayers of the army were more successful. He
-became convalescent, and the first symptom of his recovery was a violent
-longing for pork. But pork was not likely to be plentiful in a country
-whose inhabitants had an abhorrence for swine’s flesh; and
-
-     “Though his men should be hanged,
-     They ne might, in that countrey,
-     For gold, ne silver, ne no money,
-     No pork find, take, ne get,
-     That King Richard might aught of eat.
-     An old knight with Richard biding,
-     When he heard of that tiding,
-     That the king’s wants were swyche,
-     To the steward he spake privyliche--
-     “Our lord the king sore is sick, I wis,
-     After porck he alonged is;
-     Ye may none find to selle;
-     No man be hardy him so to telle!
-     If he did he might die.
-     Now behoves to done as I shall say,
-     Tho’ he wete nought of that.
-     Take a Saracen, young and fat;
-     In haste let the thief be slain,
-     Opened, and his skin off flayn;
-     And sodden full hastily,
-     With powder and with spicery,
-     And with saffron of good colour.
-     When the king feels thereof savour,
-     Out of ague if he be went,
-     He shall have thereto good talent.
-     When he has a good taste,
-     And eaten well a good repast,
-     And supped of the BREWIS [Broth] a sup,
-     Slept after and swet a drop,
-     Through Goddis help and my counsail,
-     Soon he shall be fresh and hail.’
-     The sooth to say, at wordes few,
-     Slain and sodden was the heathen shrew.
-     Before the king it was forth brought:
-     Quod his men, ‘Lord, we have pork sought;
-     Eates and sups of the brewis SOOTE,[Sweet]
-     Thorough grace of God it shall be your boot.’
-     Before King Richard carff a knight,
-     He ate faster than he carve might.
-     The king ate the flesh and GNEW [Gnawed] the bones,
-     And drank well after for the nonce.
-     And when he had eaten enough,
-     His folk hem turned away, and LOUGH.[Laughed]
-     He lay still and drew in his arm;
-     His chamberlain him wrapped warm.
-     He lay and slept, and swet a stound,
-     And became whole and sound.
-     King Richard clad him and arose,
-     And walked abouten in the close.”
-
-An attack of the Saracens was repelled by Richard in person, the
-consequence of which is told in the following lines:--
-
-     “When King Richard had rested a whyle,
-     A knight his arms ‘gan unlace,
-     Him to comfort and solace.
-     Him was brought a sop in wine.
-     ‘The head of that ilke swine,
-     That I of ate!’ (the cook he bade,)
-     ‘For feeble I am, and faint and mad.
-     Of mine evil now I am fear;
-     Serve me therewith at my soupere!’
-     Quod the cook, ‘That head I ne have.’
-     Then said the king, ‘So God me save,
-     But I see the head of that swine,
-     For sooth, thou shalt lesen thine!’
-     The cook saw none other might be;
-     He fet the head and let him see.
-     He fell on knees, and made a cry--
-     ‘Lo, here the head!  my Lord, mercy!’”
-
-The cook had certainly some reason to fear that his master would be
-struck with horror at the recollection of the dreadful banquet to which
-he owed his recovery; but his fears were soon dissipated.
-
-     “The swarte vis [Black face] when the king seeth,
-     His black beard and white teeth,
-     How his lippes grinned wide,
-     ‘What devil is this?’ the king cried,
-     And ‘gan to laugh as he were wode.
-     ‘What!  is Saracen’s flesh thus good?
-     That never erst I nought wist!
-     By God’s death and his uprist,
-     Shall we never die for default,
-     While we may in any assault,
-     Slee Saracens, the flesh may take,
-     And seethen and roasten and do hem bake,
-     [And] Gnawen her flesh to the bones!
-     Now I have it proved once,
-     For hunger ere I be wo,
-     I and my folk shall eat mo!”’
-
-The besieged now offered to surrender, upon conditions of safety to the
-inhabitants; while all the public treasure, military machines, and arms
-were delivered to the victors, together with the further ransom of
-one hundred thousand bezants. After this capitulation, the following
-extraordinary scene took place. We shall give it in the words of the
-humorous and amiable George Ellis, the collector and the editor of these
-Romances:--
-
-“Though the garrison had faithfully performed the other articles of
-their contract, they were unable to restore the cross, which was not
-in their possession, and were therefore treated by the Christians
-with great cruelty. Daily reports of their sufferings were carried to
-Saladin; and as many of them were persons of the highest distinction,
-that monarch, at the solicitation of their friends, dispatched an
-embassy to King Richard with magnificent presents, which he offered
-for the ransom of the captives. The ambassadors were persons the most
-respectable from their age, their rank, and their eloquence. They
-delivered their message in terms of the utmost humility; and without
-arraigning the justice of the conqueror in his severe treatment of their
-countrymen, only solicited a period to that severity, laying at his feet
-the treasures with which they were entrusted, and pledging themselves
-and their master for the payment of any further sums which he might
-demand as the price of mercy.
-
-     “King Richard spake with wordes mild.
-     ‘The gold to take, God me shield!
-     Among you partes [Divide] every charge.
-     I brought in shippes and in barge,
-     More gold and silver with me,
-     Than has your lord, and swilke three.
-     To his treasure have I no need!
-     But for my love I you bid,
-     To meat with me that ye dwell;
-     And afterward I shall you tell.
-     Thorough counsel I shall you answer,
-     What BODE [Message] ye shall to your lord bear.
-
-“The invitation was gratefully accepted. Richard, in the meantime, gave
-secret orders to his marshal that he should repair to the prison,
-select a certain number of the most distinguished captives, and, after
-carefully noting their names on a roll of parchment, cause their heads
-to be instantly struck off; that these heads should be delivered to the
-cook, with instructions to clear away the hair, and, after boiling
-them in a cauldron, to distribute them on several platters, one to
-each guest, observing to fasten on the forehead of each the piece of
-parchment expressing the name and family of the victim.
-
-     “‘An hot head bring me beforn,
-     As I were well apayed withall,
-     Eat thereof fast I shall;
-     As it were a tender chick,
-     To see how the others will like.’
-
-“This horrible order was punctually executed. At noon the guests were
-summoned to wash by the music of the waits. The king took his seat
-attended by the principal officers of his court, at the high table, and
-the rest of the company were marshalled at a long table below him.
-On the cloth were placed portions of salt at the usual distances, but
-neither bread, wine, nor water. The ambassadors, rather surprised at
-this omission, but still free from apprehension, awaited in silence
-the arrival of the dinner, which was announced by the sound of pipes,
-trumpets, and tabours; and beheld, with horror and dismay, the unnatural
-banquet introduced by the steward and his officers. Yet their sentiments
-of disgust and abhorrence, and even their fears, were for a time
-suspended by their curiosity. Their eyes were fixed on the king, who,
-without the slightest change of countenance, swallowed the morsels as
-fast as they could be supplied by the knight who carved them.
-
-     “Every man then poked other;
-     They said, ‘This is the devil’s brother,
-     That slays our men, and thus hem eats!’
-
-“Their attention was then involuntarily fixed on the smoking heads
-before them. They traced in the swollen and distorted features the
-resemblance of a friend or near relation, and received from the
-fatal scroll which accompanied each dish the sad assurance that this
-resemblance was not imaginary. They sat in torpid silence, anticipating
-their own fate in that of their countrymen; while their ferocious
-entertainer, with fury in his eyes, but with courtesy on his lips,
-insulted them by frequent invitations to merriment. At length this first
-course was removed, and its place supplied by venison, cranes, and other
-dainties, accompanied by the richest wines. The king then apologized to
-them for what had passed, which he attributed to his ignorance of their
-taste; and assured them of his religious respect for their characters as
-ambassadors, and of his readiness to grant them a safe-conduct for their
-return. This boon was all that they now wished to claim; and
-
-     “King Richard spake to an old man,
-     ‘Wendes home to your Soudan!
-     His melancholy that ye abate;
-     And sayes that ye came too late.
-     Too slowly was your time y-guessed;
-     Ere ye came, the flesh was dressed,
-     That men shoulden serve with me,
-     Thus at noon, and my meynie.
-     Say him, it shall him nought avail,
-     Though he for-bar us our vitail,
-     Bread, wine, fish, flesh, salmon, and conger;
-     Of us none shall die with hunger,
-     While we may wenden to fight,
-     And slay the Saracens downright,
-     Wash the flesh, and roast the head.
-     With 0 [One] Saracen I may well feed
-     Well a nine or a ten
-     Of my good Christian men.
-     King Richard shall warrant,
-     There is no flesh so nourissant
-     Unto an English man,
-     Partridge, plover, heron, ne swan,
-     Cow ne ox, sheep ne swine,
-     As the head of a Sarazyn.
-     There he is fat, and thereto tender,
-     And my men be lean and slender.
-     While any Saracen quick be,
-     Livand now in this Syrie,
-     For meat will we nothing care.
-     Abouten fast we shall rare,
-     And every day we shall eat
-     All as many as we may get.
-     To England will we nought gon,
-     Till they be eaten every one.’”
-
-
-      ELLIS’S SPECIMENS OF EARLY ENGLISH METRICEL ROMANCES.
-
-The reader may be curious to know owing to what circumstances so
-extraordinary an invention as that which imputed cannibalism to the King
-of England should have found its way into his history. Mr. James, to
-whom we owe so much that is curious, seems to have traced the origin of
-this extraordinary rumour.
-
-“With the army of the cross also was a multitude of men,” the same
-author declares, “who made it a profession to be without money. They
-walked barefoot, carried no arms, and even preceded the beasts of burden
-in their march, living upon roots and herbs, and presenting a spectacle
-both disgusting and pitiable.
-
-“A Norman, who, according to all accounts, was of noble birth, but who,
-having lost his horse, continued to follow as a foot soldier, took
-the strange resolution of putting himself at the head of this race
-of vagabonds, who willingly received him as their king. Amongst the
-Saracens these men became well known under the name of THAFURS (which
-Guibert translates TRUDENTES), and were beheld with great horror
-from the general persuasion that they fed on the dead bodies of their
-enemies; a report which was occasionally justified, and which the king
-of the Thafurs took care to encourage. This respectable monarch was
-frequently in the habit of stopping his followers, one by one, in a
-narrow defile, and of causing them to be searched carefully, lest the
-possession of the least sum of money should render them unworthy of the
-name of his subjects. If even two sous were found upon any one, he
-was instantly expelled the society of his tribe, the king bidding him
-contemptuously buy arms and fight.
-
-“This troop, so far from being cumbersome to the army, was infinitely
-serviceable, carrying burdens, bringing in forage, provisions, and
-tribute; working the machines in the sieges; and, above all, spreading
-consternation among the Turks, who feared death from the lances of the
-knights less than that further consummation they heard of under the
-teeth of the Thafurs.” [James’s “History of Chivalry.”]
-
-It is easy to conceive that an ignorant minstrel, finding the taste and
-ferocity of the Thafurs commemorated in the historical accounts of the
-Holy Wars, has ascribed their practices and propensities to the Monarch
-of England, whose ferocity was considered as an object of exaggeration
-as legitimate as his valour.
-
-ABBOTSFORD, 1st July, 1832.
-
-
-
-
-
-TALES OF THE CRUSADERS. TALE II.--THE TALISMAN.
-
-
-
-
-CHAPTER I.
 
      They, too, retired
      To the wilderness, but ‘twas with arms.
@@ -755,7 +252,6 @@ by side to the little cluster of palm-trees.
 
 
 
-CHAPTER II.
 
 Times of danger have always, and in a peculiar degree, their seasons
 of good-will and security; and this was particularly so in the ancient
@@ -1274,7 +770,6 @@ upon bright armour.”
 
 
 
-CHAPTER III.
 
 The warriors arose from their place of brief rest and simple
 refreshment, and courteously aided each other while they carefully
@@ -2179,7 +1674,6 @@ fast asleep, each on his separate pallet.
 
 
 
-CHAPTER IV.
 
 Kenneth the Scot was uncertain how long his senses had been lost in
 profound repose, when he was roused to recollection by a sense of
@@ -2669,7 +2163,6 @@ chapel produced so powerful an effect on the feelings of her knight.
 
 
 
-CHAPTER V.
 
      Their necromantic forms in vain
      Haunt us on the tented plain;
@@ -2855,7 +2348,6 @@ admitted to the chapel in which he had seen such wonders.
 
 
 
-CHAPTER VI.
 
      Now change the scene--and let the trumpets sound,
      For we must rouse the lion from his lair.  OLD PLAY.
@@ -3281,7 +2773,6 @@ Gilsland.]
 
 
 
-CHAPTER VII.
 
      There never was a time on the march parts yet,
      When Scottish with English met,
@@ -3767,7 +3258,6 @@ to King Richard on the part of Saladin.
 
 
 
-CHAPTER VIII.
 
      A wise physician, skilled our wounds to heal,
      Is more than armies to the common weal.
@@ -4241,7 +3731,6 @@ King Richard.
 
 
 
-CHAPTER IX.
 
      This is the prince of leeches; fever, plague,
      Cold rheum, and hot podagra, do but look on him,
@@ -4777,7 +4266,6 @@ accordingly.
 
 
 
-CHAPTER X.
 
      And now I will unclasp a secret book,
      And, to your quick-conceiving discontent,
@@ -5152,7 +4640,6 @@ dark suggestions of this Templar.”
 
 
 
-CHAPTER XI.
 
      One thing is certain in our Northern land--
      Allow that birth or valour, wealth or wit,
@@ -5900,7 +5387,6 @@ again be fastened, but not so the cord which has been cut to pieces.”
 
 
 
-CHAPTER XII.
 
      ‘Tis woman that seduces all mankind.
         GAY.
@@ -6211,7 +5697,6 @@ thee.”
 
 
 
-CHAPTER XIII.
 
      You talk of Gaiety and Innocence!
      The moment when the fatal fruit was eaten,
@@ -6573,7 +6058,6 @@ agonies of death.
 
 
 
-CHAPTER XIV.
 
      All my long arrear of honour lost,
      Heap’d up in youth, and hoarded up for age.
@@ -6906,7 +6390,6 @@ the hill, and took the road to King Richard’s pavilion.
 
 
 
-CHAPTER XV.
 
      The feather’d songster, chanticleer,
      Had wound his bugle-horn,
@@ -7263,7 +6746,6 @@ brethren.”
 
 
 
-CHAPTER XVI.
 
      ‘Tis not her sense, for sure in that
      There’s nothing more than common;
@@ -7470,7 +6952,6 @@ the tent of her lionlike husband.
 
 
 
-CHAPTER XVII.
 
      Were every hair upon his head a life,
      And every life were to be supplicated
@@ -7847,7 +7328,6 @@ our fatal jest had remained unacted.”
 
 
 
-CHAPTER XVIII.
 
      This work desires a planetary intelligence
      Of Jupiter and Sol; and those great spirits
@@ -8431,7 +7911,6 @@ military and political incidents which had occurred during his illness.
 
 
 
-CHAPTER XIX.
 
      Must we then sheathe our still victorious sword;
      Turn back our forward step, which ever trod
@@ -8913,7 +8392,6 @@ hesitate nor retract--they resolve and they execute.”
 
 
 
-CHAPTER XX.
 
      When beauty leads the lion in her toils,
      Such are her charms, he dare not raise his mane,
@@ -9485,7 +8963,6 @@ intrusion.
 
 
 
-CHAPTER XXI
 
      --and wither’d Murder,
      Alarum’d by his sentinel, the wolf,
@@ -9795,7 +9272,6 @@ appearance of taking an interest in it.
 
 
 
-CHAPTER XXII.
 
      Who’s there!--Approach--‘tis kindly done--
      My learned physician and a friend.
@@ -10245,7 +9721,6 @@ if life had actually departed.
 
 
 
-CHAPTER XXIII.
 
      ‘Mid these wild scenes Enchantment waves her hand,
      To change the face of the mysterious land;
@@ -10634,7 +10109,6 @@ with Gyges.]
 
 
 
-CHAPTER XXIV
 
      A grain of dust
      Soiling our cup, will make our sense reject
@@ -11161,7 +10635,6 @@ our share of the wine of NIERENSTEIN.”
 
 
 
-CHAPTER XXV.
 
      Yet this inconstancy is such,
      As thou, too, shalt adore;
@@ -11490,7 +10963,6 @@ arrived.
 
 
 
-CHAPTER XXVI.
 
      “The tears I shed must ever fall.
      I weep not for an absent swain;
@@ -12015,7 +11487,6 @@ day on his return to the Soldan.
 
 
 
-CHAPTER XXVII.
 
      We heard the Techir--so these Arabs call
      Their shout of onset, when, with loud acclaim,
@@ -12714,7 +12185,6 @@ The conclusion of the evening offered nothing worthy of notice.
 
 
 
-CHAPTER XXVIII.
 
      Heard ye the din of battle bray,
      Lance to lance, and horse to horse?
@@ -13517,364 +12987,3 @@ conquests are to be found in every history of the period.
 
 
 
-End of the Project Gutenberg EBook of The Talisman, by Sir Walter Scott
-
-*** END OF THIS PROJECT GUTENBERG EBOOK THE TALISMAN ***
-
-***** This file should be named 1377-0.txt or 1377-0.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/1/3/7/1377/
-
-Produced by An Anonomous Volunteer
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  “Project Gutenberg” is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation (“the Foundation”
- or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase “Project Gutenberg” appears, or with which the phrase “Project
-Gutenberg” is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase “Project Gutenberg” associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-“Plain Vanilla ASCII” or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original “Plain Vanilla ASCII” or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, “Information about donations to
-     the Project Gutenberg Literary Archive Foundation.”
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-“Defects,” such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’ WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm’s
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation’s EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state’s laws.
-
-The Foundation’s principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation’s web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

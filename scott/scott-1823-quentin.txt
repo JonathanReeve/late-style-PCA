@@ -1,302 +1,3 @@
-The Project Gutenberg EBook of Quentin Durward, by Sir Walter Scott
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: Quentin Durward
-
-Author: Sir Walter Scott
-
-Release Date: April, 2005  [EBook #7853]
-Posting Date: July 25, 2009
-Last Updated: August 31, 2016
-
-Language: English
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK QUENTIN DURWARD ***
-
-
-
-
-Produced by Martin Robb
-
-
-
-
-
-QUENTIN DURWARD
-
-
-by Sir Walter Scott, Bart.
-
-
-
-
-AUTHOR’S INTRODUCTION
-
-
-The scene of this romance is laid in the fifteenth century, when the
-feudal system, which had been the sinews and nerves of national defence,
-and the spirit of chivalry, by which, as by a vivifying soul, that
-system was animated, began to be innovated upon and abandoned by those
-grosser characters who centred their sum of happiness in procuring the
-personal objects on which they had fixed their own exclusive attachment.
-The same egotism had indeed displayed itself even in more primitive
-ages; but it was now for the first time openly avowed as a professed
-principle of action. The spirit of chivalry had in it this point
-of excellence, that, however overstrained and fantastic many of its
-doctrines may appear to us, they were all founded on generosity and self
-denial, of which, if the earth were deprived, it would be difficult to
-conceive the existence of virtue among the human race.
-
-Among those who were the first to ridicule and abandon the self denying
-principles in which the young knight was instructed and to which he
-was so carefully trained up, Louis XI of France was the chief. That
-sovereign was of a character so purely selfish--so guiltless of
-entertaining any purpose unconnected with his ambition, covetousness,
-and desire of selfish enjoyment--that he almost seems an incarnation of
-the devil himself, permitted to do his utmost to corrupt our ideas
-of honour in its very source. Nor is it to be forgotten that Louis
-possessed to a great extent that caustic wit which can turn into
-ridicule all that a man does for any other person’s advantage but his
-own, and was, therefore, peculiarly qualified to play the part of a cold
-hearted and sneering fiend.
-
-The cruelties, the perjuries, the suspicions of this prince, were
-rendered more detestable, rather than amended, by the gross and debasing
-superstition which he constantly practised. The devotion to the heavenly
-saints, of which he made such a parade, was upon the miserable principle
-of some petty deputy in office, who endeavours to hide or atone for the
-malversations of which he is conscious by liberal gifts to those whose
-duty it is to observe his conduct, and endeavours to support a system of
-fraud by an attempt to corrupt the incorruptible. In no other light can
-we regard his creating the Virgin Mary a countess and colonel of his
-guards, or the cunning that admitted to one or two peculiar forms of
-oath the force of a binding obligation which he denied to all other,
-strictly preserving the secret, which mode of swearing he really
-accounted obligatory, as one of the most valuable of state mysteries.
-
-To a total want of scruple, or, it would appear, of any sense whatever
-of moral obligation, Louis XI added great natural firmness and sagacity
-of character, with a system of policy so highly refined, considering the
-times he lived in, that he sometimes overreached himself by giving way
-to its dictates.
-
-Probably there is no portrait so dark as to be without its softer
-shades. He understood the interests of France, and faithfully pursued
-them so long as he could identify them with his own. He carried the
-country safe through the dangerous crisis of the war termed “for the
-public good;” in thus disuniting and dispersing this grand and dangerous
-alliance of the great crown vassals of France against the Sovereign, a
-king of a less cautious and temporizing character, and of a more bold
-and less crafty disposition than Louis XI, would, in all probability,
-have failed. Louis had also some personal accomplishments not
-inconsistent with his public character. He was cheerful and witty in
-society; and none was better able to sustain and extol the superiority
-of the coarse and selfish reasons by which he endeavoured to supply
-those nobler motives for exertion which his predecessors had derived
-from the high spirit of chivalry.
-
-In fact, that system was now becoming ancient, and had, even while
-in its perfection, something so overstrained and fantastic in its
-principles, as rendered it peculiarly the object of ridicule, whenever,
-like other old fashions, it began to fall out of repute; and the weapons
-of raillery could be employed against it, without exciting the disgust
-and horror with which they would have been rejected at an early period,
-as a species of blasphemy. The principles of chivalry were cast aside,
-and their aid supplied by baser stimulants. Instead of the high spirit
-which pressed every man forward in the defence of his country, Louis
-XI substituted the exertions of the ever ready mercenary soldier, and
-persuaded his subjects, among whom the mercantile class began to make a
-figure, that it was better to leave to mercenaries the risks and labours
-of war, and to supply the Crown with the means of paying them, than to
-peril themselves in defence of their own substance. The merchants were
-easily persuaded by this reasoning. The hour did not arrive in the days
-of Louis XI when the landed gentry and nobles could be in like manner
-excluded from the ranks of war; but the wily monarch commenced that
-system, which, acted upon by his successors, at length threw the whole
-military defence of the state into the hands of the Crown.
-
-He was equally forward in altering the principles which were wont to
-regulate the intercourse of the sexes. The doctrines of chivalry had
-established, in theory at least, a system in which Beauty was the
-governing and remunerating divinity--Valour, her slave, who caught his
-courage from her eye and gave his life for her slightest service. It is
-true, the system here, as in other branches, was stretched to fantastic
-extravagance, and cases of scandal not unfrequently arose. Still, they
-were generally such as those mentioned by Burke, where frailty was
-deprived of half its guilt, by being purified from all its grossness.
-In Louis XI’s practice, it was far otherwise. He was a low voluptuary,
-seeking pleasure without sentiment, and despising the sex from whom he
-desired to obtain it.... By selecting his favourites and ministers from
-among the dregs of the people, Louis showed the slight regard which he
-paid to eminent station and high birth; and although this might be
-not only excusable but meritorious, where the monarch’s fiat promoted
-obscure talent, or called forth modest worth, it was very different when
-the King made his favourite associates of such men as the chief of his
-police, Tristan l’Hermite..
-
-Nor were Louis’s sayings and actions in private or public of a kind
-which could redeem such gross offences against the character of a man
-of honour. His word, generally accounted the most sacred test of a man’s
-character, and the least impeachment of which is a capital offence
-by the code of honour, was forfeited without scruple on the slightest
-occasion, and often accompanied by the perpetration of the most enormous
-crimes... It is more than probable that, in thus renouncing almost
-openly the ties of religion, honour, and morality, by which mankind
-at large feel themselves influenced, Louis sought to obtain great
-advantages in his negotiations with parties who might esteem themselves
-bound, while he himself enjoyed liberty. He started from the goal, he
-might suppose, like the racer who has got rid of the weights with which
-his competitors are still encumbered, and expects to succeed of course.
-But Providence seems always to unite the existence of peculiar danger
-with some circumstance which may put those exposed to the peril upon
-their guard. The constant suspicion attached to any public person who
-becomes badly eminent for breach of faith is to him what the rattle is
-to the poisonous serpent: and men come at last to calculate not so much
-on what their antagonist says as upon that which he is likely to do;
-a degree of mistrust which tends to counteract the intrigues of such a
-character, more than his freedom from the scruples of conscientious men
-can afford him advantage..
-
-Indeed, although the reign of Louis had been as successful in a
-political point of view as he himself could have desired, the spectacle
-of his deathbed might of itself be a warning piece against the seduction
-of his example. Jealous of every one, but chiefly of his own son,
-he immured himself in his Castle of Plessis, intrusting his person
-exclusively to the doubtful faith of his Scottish mercenaries. He never
-stirred from his chamber; he admitted no one into it, and wearied heaven
-and every saint with prayers, not for forgiveness of his sins, but
-for the prolongation of his life. With a poverty of spirit totally
-inconsistent with his shrewd worldly sagacity, he importuned his
-physicians until they insulted as well as plundered him..
-
-It was not the least singular circumstance of this course, that bodily
-health and terrestrial felicity seemed to be his only object. Making
-any mention of his sins when talking on the state of his health, was
-strictly prohibited; and when at his command a priest recited a prayer
-to Saint Eutropius in which he recommended the King’s welfare both in
-body and soul, Louis caused the two last words to be omitted, saying it
-was not prudent to importune the blessed saint by too many requests at
-once. Perhaps he thought by being silent on his crimes he might suffer
-them to pass out of the recollection of the celestial patrons, whose aid
-he invoked for his body.
-
-So great were the well merited tortures of this tyrant’s deathbed, that
-Philip de Comines enters into a regular comparison between them and the
-numerous cruelties inflicted on others by his order; and considering
-both, comes to express an opinion that the worldly pangs and agony
-suffered by Louis were such as might compensate the crimes he had
-committed, and that, after a reasonable quarantine in purgatory, he
-might in mercy he found duly qualified for the superior regions...
-The instructive but appalling scene of this tyrant’s sufferings was at
-length closed by death, 30th August, 1483.
-
-The selection of this remarkable person as the principal character in
-the romance--for it will be easily comprehended that the little love
-intrigue of Quentin is only employed as the means of bringing out the
-story--afforded considerable facilities to the author. In Louis XI’s
-time, extraordinary commotions existed throughout all Europe. England’s
-Civil Wars were ended, rather in appearance than reality, by the short
-lived ascendancy of the House of York. Switzerland was asserting that
-freedom which was afterwards so bravely defended. In the Empire and in
-France, the great vassals of the crown were endeavouring to emancipate
-themselves from its control, while Charles of Burgundy by main force,
-and Louis more artfully by indirect means, laboured to subject them to
-subservience to their respective sovereignties. Louis, while with one
-hand he circumvented and subdued his own rebellious vassals, laboured
-secretly with the other to aid and encourage the large trading towns of
-Flanders to rebel against the Duke of Burgundy, to which their wealth
-and irritability naturally disposed them. In the more woodland districts
-of Flanders, the Duke of Gueldres, and William de la Marck, called from
-his ferocity the Wild Boar of Ardennes, were throwing off the habits
-of knights and gentlemen to practise the violences and brutalities of
-common bandits.
-
-[Chapter I gives a further account of the conditions of the period which
-Quentin Durward portrays.]
-
-A hundred secret combinations existed in the different provinces of
-France and Flanders; numerous private emissaries of the restless
-Louis, Bohemians, pilgrims, beggars, or agents disguised as such, were
-everywhere spreading the discontent which it was his policy to maintain
-in the dominions of Burgundy.
-
-Amidst so great an abundance of materials, it was difficult to select
-such as should be most intelligible and interesting to the reader: and
-the author had to regret, that though he made liberal use of the power
-of departing from the reality of history, he felt by no means confident
-of having brought his story into a pleasing, compact, and sufficiently
-intelligible form. The mainspring of the plot is that which all who know
-the least of the feudal system can easily understand, though the facts
-are absolutely fictitious. The right of a feudal superior was in nothing
-more universally acknowledged than in his power to interfere in the
-marriage of a female vassal. This may appear to exist as a contradiction
-both of the civil and canon laws, which declare that marriage shall be
-free, while the feudal or municipal jurisprudence, in case of a fief
-passing to a female, acknowledges an interest in the superior of
-the fief to dictate the choice of her companion in marriage. This is
-accounted for on the principle that the superior was, by his bounty, the
-original granter of the fief, and is still interested that the marriage
-of the vassal shall place no one there who may be inimical to his liege
-lord. On the other hand, it might be reasonably pleaded that this
-right of dictating to the vassal to a certain extent in the choice of
-a husband, is only competent to the superior from whom the fief is
-originally derived. There is therefore no violent improbability in a
-vassal of Burgundy flying to the protection of the King of France, to
-whom the Duke of Burgundy himself was vassal; not is it a great stretch
-of probability to affirm that Louis, unscrupulous as he was, should have
-formed the design of betraying the fugitive into some alliance which
-might prove inconvenient, if not dangerous, to his formidable kinsman
-and vassal of Burgundy.
-
-[Some of these departures from historical accuracy, as when the death
-of the Bishop of Liege is antedated, are duly set forth in the notes.
-It should be mentioned that Mr. J. F. Kirk, in his elaborate History of
-Charles the Bold, claims that in some points injustice has been done
-to the Duke in this romance. He says: “The faults of Charles were
-sufficiently glaring, and scarcely admitted of exaggeration; but his
-breeding had been that of a prince, his education had been better than
-that of other princes of his time, his tastes and habits were more, not
-less, refined than theirs, and the restraint he imposed upon his sensual
-appetites was as conspicuous a trait as his sternness and violence.”]
-
-Abbotsford, 1830.
-
-
-
-Quentin Durward was published in June, 1823, and was Scott’s first
-venture on foreign ground. While well received at home, the sensation
-it created in Paris was comparable to that caused by the appearance of
-Waverley in Edinburgh and Ivanhoe in London. In Germany also, where the
-author was already popular, the new novel had a specially enthusiastic
-welcome. The scene of the romance was partly suggested by a journal
-kept by Sir Walter’s dear friend, Mr. James Skene of Rubislaw, during
-a French tour, the diary being illustrated by a vast number of clever
-drawings. The author, in telling this tale laid in unfamiliar scenes,
-encountered difficulties of a kind quite new to him, as it necessitated
-much study of maps, gazetteers, and books of travel. For the history,
-he naturally found above all else the Memoirs of Philip de Comines “the
-very key of the period,” though it need not be said that the lesser
-chroniclers received due attention. It is interesting to note that in
-writing to his friend, Daniel Terry, the actor and manager, Scott says,
-“I have no idea my present labours will be dramatic in situation; as to
-character, that of Louis XI, the sagacious, perfidious, superstitious,
-jocular, politic tyrant, would be, for a historical chronicle containing
-his life and death, one of the most powerful ever brought on the stage.”
- So thought the poet, Casimir Delavigne--writing when Scott’s influence
-was marked upon French literature--whose powerful drama, Louis XI, was
-a great Parisian success. Later Charles Kean and Henry Irving made an
-English version of it well known in England and America.
-
-
-
-CHAPTER I: THE CONTRAST
 
      Look here upon this picture, and on this,
      The counterfeit presentment of two brothers.
@@ -582,7 +283,6 @@ adventures we are about to relate.
 
 
 
-CHAPTER II: THE WANDERER
 
      Why then the world’s mine oyster, which I with sword will open.
 
@@ -1054,7 +754,6 @@ on a human head, I would crop them out of it with my wood knife.”
 
 
 
-CHAPTER III: THE CASTLE
 
      Full in the midst a mighty pile arose,
      Where iron grated gates their strength oppose
@@ -1389,7 +1088,6 @@ regales, as the reader will be informed in the next chapter.
 
 
 
-CHAPTER IV: THE DEJEUNER
 
      Sacred heaven! what masticators! what bread!
 
@@ -2077,7 +1775,6 @@ to speak with him below.
 
 
 
-CHAPTER V: THE MAN AT ARMS
 
      Full of strange oaths, and bearded like the pard,
      Seeking the bubble reputation
@@ -2555,7 +2252,6 @@ his uncle had thrown some dubiety.
 
 
 
-CHAPTER VI: THE BOHEMIANS
 
      Sae rantingly, sae wantingly,
      Sae dantingly gaed he,
@@ -3348,7 +3044,6 @@ know how to frame our report both to Crawford and Oliver.”
 
 
 
-CHAPTER VII: THE ENROLMENT
 
      Justice of Peace.--
      Here, hand me down the statute--read the articles--
@@ -3874,7 +3569,6 @@ was called by his hour of duty, along with five of his comrades.
 
 
 
-CHAPTER VIII: THE ENVOY
 
      Be thou as lightning in the eyes of France;
      For ere thou canst report I will be there.
@@ -4704,7 +4398,6 @@ And all the chase rode on.
 
 
 
-CHAPTER IX: THE BOAR HUNT
 
      I will converse with unrespective boys
      And iron witted fools.  None are for me
@@ -5118,7 +4811,6 @@ retinue, returned to the Castle.
 
 
 
-CHAPTER X: THE SENTINEL
 
      Where should this music be?  i’ the air or the earth?
 
@@ -5706,7 +5398,6 @@ was silent.
 
 
 
-CHAPTER XI: THE HALL OF ROLAND
 
      Painters show cupid blind--Hath Hymen eyes?
      Or is his sight warp’d by those spectacles
@@ -6140,7 +5831,6 @@ King himself entered the apartment.
 
 
 
-CHAPTER XII: THE POLITICIAN
 
      This is a lecturer, so skill’d in policy,
      That (no disparagement to Satan’s cunning)
@@ -6704,7 +6394,6 @@ upon his cousin of Orleans.
 
 
 
-CHAPTER XIII: THE JOURNEY
 
      Talk not of kings--I scorn the poor comparison;
      I am a sage and can command the elements--
@@ -7100,7 +6789,6 @@ filling.
 
 
 
-CHAPTER XIV: THE JOURNEY
 
      I see thee yet, fair France--thou favour’d land
      Of art and nature--thou art still before me,
@@ -7591,7 +7279,6 @@ three of his followers, making, in all, perhaps twenty horse.
 
 
 
-CHAPTER XV: THE GUIDE
 
      He was a son of Egypt, as he told me,
      And one descended from those dread magicians,
@@ -7989,7 +7676,6 @@ and endeavour to ascertain how far he is to be trusted.”
 
 
 
-CHAPTER XVI: THE VAGRANT
 
      I am as free as Nature first made man,
      Ere the base laws of servitude began
@@ -8563,7 +8249,6 @@ necessity of keeping sight of his guide, followed in pursuit of him.
 
 
 
-CHAPTER XVII: THE ESPIED SPY
 
      What, the rude ranger? and spied spy?--hands off--
      You are for no such rustics.
@@ -8954,7 +8639,6 @@ the friar much edified by the depth and sincerity of his devotion.
 
 
 
-CHAPTER XVIII: PALMISTRY
 
      When many a many tale and many a song
      Cheer’d the rough road, we wish’d the rough road long.
@@ -9438,7 +9122,6 @@ to attract neither objection nor remark.
 
 
 
-CHAPTER XIX: THE CITY
 
      Good friends, sweet friends, let me not stir you up
      To any sudden act of mutiny.
@@ -9991,7 +9674,6 @@ are intended to announce their going in search of a safer asylum.”
 
 
 
-CHAPTER XX: THE BILLET
 
      Go to--thou art made, if thou desirest to be so.--
      If not, let me see thee still the fellow of servants,
@@ -10476,7 +10158,6 @@ destinies of the Children of the Desert!”
 
 
 
-CHAPTER XXI: THE SACK
 
      The gates of mercy shall be all shut up,
      And the flesh’d soldier, rough and hard of heart,
@@ -10951,7 +10632,6 @@ dangers of the course.
 
 
 
-CHAPTER XXII: THE REVELLERS
 
      Cade.--Where’s Dick, the butcher of Ashford?
      Dick.--Here, sir.
@@ -11510,7 +11190,6 @@ life.
 
 
 
-CHAPTER XXIII: THE FLIGHT
 
      Now bid me run,
      And I will strive with things impossible;
@@ -12113,7 +11792,6 @@ forward to charge the Schwarzreiters.
 
 
 
-CHAPTER XXIV: THE SURRENDER
 
      Rescue or none, Sir Knight, I am your captive:
      Deal with me what your nobleness suggests--
@@ -12584,7 +12262,6 @@ road between Charleroi and Peronne.
 
 
 
-CHAPTER XXV: THE UNBIDDEN GUEST
 
      No human quality is so well wove
      In warp and woof, but there ‘s some flaw in it:
@@ -12980,7 +12657,6 @@ Burgundy’s army, amounting to about fifteen thousand men.
 
 
 
-CHAPTER XXVI: THE INTERVIEW
 
      When Princes meet, Astrologers may mark it
      An ominous conjunction, full of boding,
@@ -13673,7 +13349,6 @@ whom we saw at Burgos, and his impetuosity places him at my mercy.”
 
 
 
-CHAPTER XXVII: THE EXPLOSION
 
      ‘T is listening fear, and dumb amazement all,
      When to the startled eye, the sudden glance
@@ -14303,7 +13978,6 @@ i.--S.]
 
 
 
-CHAPTER XXVIII: UNCERTAINTY
 
      Then happy low, lie down;
      Uneasy lies the head that wears a crown.
@@ -14959,7 +14633,6 @@ regarded as responsible in one way or other.
 
 
 
-CHAPTER XXIX: RECRIMINATION
 
      Thy time is not yet out--the devil thou servest
      Has not as yet deserted thee. He aids
@@ -15367,7 +15040,6 @@ precarious.
 
 
 
-CHAPTER XXX: UNCERTAINTY
 
      Our counsels waver like the unsteady bark,
      That reels amid the strife of meeting currents.
@@ -16125,7 +15797,6 @@ statesmen, and the best historian of his age.]
 
 
 
-CHAPTER XXXI: THE INTERVIEW
 
      Hold fast thy truth, young soldier.--Gentle maiden,
      Keep you your promise plight--leave age its subtleties,
@@ -16537,7 +16208,6 @@ conjecture.”
 
 
 
-CHAPTER XXXII: THE INVESTIGATION
 
      Me rather had my heart might feel your love,
      Than my displeased eye see your courtesy.
@@ -17030,7 +16700,6 @@ Scottish man at arms seems desirous to tell me!”
 
 
 
-CHAPTER XXXIII: THE HERALD
 
      Ariel.--Hark! they roar.
      Prospero. Let them be hunted soundly.
@@ -17514,7 +17183,6 @@ speedy in dealing with yonder runagate Bohemian.”
 
 
 
-CHAPTER XXXIV: THE EXECUTION
 
      I’ll take thee to the good green wood,
      And make thine own hand choose the tree.
@@ -17827,7 +17495,6 @@ neither expressed remorse for the past, nor apprehension for the future!
 
 
 
-CHAPTER XXXV: A PRIZE FOR HONOUR
 
      ‘T is brave for Beauty when the best blade wins her.
 
@@ -18129,7 +17796,6 @@ history has been painted by Carpacelo and by Hans Memling.]
 
 
 
-CHAPTER XXXVI: THE SALLY
 
      The wretch condemn’d with life to part,
      Still, still on hope relies,
@@ -18578,7 +18244,6 @@ given in the text. S.]
 
 
 
-CHAPTER XXXVII: THE SALLY
 
      He look’d, and saw what numbers numberless
      The city gates outpour’d.
@@ -19228,364 +18893,3 @@ Scott is sometimes called the Ariosto of the North.]
 
 
 
-End of the Project Gutenberg EBook of Quentin Durward, by Sir Walter Scott
-
-*** END OF THIS PROJECT GUTENBERG EBOOK QUENTIN DURWARD ***
-
-***** This file should be named 7853-0.txt or 7853-0.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/7/8/5/7853/
-
-Produced by Martin Robb
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  “Project Gutenberg” is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation (“the Foundation”
- or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase “Project Gutenberg” appears, or with which the phrase “Project
-Gutenberg” is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase “Project Gutenberg” associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-“Plain Vanilla ASCII” or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original “Plain Vanilla ASCII” or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, “Information about donations to
-     the Project Gutenberg Literary Archive Foundation.”
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-“Defects,” such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’ WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm’s
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation’s EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state’s laws.
-
-The Foundation’s principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation’s web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

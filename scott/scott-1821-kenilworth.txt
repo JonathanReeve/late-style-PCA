@@ -1,461 +1,4 @@
 
-The Project Gutenberg EBook of Kenilworth, by Sir Walter Scott
-
-This eBook is for the use of anyone anywhere at no cost and with almost
-no restrictions whatsoever. You may copy it, give it away or re-use
-it under the terms of the Project Gutenberg License included with this
-eBook or online at www.gutenberg.org
-
-
-Title: Kenilworth
-
-Author: Sir Walter Scott
-
-Release Date: February 21, 2006 [EBook #1606]
-Last Updated: August 30, 2016
-
-Language: English
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK KENILWORTH ***
-
-
-
-
-Produced by An Anonymous Volunteer and David Widger
-
-
-
-
-
-
-
-KENILWORTH. by Sir Walter Scott, Bart.
-
-
-
-Contents
-
- INTRODUCTION
-
-KENILWORTH
-
-CHAPTER I.
-
-CHAPTER II.
-
-CHAPTER III.
-
-CHAPTER IV.
-
-CHAPTER V.
-
-CHAPTER VI.
-
-CHAPTER VII.
-
-CHAPTER VIII.
-
-CHAPTER IX.
-
-CHAPTER X.
-
-CHAPTER XI.
-
-CHAPTER XII.
-
-CHAPTER XIII.
-
-CHAPTER XIV.
-
-CHAPTER XV.
-
-CHAPTER XVI.
-
-CHAPTER XVII.
-
-CHAPTER XVIII.
-
-CHAPTER XIX.
-
-CHAPTER XX.
-
-CHAPTER XXI.
-
-CHAPTER XXII.
-
-CHAPTER XXIII.
-
-CHAPTER XXIV.
-
-CHAPTER XXV.
-
-CHAPTER XXVI.
-
-CHAPTER XXVII.
-
-CHAPTER XXVIII.
-
-CHAPTER XXIX.
-
-CHAPTER XXX.
-
-CHAPTER XXXI.
-
-CHAPTER XXXII.
-
-CHAPTER XXXIII.
-
-CHAPTER XXXIV.
-
-CHAPTER XXXV.
-
-CHAPTER XXXVI.
-
-CHAPTER XXXVII.
-
-CHAPTER XXXVIII.
-
-CHAPTER XXXIX.
-
-CHAPTER XL.
-
-CHAPTER XLI.
-
-NOTES.
-
-
-
-
-INTRODUCTION
-
-A certain degree of success, real or supposed, in the delineation of
-Queen Mary, naturally induced the author to attempt something similar
-respecting “her sister and her foe,” the celebrated Elizabeth. He
-will not, however, pretend to have approached the task with the same
-feelings; for the candid Robertson himself confesses having felt the
-prejudices with which a Scottishman is tempted to regard the subject;
-and what so liberal a historian avows, a poor romance-writer dares not
-disown. But he hopes the influence of a prejudice, almost as natural to
-him as his native air, will not be found to have greatly affected the
-sketch he has attempted of England’s Elizabeth. I have endeavoured
-to describe her as at once a high-minded sovereign, and a female of
-passionate feelings, hesitating betwixt the sense of her rank and
-the duty she owed her subjects on the one hand, and on the other her
-attachment to a nobleman, who, in external qualifications at least,
-amply merited her favour. The interest of the story is thrown upon that
-period when the sudden death of the first Countess of Leicester seemed
-to open to the ambition of her husband the opportunity of sharing the
-crown of his sovereign.
-
-It is possible that slander, which very seldom favours the memories
-of persons in exalted stations, may have blackened the character of
-Leicester with darker shades than really belonged to it. But the almost
-general voice of the times attached the most foul suspicions to the
-death of the unfortunate Countess, more especially as it took place so
-very opportunely for the indulgence of her lover’s ambition. If we can
-trust Ashmole’s Antiquities of Berkshire, there was but too much ground
-for the traditions which charge Leicester with the murder of his wife.
-In the following extract of the passage, the reader will find the
-authority I had for the story of the romance:--
-
-“At the west end of the church are the ruins of a manor, anciently
-belonging (as a cell, or place of removal, as some report) to the
-monks of Abington. At the Dissolution, the said manor, or lordship, was
-conveyed to one--Owen (I believe), the possessor of Godstow then.
-
-“In the hall, over the chimney, I find Abington arms cut in
-stone--namely, a patonee between four martletts; and also another
-escutcheon--namely, a lion rampant, and several mitres cut in stone
-about the house. There is also in the said house a chamber called
-Dudley’s chamber, where the Earl of Leicester’s wife was murdered, of
-which this is the story following:--
-
-“Robert Dudley, Earl of Leicester, a very goodly personage, and
-singularly well featured, being a great favourite to Queen Elizabeth,
-it was thought, and commonly reported, that had he been a bachelor or
-widower, the Queen would have made him her husband; to this end, to free
-himself of all obstacles, he commands, or perhaps, with fair flattering
-entreaties, desires his wife to repose herself here at his servant
-Anthony Forster’s house, who then lived in the aforesaid manor-house;
-and also prescribes to Sir Richard Varney (a prompter to this design),
-at his coming hither, that he should first attempt to poison her, and if
-that did not take effect, then by any other way whatsoever to dispatch
-her. This, it seems, was proved by the report of Dr. Walter Bayly,
-sometime fellow of New College, then living in Oxford, and professor of
-physic in that university; whom, because he would not consent to take
-away her life by poison, the Earl endeavoured to displace him the court.
-This man, it seems, reported for most certain that there was a practice
-in Cumnor among the conspirators, to have poisoned this poor innocent
-lady, a little before she was killed, which was attempted after this
-manner:--They seeing the good lady sad and heavy (as one that well
-knew, by her other handling, that her death was not far off), began to
-persuade her that her present disease was abundance of melancholy and
-other humours, etc., and therefore would needs counsel her to take some
-potion, which she absolutely refusing to do, as still suspecting the
-worst; whereupon they sent a messenger on a day (unawares to her) for
-Dr. Bayly, and entreated him to persuade her to take some little potion
-by his direction, and they would fetch the same at Oxford; meaning to
-have added something of their own for her comfort, as the doctor
-upon just cause and consideration did suspect, seeing their great
-importunity, and the small need the lady had of physic, and therefore
-he peremptorily denied their request; misdoubting (as he afterwards
-reported) lest, if they had poisoned her under the name of his potion,
-he might after have been hanged for a colour of their sin, and the
-doctor remained still well assured that this way taking no effect, she
-would not long escape their violence, which afterwards happened thus.
-For Sir Richard Varney abovesaid (the chief projector in this design),
-who, by the Earl’s order, remained that day of her death alone with her,
-with one man only and Forster, who had that day forcibly sent away all
-her servants from her to Abington market, about three miles distant from
-this place; they (I say, whether first stifling her, or else strangling
-her) afterwards flung her down a pair of stairs and broke her neck,
-using much violence upon her; but, however, though it was vulgarly
-reported that she by chance fell downstairs (but still without hurting
-her hood that was upon her head), yet the inhabitants will tell you
-there that she was conveyed from her usual chamber where she lay, to
-another where the bed’s head of the chamber stood close to a privy
-postern door, where they in the night came and stifled her in her bed,
-bruised her head very much broke her neck, and at length flung her down
-stairs, thereby believing the world would have thought it a mischance,
-and so have blinded their villainy. But behold the mercy and justice
-of God in revenging and discovering this lady’s murder; for one of the
-persons that was a coadjutor in this murder was afterwards taken for a
-felony in the marches of Wales, and offering to publish the manner
-of the aforesaid murder, was privately made away in the prison by the
-Earl’s appointment; and Sir Richard Varney the other, dying about the
-same time in London, cried miserably, and blasphemed God, and said to
-a person of note (who hath related the same to others since), not long
-before his death, that all the devils in hell did tear him in pieces.
-Forster, likewise, after this fact, being a man formerly addicted to
-hospitality, company, mirth, and music, was afterwards observed to
-forsake all this, and with much melancholy and pensiveness (some say
-with madness) pined and drooped away. The wife also of Bald Butter,
-kinsman to the Earl, gave out the whole fact a little before her death.
-Neither are these following passages to be forgotten, that as soon as
-ever she was murdered, they made great haste to bury her before the
-coroner had given in his inquest (which the Earl himself condemned as
-not done advisedly), which her father, or Sir John Robertsett (as I
-suppose), hearing of, came with all speed hither, caused her corpse to
-be taken up, the coroner to sit upon her, and further inquiry to be made
-concerning this business to the full; but it was generally thought that
-the Earl stopped his mouth, and made up the business betwixt them; and
-the good Earl, to make plain to the world the great love he bare to her
-while alive, and what a grief the loss of so virtuous a lady was to his
-tender heart, caused (though the thing, by these and other means, was
-beaten into the heads of the principal men of the University of Oxford)
-her body to be reburied in St, Mary’s Church in Oxford, with great
-pomp and solemnity. It is remarkable, when Dr. Babington, the Earl’s
-chaplain, did preach the funeral sermon, he tript once or twice in
-his speech, by recommending to their memories that virtuous lady so
-pitifully murdered, instead of saying pitifully slain. This Earl, after
-all his murders and poisonings, was himself poisoned by that which
-was prepared for others (some say by his wife at Cornbury Lodge before
-mentioned), though Baker in his Chronicle would have it at Killingworth;
-anno 1588.” [Ashmole’s Antiquities of Berkshire, vol.i., p.149. The
-tradition as to Leicester’s death was thus communicated by Ben Jonson to
-Drummond of Hawthornden:--“The Earl of Leicester gave a bottle of liquor
-to his Lady, which he willed her to use in any faintness, which she,
-after his returne from court, not knowing it was poison, gave him, and
-so he died.”--BEN JONSON’S INFORMATION TO DRUMMOND OF HAWTHORNDEN, MS.,
-SIR ROBERT SIBBALD’S COPY.]
-
-The same accusation has been adopted and circulated by the author of
-Leicester’s Commonwealth, a satire written directly against the Earl of
-Leicester, which loaded him with the most horrid crimes, and, among
-the rest, with the murder of his first wife. It was alluded to in the
-Yorkshire Tragedy, a play erroneously ascribed to Shakespeare, where
-a baker, who determines to destroy all his family, throws his wife
-downstairs, with this allusion to the supposed murder of Leicester’s
-lady,--
-
-
-     “The only way to charm a woman’s tongue
-     Is, break her neck--a politician did it.”
-
-The reader will find I have borrowed several incidents as well as names
-from Ashmole, and the more early authorities; but my first acquaintance
-with the history was through the more pleasing medium of verse. There
-is a period in youth when the mere power of numbers has a more strong
-effect on ear and imagination than in more advanced life. At this season
-of immature taste, the author was greatly delighted with the poems of
-Mickle and Langhorne, poets who, though by no means deficient in the
-higher branches of their art, were eminent for their powers of verbal
-melody above most who have practised this department of poetry. One of
-those pieces of Mickle, which the author was particularly pleased with,
-is a ballad, or rather a species of elegy, on the subject of Cumnor
-Hall, which, with others by the same author, was to be found in Evans’s
-Ancient Ballads (vol. iv., page 130), to which work Mickle made liberal
-contributions. The first stanza especially had a peculiar species of
-enchantment for the youthful ear of the author, the force of which is
-not even now entirely spent; some others are sufficiently prosaic.
-
-
-     CUMNOR HALL.
-
-     The dews of summer night did fall;
-     The moon, sweet regent of the sky,
-     Silver’d the walls of Cumnor Hall,
-     And many an oak that grew thereby,
-
-     Now nought was heard beneath the skies,
-     The sounds of busy life were still,
-     Save an unhappy lady’s sighs,
-     That issued from that lonely pile.
-
-     “Leicester,” she cried, “is this thy love
-     That thou so oft hast sworn to me,
-     To leave me in this lonely grove,
-     Immured in shameful privity?
-
-     “No more thou com’st with lover’s speed,
-     Thy once beloved bride to see;
-     But be she alive, or be she dead,
-     I fear, stern Earl, ‘s the same to thee.
-
-     “Not so the usage I received
-     When happy in my father’s hall;
-     No faithless husband then me grieved,
-     No chilling fears did me appal.
-
-     “I rose up with the cheerful morn,
-     No lark more blithe, no flower more gay;
-     And like the bird that haunts the thorn,
-     So merrily sung the livelong day.
-
-     “If that my beauty is but small,
-     Among court ladies all despised,
-     Why didst thou rend it from that hall,
-     Where, scornful Earl, it well was prized?
-
-     “And when you first to me made suit,
-     How fair I was you oft would say!
-     And proud of conquest, pluck’d the fruit,
-     Then left the blossom to decay.
-
-     “Yes!  now neglected and despised,
-     The rose is pale, the lily’s dead;
-     But he that once their charms so prized,
-     Is sure the cause those charms are fled.
-
-     “For know, when sick’ning grief doth prey,
-     And tender love’s repaid with scorn,
-     The sweetest beauty will decay,--
-     What floweret can endure the storm?
-
-     “At court, I’m told, is beauty’s throne,
-     Where every lady’s passing rare,
-     That Eastern flowers, that shame the sun,
-     Are not so glowing, not so fair.
-
-     “Then, Earl, why didst thou leave the beds
-     Where roses and where lilies vie,
-     To seek a primrose, whose pale shades
-     Must sicken when those gauds are by?
-
-     “‘Mong rural beauties I was one,
-     Among the fields wild flowers are fair;
-     Some country swain might me have won,
-     And thought my beauty passing rare.
-
-     “But, Leicester (or I much am wrong),
-     Or ‘tis not beauty lures thy vows;
-     Rather ambition’s gilded crown
-     Makes thee forget thy humble spouse.
-
-     “Then, Leicester, why, again I plead
-     (The injured surely may repine)--
-     Why didst thou wed a country maid,
-     When some fair princess might be thine?
-
-     “Why didst thou praise my hum’ble charms,
-     And, oh!  then leave them to decay?
-     Why didst thou win me to thy arms,
-     Then leave to mourn the livelong day?
-
-     “The village maidens of the plain
-     Salute me lowly as they go;
-     Envious they mark my silken train,
-     Nor think a Countess can have woe.
-
-     “The simple nymphs!  they little know
-     How far more happy’s their estate;
-     To smile for joy, than sigh for woe--
-     To be content, than to be great.
-
-     “How far less blest am I than them?
-     Daily to pine and waste with care!
-     Like the poor plant that, from its stem
-     Divided, feels the chilling air.
-
-     “Nor, cruel Earl!  can I enjoy
-     The humble charms of solitude;
-     Your minions proud my peace destroy,
-     By sullen frowns or pratings rude.
-
-     “Last night, as sad I chanced to stray,
-     The village death-bell smote my ear;
-     They wink’d aside, and seemed to say,
-     ‘Countess, prepare, thy end is near!’
-
-     “And now, while happy peasants sleep,
-     Here I sit lonely and forlorn;
-     No one to soothe me as I weep,
-     Save Philomel on yonder thorn.
-
-     “My spirits flag--my hopes decay--
-     Still that dread death-bell smites my ear;
-     And many a boding seems to say,
-     ‘Countess, prepare, thy end is near!’”
-
-     Thus sore and sad that lady grieved,
-     In Cumnor Hall, so lone and drear;
-     And many a heartfelt sigh she heaved,
-     And let fall many a bitter tear.
-
-     And ere the dawn of day appear’d,
-     In Cumnor Hall, so lone and drear,
-     Full many a piercing scream was heard,
-     And many a cry of mortal fear.
-
-     The death-bell thrice was heard to ring,
-     An aerial voice was heard to call,
-     And thrice the raven flapp’d its wing
-     Around the towers of Cumnor Hall.
-
-     The mastiff howl’d at village door,
-     The oaks were shatter’d on the green;
-     Woe was the hour--for never more
-     That hapless Countess e’er was seen!
-
-     And in that Manor now no more
-     Is cheerful feast and sprightly ball;
-     For ever since that dreary hour
-     Have spirits haunted Cumnor Hall.
-
-     The village maids, with fearful glance,
-     Avoid the ancient moss-grown wall;
-     Nor ever lead the merry dance,
-     Among the groves of Cumnor Hall.
-
-     Full many a traveller oft hath sigh’d,
-     And pensive wept the Countess’ fall,
-     As wand’ring onward they’ve espied
-     The haunted towers of Cumnor Hall.
-
-     ARBOTSFORD, 1st March 1831.
-
-
-
-
-
-KENILWORTH
-
-
-
-CHAPTER I.
-
 
      I am an innkeeper, and know my grounds,
      And study them; Brain o’ man, I study them.
@@ -983,7 +526,6 @@ intervening pledge.
 
 
 
-CHAPTER II.
 
 
      Talk you of young Master Lancelot? --MERCHANT OF VENICE.
@@ -1315,7 +857,6 @@ man in the morning.
 
 
 
-CHAPTER III.
 
 
      Nay, I’ll hold touch--the game shall be play’d out;
@@ -1768,7 +1309,6 @@ Lambourne, and the Black Bear.]
 
 
 
-CHAPTER IV.
 
 
      Not serve two masters?--Here’s a youth will try it--
@@ -2246,7 +1786,6 @@ may my sword melt like an icicle!”
 
 
 
-CHAPTER V.
 
 
      He was a man
@@ -2671,7 +2210,6 @@ apartment.
 
 
 
-CHAPTER VI.
 
 
      The dews of summer night did fall,
@@ -3204,7 +2742,6 @@ apartment.
 
 
 
-CHAPTER VII.
 
 
      “This is he
@@ -4222,7 +3759,6 @@ in his rank, rode proudly through the streets of Woodstock.
 
 
 
-CHAPTER VIII.
 
 HOST. I will hear you, Master Fenton; and I will, at the least, keep
 your counsel.--MERRY WIVES OF WINDSOR.
@@ -4675,7 +4211,6 @@ Place, he dismissed his guest to his solitary journey.
 
 
 
-CHAPTER IX.
 
 
      Far in the lane a lonely hut he found,
@@ -5110,7 +4645,6 @@ all the honey-comb himself on yesterday even.”
 
 
 
-CHAPTER X.
 
 
      There entering in, they found the goodman selfe
@@ -5520,7 +5054,6 @@ another chapter.
 
 
 
-CHAPTER XI.
 
 
      I say, my lord, can such a subtilty
@@ -6024,7 +5557,6 @@ called Lidcote Hall, on the frontiers of Devonshire.
 
 
 
-CHAPTER XII.
 
 
      Ah me!  the flower and blossom of your house,
@@ -6611,7 +6143,6 @@ domestic, travelled with the utmost speed towards London.
 
 
 
-CHAPTER XIII.
 
 
      Ay, I know you have arsenic,
@@ -6925,7 +6456,6 @@ gentlemen.
 
 
 
-CHAPTER XIV.
 
 
      This is rare news thou tell’st me, my good fellow;
@@ -7221,7 +6751,6 @@ uninterrupted.
 
 
 
-CHAPTER XV.
 
 
      You loggerheaded and unpolish’d grooms,
@@ -7876,7 +7405,6 @@ leaving doubt and apprehension behind.
 
 
 
-CHAPTER XVI.
 
 
      Then call them to our presence.  Face to face,
@@ -8655,7 +8183,6 @@ and sound policy in which neither man nor woman ever excelled her.
 
 
 
-CHAPTER XVII.
 
 
      Well, then--our course is chosen--spread the sail--
@@ -9477,7 +9004,6 @@ diet, and left Sayes Court without waiting for morning.
 
 
 
-CHAPTER XVIII.
 
 
      The moment comes--
@@ -10097,7 +9623,6 @@ save water--nothing save fair water.”
 
 
 
-CHAPTER XIX.
 
 
      PISTOL.  And tidings do I bring, and lucky joys,
@@ -10450,7 +9975,6 @@ thence up to Cumnor Place.
 
 
 
-CHAPTER XX.
 
 
      CLOWN. You have of these pedlars, that have more in’em than
@@ -10824,7 +10348,6 @@ service, in so far as consisted with his character of a publican.
 
 
 
-CHAPTER XXI.
 
 
      Vaulting ambition, that o’erleaps itself,
@@ -11140,7 +10663,6 @@ thy flanks. On, good horse, on--the devil urges us both forward!”
 
 
 
-CHAPTER XXII.
 
 
      Say that my beauty was but small,
@@ -11787,7 +11309,6 @@ their places of repose.
 
 
 
-CHAPTER XXIII.
 
 
      Now God be good to me in this wild pilgrimage!
@@ -12225,7 +11746,6 @@ continuing their pilgrimage with more speed and convenience.
 
 
 
-CHAPTER XXIV.
 
 
      RICHARD. A horse!--A horse!--my kingdom for a horse!
@@ -12750,7 +12270,6 @@ thither in safety, agreeably to her repeated commands.
 
 
 
-CHAPTER XXV.
 
 
      Hark, the bells summon, and the bugle calls,
@@ -13165,7 +12684,6 @@ magnificent abode of her almost princely husband.
 
 
 
-CHAPTER XXVI.
 
 
      SNUG.   Have you the lion’s part written?  pray, if it be, give
@@ -13453,7 +12971,6 @@ gayest revels.”
 
 
 
-CHAPTER XXVII.
 
 
      In my time I have seen a boy do wonders.
@@ -13805,7 +13322,6 @@ show she deserved thy noble attachment.”
 
 
 
-CHAPTER XXVIII.
 
 
      What, man, ne’er lack a draught, when the full can
@@ -13895,7 +13411,6 @@ that is another.”
 
 
 
-CHAPTER XXIX.
 
 
      Now fare thee well, my master--if true service
@@ -14266,7 +13781,6 @@ and no one can understand above one half of what he says.”
 
 
 
-CHAPTER XXX.
 
 
      Now bid the steeple rock--she comes, she comes!--
@@ -14730,7 +14244,6 @@ Badnall.]
 
 
 
-CHAPTER XXXI.
 
 
      Nay, this is matter for the month of March,
@@ -15119,7 +14632,6 @@ conviction of his friends that he was little better than a madman.
 
 
 
-CHAPTER XXXII.
 
 
      The wisest Sovereigns err like private men,
@@ -15614,7 +15126,6 @@ Furniture of Kenilworth.]
 
 
 
-CHAPTER XXXIII.
 
 
      Here stands the victim--there the proud betrayer,
@@ -15984,7 +15495,6 @@ propitiating an intercessor.
 
 
 
-CHAPTER XXXIV.
 
 
      Have you not seen the partridge quake,
@@ -16529,7 +16039,6 @@ Blount; we young knights must deserve our spurs.”
 
 
 
-CHAPTER XXXV.
 
 
      Sincerity,
@@ -16896,7 +16405,6 @@ Tower.
 
 
 
-CHAPTER XXXVI.
 
 
      I have said
@@ -17272,7 +16780,6 @@ himself, and went to attend his royal guest.
 
 
 
-CHAPTER XXXVII.
 
 
      You have displaced the mirth, broke the good meeting
@@ -17762,7 +17269,6 @@ Lord, I do desire some instant conference with you.”
 
 
 
-CHAPTER XXXVIII.
 
 
      How is’t with me, when every noise appals me?  --MACBETH.
@@ -18279,7 +17785,6 @@ expiring light found the way to his own apartment.
 
 
 
-CHAPTER XXXIX.
 
 
      Room!  room!  for my horse will wince
@@ -18681,7 +18186,6 @@ arrived at the Gallery-tower.
 
 
 
-CHAPTER XL.
 
 
      High o’er the eastern steep the sun is beaming,
@@ -19082,7 +18586,6 @@ name when those which they rode became unfit for service.
 
 
 
-CHAPTER XLI.
 
 
      The death-bell thrice was heard to ring,
@@ -20189,361 +19692,4 @@ Drummond’s Collection, but is evidently not of his composition:--
 
 
 
-
-End of the Project Gutenberg EBook of Kenilworth, by Sir Walter Scott
-
-*** END OF THIS PROJECT GUTENBERG EBOOK KENILWORTH ***
-
-***** This file should be named 1606-0.txt or 1606-0.zip ***** This
-and all associated files of various formats will be found in:
-http://www.gutenberg.org/1/6/0/1606/
-
-Produced by An Anonymous Volunteer and David Widger
-
-Updated editions will replace the previous one--the old editions will be
-renamed.
-
-Creating the works from public domain print editions means that no one
-owns a United States copyright in these works, so the Foundation (and
-you!) can copy and distribute it in the United States without permission
-and without paying copyright royalties. Special rules, set forth in
-the General Terms of Use part of this license, apply to copying and
-distributing Project Gutenberg-tm electronic works to protect the
-PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
-registered trademark, and may not be used if you charge for the eBooks,
-unless you receive specific permission. If you do not charge anything
-for copies of this eBook, complying with the rules is very easy. You
-may use this eBook for nearly any purpose such as creation of derivative
-works, reports, performances and research. They may be modified and
-printed and given away--you may do practically ANYTHING with public
-domain eBooks. Redistribution is subject to the trademark license,
-especially commercial redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE PLEASE READ THIS BEFORE YOU
-DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1. General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree
-to and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all the
-terms of this agreement, you must cease using and return or destroy all
-copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B. “Project Gutenberg” is a registered trademark. It may only be used
-on or associated in any way with an electronic work by people who agree
-to be bound by the terms of this agreement. There are a few things that
-you can do with most Project Gutenberg-tm electronic works even without
-complying with the full terms of this agreement. See paragraph 1.C
-below. There are a lot of things you can do with Project Gutenberg-tm
-electronic works if you follow the terms of this agreement and help
-preserve free future access to Project Gutenberg-tm electronic works.
-See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation (“the Foundation”
- or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works. Nearly all the individual works in
-the collection are in the public domain in the United States. If an
-individual work is in the public domain in the United States and you
-are located in the United States, we do not claim a right to prevent
-you from copying, distributing, performing, displaying or creating
-derivative works based on the work as long as all references to Project
-Gutenberg are removed. Of course, we hope that you will support the
-Project Gutenberg-tm mission of promoting free access to electronic
-works by freely sharing Project Gutenberg-tm works in compliance with
-the terms of this agreement for keeping the Project Gutenberg-tm name
-associated with the work. You can easily comply with the terms of this
-agreement by keeping this work in the same format with its attached
-full Project Gutenberg-tm License when you share it without charge with
-others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are in
-a constant state of change. If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing
-or creating derivative works based on this work or any other Project
-Gutenberg-tm work. The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase “Project Gutenberg” appears, or with which the phrase “Project
-Gutenberg” is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with almost
-no restrictions whatsoever. You may copy it, give it away or re-use
-it under the terms of the Project Gutenberg License included with this
-eBook or online at www.gutenberg.org
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges. If you are redistributing or providing access to a work with
-the phrase “Project Gutenberg” associated with or appearing on the work,
-you must comply either with the requirements of paragraphs 1.E.1 through
-1.E.7 or obtain permission for the use of the work and the Project
-Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder. Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute
-this electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form. However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other
-than “Plain Vanilla ASCII” or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original “Plain
-Vanilla ASCII” or other form. Any alternate format must include the full
-Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing access
-to or distributing Project Gutenberg-tm electronic works provided that
-
-- You pay a royalty fee of 20% of the gross profits you derive from the
-use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, “Information about donations to
-     the Project Gutenberg Literary Archive Foundation.”
-
-- You provide a full refund of any money paid by a user who notifies you
-in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set forth
-in this agreement, you must obtain permission in writing from both the
-Project Gutenberg Literary Archive Foundation and Michael Hart, the
-owner of the Project Gutenberg-tm trademark. Contact the Foundation as
-set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm collection.
-Despite these efforts, Project Gutenberg-tm electronic works, and the
-medium on which they may be stored, may contain “Defects,” such as, but
-not limited to, incomplete, inaccurate or corrupt data, transcription
-errors, a copyright or other intellectual property infringement, a
-defective or damaged disk or other medium, a computer virus, or computer
-codes that damage or cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal fees.
-YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY,
-BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN
-PARAGRAPH F3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND
-ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR
-ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES
-EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect
-in this electronic work within 90 days of receiving it, you can receive
-a refund of the money (if any) you paid for it by sending a written
-explanation to the person you received the work from. If you received
-the work on a physical medium, you must return the medium with your
-written explanation. The person or entity that provided you with the
-defective work may elect to provide a replacement copy in lieu of a
-refund. If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund. If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’ WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law. The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation,
-the trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers. It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm’s
-goals and ensuring that the Project Gutenberg-tm collection will remain
-freely available for generations to come. In 2001, the Project Gutenberg
-Literary Archive Foundation was created to provide a secure and
-permanent future for Project Gutenberg-tm and future generations. To
-learn more about the Project Gutenberg Literary Archive Foundation and
-how your efforts and donations can help, see Sections 3 and 4 and the
-Foundation web page at http://www.pglaf.org.
-
-
-Section 3. Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the state
-of Mississippi and granted tax exempt status by the Internal Revenue
-Service. The Foundation’s EIN or federal tax identification number
-is 64-6221541. Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising. Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state’s laws.
-
-The Foundation’s principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations. Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887,
-email business@pglaf.org. Email contact links and up to date contact
-information can be found at the Foundation’s web site and official page
-at http://pglaf.org
-
-For additional contact information: Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4. Information about Donations to the Project Gutenberg Literary
-Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide spread
-public support and donations to carry out its mission of increasing
-the number of public domain and licensed works that can be freely
-distributed in machine readable form accessible by the widest array
-of equipment including outdated equipment. Many small donations ($1 to
-$5,000) are particularly important to maintaining tax exempt status with
-the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular state
-visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make any
-statements concerning tax treatment of donations received from outside
-the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other ways
-including checks, online payments and credit card donations. To donate,
-please visit: http://pglaf.org/donate
-
-
-Section 5. General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone. For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S. unless
-a copyright notice is included. Thus, we do not necessarily keep eBooks
-in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm, including
-how to make donations to the Project Gutenberg Literary Archive
-Foundation, how to help produce our new eBooks, and how to subscribe to
-our email newsletter to hear about new eBooks.
 
