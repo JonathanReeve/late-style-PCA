@@ -36,7 +36,14 @@ The resulting tokenized text pieces are then analyzed for word frequency using t
 
 If this master table consists of 200 columns (one column per word), and each cell in the table contains the count for that word in a particular piece of a novel, then each of the columns in this table may be considered its own dimension. The table, then, exists in 200-dimensional space. This dimensionality is not very useful for human analysis, so a dimensionality reduction technique is needed in order to identify significant vectors (eigenvectors) in this high-dimensional space. This is the task of principal component analysis---it identifies n principal components, that is, significant vectors in this high-dimensional data set, mean-centers the data, and replots it along these dimensions so that it can be more readily understood by humans. In this case, the PCA algorithm is instructed to identify two principal components in the corpus, so that each piece of each novel will be represented by X and Y values that can be plotted on a simple two-dimensional Cartesian coordinate system. The result is a graphical representation of the similarity of the word frequency lists. Given the success of David Hoover and John Burrows’s experiments in sylometric PCA, these measures can therefore be called, with a reasonable degree of confidence, measures of the similarities of the novels’ styles. 
 
-Furthermore, a new metric is introduced here, $\Delta$, to measure the deviation of a text from the mean. $\Delta$, not to be confused with Burrows’s measurement Delta, represents the distance of a novel in PCA space from the mean of that author’s corpus. This is calculated, using the Pythagorean theorem, as $$\Delta(x,y) = \sqrt{x^2 + y^2}$$ where $x$ and $y$ are the coordinates of the text along the principal components, in mean-centered PCA space. A high $\Delta$ score represents the distinctiveness of the text, and a low $\Delta$ score represents how typical the text is to rest of the writer’s corpus. In short, the $\Delta$-score correlates approximately with distinctive style.
+We can quantify these measures by taking the $L_2$ norm, denoted $\|x\|_2$, and defined as
+
+$$\|x\|_2 = (\sum_i{|x_i|^2})^\frac{1}{p}$$
+
+where $x_i$ are the coordinates
+Furthermore, a new metric is introduced here, $\Delta$, to measure the deviation o^2}$$ where $x$ and $y$ are the coordinates of the text along the principal components, in mean-centered PCA space. A high $\Delta$ score represents the distinctiveness of the text, and a low $\Delta$ score represents how typical the text is to rest of the writer’s corpus. In short, the $\Delta$-score correlates approximately with distinctive style.
+
+
 
 #Results 
 

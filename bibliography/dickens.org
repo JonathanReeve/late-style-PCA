@@ -1,0 +1,17 @@
+| Title                                     | Year completed | Type                            |
+|-------------------------------------------+----------------+---------------------------------|
+| /[[/wiki/The_Pickwick_Papers][The Pickwick Papers]]/                     |           1837 | Novel                           |
+| /[[/wiki/Oliver_Twist][Oliver Twist]]/                            |           1839 | Novel                           |
+| /[[/wiki/Nicholas_Nickleby][Nicholas Nickleby]]/                       |           1839 | Novel                           |
+| /[[/wiki/The_Old_Curiosity_Shop][The Old Curiosity Shop]]/                  |           1841 | Novel                           |
+| /[[/wiki/Barnaby_Rudge][Barnaby Rudge]]/                           |           1841 | Novel                           |
+| /[[/wiki/Martin_Chuzzlewit][Martin Chuzzlewit]]/                       |           1844 | Novel                           |
+| /[[/wiki/Dombey_and_Son][Dombey and Son]]/                          |           1848 | Novel                           |
+| /[[/wiki/David_Copperfield][David Copperfield]]/                       |           1850 | Novel                           |
+| /[[/wiki/Bleak_House][Bleak House]]/                             |           1853 | Novel                           |
+| /[[/wiki/Hard_Times_(novel)][Hard Times]]/                              |           1854 | Novel                           |
+| /[[/wiki/Little_Dorrit][Little Dorrit]]/                           |           1857 | Novel                           |
+| /[[/wiki/A_Tale_of_Two_Cities][A Tale of Two Cities]]/                    |           1859 | Novel                           |
+| /[[/wiki/Great_Expectations][Great Expectations]]/                      |           1861 | Novel                           |
+| /[[/wiki/Our_Mutual_Friend][Our Mutual Friend]]/                       |           1865 | Novel                           |
+| /[[/wiki/The_Mystery_of_Edwin_Drood][The Mystery of Edwin Drood]]/              |           1870 | Novel (unfinished)              |
