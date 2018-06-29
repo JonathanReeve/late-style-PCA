@@ -9,7 +9,7 @@ A presentation from the Digital Humanities 2018 conference, showcasing some earl
 ## Contents
 
  - Single-author corpora used are in `/bibliography`. 
-   - `everyone.csv` contains the full corpus used for the larger "corpus B" analysis
+   - `everyone.csv` contains the full corpus used for the larger "corpus B" analysis, created using [Corpus-DB](http://corpus-db.org)
    - `late-style.bib` is a BibTeX file containing references to academic books and articles discussing late style. If you know of any others I'm missing, please let me know! And/or submit a pull request with the changes. 
  - `/paper` contains a very early draft of a paper, which discusses very preliminary results. Warning: this doesn't represent the current state of the project!
  - `late-style-PCA.ipynb` is the first attempt at this experiment, using a small, curated corpus. 
