@@ -1,14 +1,13 @@
-default: 
-	cat late-style-pca.md works-cited.md > late-style-pca-full.md
-	pandoc -o late-style-pca.pdf late-style-pca-full.md \
-		--pdf-engine=xelatex \
-		-V colorlinks \
-		-V mainfont='Linux Libertine O' \
+default:
+	pandoc -o late-style-pca.html late-style-pca.md \
+    --template=template.html \
 		--filter pandoc-crossref \
-		--filter pandoc-citeproc
-	xdg-open late-style-pca.pdf &
+		--filter pandoc-citeproc \
+    --mathjax \
+    --standalone
+	qutebrowser late-style-pca.html &
 
-mla: 
+mla:
 	cat late-style-pca.md works-cited.tex > late-style-pca-full.md
 	pandoc -o late-style-pca-mla.pdf late-style-pca-full.md \
 		-V colorlinks \
@@ -17,4 +16,3 @@ mla:
 		--filter pandoc-crossref \
 		--filter pandoc-citeproc
 	evince late-style-pca-mla.pdf &
-
