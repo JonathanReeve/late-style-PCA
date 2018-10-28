@@ -4,6 +4,7 @@ default:
 		--filter pandoc-crossref \
 		--filter pandoc-citeproc \
     --mathjax \
+    --number-sections \
     --standalone
 	qutebrowser late-style-pca.html &
 

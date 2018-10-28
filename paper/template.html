@@ -14,6 +14,19 @@ $if(keywords)$
   <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$" />
 $endif$
   <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
+  <script>
+      var Hyphenopoly = {
+        require: {
+            "en-us": "Supercalifragilisticexpialidocious"
+        },
+        setup: {
+            classnames: {
+                "container": {}
+            }
+        }
+      };
+  </script>
+  <script src="./Hyphenopoly/Hyphenopoly_Loader.js"></script>
   <style type="text/css">
       code{white-space: pre-wrap;}
       span.smallcaps{font-variant: small-caps;}
@@ -75,21 +88,29 @@ h1, h2, h3, h4, h5, h6, p {
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
   /* font-family: Verdana, Geneva, sans-serif; */
-  font-family: Scope One, serif;
   font-weight: 200;
 }
 
 h1 {
-  font-size: 2.35em; }
+  font-size: 1em;
+  font-weight: bold;
+   }
+
+h1.title {
+    font-size: 2em;
+}
 
 h2 {
-  font-size: 2.00em; }
+  font-size: 1em;
+  font-style: italic;
+   }
 
 h3 {
-  font-size: 1.75em; }
+  font-size: 1em;
+   }
 
 h4 {
-  font-size: 1.5em; }
+  font-size: 1em; }
 
 h5 {
   font-size: 1.25em; }
@@ -119,9 +140,19 @@ li {
 
 blockquote {
   font-style: italic;
-  margin-left: 1.5em;
-  padding-left: 1em;
-  border-left: 3px solid #2c8898; }
+  margin: 0.4em 0;
+  padding: 0;
+  font-size: 0.86em;
+}
+
+p {
+  text-indent: 0;
+  margin: 0;
+}
+
+p + p, blockquote + p {
+  text-indent: 2em;
+}
 
 img {
   max-width: 100%; }
@@ -229,7 +260,7 @@ $for(header-includes)$
   $header-includes$
 $endfor$
 </head>
-<body>
+<body lang="en-us" class="hyphenate">
 $for(include-before)$
 $include-before$
 $endfor$
